@@ -2,140 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e447fb67-36c7-4ec4-8e61-8f915d6f1eed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/BIG2GBK.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/BIG5.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/BIG5.wordlist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/BiWord.big" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/CETrans.dict" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/CodeTrans.model" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/CoreDict.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/CoreDict.pos" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/CoreDict.unig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Dict.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Dict.wordlist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/DocExtractor.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/English/English.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/English/English.pos" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/English/English.ung" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/English/English.wordlist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/English/Irrel2regular.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/English/ne.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/English/ne.pos" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/English/ne.wordlist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/FieldDict.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/FieldDict.pos" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GBK.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GBK.wordlist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GBK2BIG.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GBK2GBKC.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GBK2UTF.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GBKA.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GBKA.wordlist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GBKA2UTF.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GBKC.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GBKC.wordlist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GBKC2GBK.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GranDict.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/GranDict.pos" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/ICTCLAS30.ctx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/KeyBlackList.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/License.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/NLPIR.ctx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/NewWord.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/UTF2GBK.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/UTF2GBKA.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/UTF8.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/UTF8.wordlist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/UserDefinedDict.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/charset.type" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/location.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/location.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/location.wordlist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/nr.ctx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/nr.fsa" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/nr.role" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/sentiment.pdat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/sentiment.ung" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/sentiment.wordlist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/stop.ung" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/production/LJAll_cluster_java/com/fanchen/CLUSTERLauncher.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/production/LJAll_cluster_java/com/fanchen/ClusterThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/production/LJAll_cluster_java/com/fanchen/cluster/ClibraryCluster.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/production/LJAll_cluster_java/com/fanchen/fileutil/FileOperateUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/production/LJAll_cluster_java/com/fanchen/fileutil/OSinfo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/production/LJAll_cluster_java/com/fanchen/fileutil/ReadConfigUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/production/LJAll_cluster_java/com/fanchen/fileutil/fileTranscoding.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/production/LJAll_cluster_java/com/fanchen/sqliteutil/ISQLite.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/production/LJAll_cluster_java/com/fanchen/sqliteutil/SQLiteImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/production/LJAll_cluster_java/com/fanchen/xmlutil/XmlReader2DOM.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/test/LJAll_cluster_java/com/fanchen/cluster/ClusterTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/test/LJAll_cluster_java/com/fanchen/sqliteutil/SQLiteTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/test/LJAll_cluster_java/com/fanchen/xmlutil/XmlReader2DOMTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/sample.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/dom4j-1.6.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jna-4.0.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/log4j-1.2.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/microduo-commons-1.2.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sqlite-jdbc-3.7.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/win64/LJCluster.dll" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/LJAll_cluster_java.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170423.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CLUSTER.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CLUSTER.log.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/20141105.err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/20141105.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/20141115.err" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Configure.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/Data.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/DocExtractor.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/ICTCLAS2011.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/ICTCLAS_First.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/ICTPOS.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/JZSearch.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/LJDupRemover.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/LJHtmlParser.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/LJRedupRemover.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/NLPIR.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/NLPIR_First.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/NLPIR_trial.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/PKU.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/PKU_First.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/classifier.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/cluster.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/deepclassifier.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/keyExtract.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/lingjoin.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/sentiment.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/summary.user" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data/userfilterword.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/production/LJAll_cluster_java/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/production/LJAll_cluster_java/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fanchen/CLUSTERLauncher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fanchen/ClusterThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fanchen/cluster/ClibraryCluster.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fanchen/fileutil/FileOperateUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fanchen/fileutil/OSinfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fanchen/fileutil/ReadConfigUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fanchen/fileutil/fileTranscoding.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fanchen/sqliteutil/ISQLite.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fanchen/sqliteutil/SQLiteImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/fanchen/xmlutil/XmlReader2DOM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/resources/log4j.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/com/fanchen/cluster/ClusterTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/com/fanchen/sqliteutil/SQLiteTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/com/fanchen/xmlutil/XmlReader2DOMTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/out_EmperorQin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/text1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/text2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/text3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tratin140826" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -162,38 +30,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="108">
+                <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="20170423.log" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20170423.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CLUSTER.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CLUSTER.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CLUSTER.log.1" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CLUSTER.log.1">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tratin140826" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tratin140826">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -310,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/com/lingjoin/xmlutil/XmlReader2DOM.java" />
         <option value="$PROJECT_DIR$/src/com/lingjoin/CLUSTERLauncher.java" />
         <option value="$PROJECT_DIR$/src/com/fanchen/CLUSTERLauncher.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -999,7 +851,7 @@
       <option name="presentableId" value="Default" />
       <updated>1492859916847</updated>
       <workItem from="1492859921121" duration="16781000" />
-      <workItem from="1492879878308" duration="19440000" />
+      <workItem from="1492879878308" duration="20087000" />
     </task>
     <servers />
   </component>
@@ -1036,10 +888,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36221000" />
+    <option name="totallyTimeSpent" value="36868000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1472,16 +1324,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/fanchen/CLUSTERLauncher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20170423.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1506,22 +1348,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tratin140826">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/fanchen/CLUSTERLauncher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="108">
+            <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
