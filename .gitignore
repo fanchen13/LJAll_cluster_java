@@ -1,0 +1,7 @@
+.idea
+.settings
+bin
+test
+*.log
+*.log.*
+tratin140826
