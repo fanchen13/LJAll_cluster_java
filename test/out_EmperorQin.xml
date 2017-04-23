@@ -4,2624 +4,2625 @@
 <clusnum>261</clusnum>
 
 <clus id="0">
-	<feature> 记录 看好 长安 工科 汉中 区间 是不是 同桌 </feature>
-	<docs num="41">
-		<doc>af8197a4-591d-4a88-8d5d-c550b9c2d636</doc>
-		<doc>41eecae2-12af-4e50-b4d0-54607b085e7d</doc>
-		<doc>03dd1575-de1f-4e07-8805-8781419a7272</doc>
-		<doc>0797bca6-dd30-4ebe-8088-539ebe3c00ba</doc>
-		<doc>0ab7fe9e-4912-4c3a-8513-18a60c94d12f</doc>
-		<doc>0ba93834-9896-416a-b8fe-3bad017cfbd2</doc>
-		<doc>0f5b45a6-9b38-4c8b-b976-7624a84dcfbb</doc>
-		<doc>0f8c9a52-0471-4f16-8968-df0e2ea58ca0</doc>
-		<doc>162de430-c099-4a90-af34-d21e973cd335</doc>
-		<doc>1a50bd17-4337-430d-9095-e1e14bc0ea7c</doc>
-		<doc>4564d0de-0fd0-4910-8aff-5dcffe66bf9e</doc>
-		<doc>24a32fe8-258b-475f-90eb-3fa9a6e6ff2d</doc>
-		<doc>4c5c4d9d-e47e-4add-b2e3-7ac0c58115f2</doc>
-		<doc>3494615a-2535-4119-b710-8909ac9dc49e</doc>
-		<doc>37d539ab-00e9-4d7b-a350-a67411076939</doc>
-		<doc>53ebc38f-22ee-4e43-acce-ba310ae996bf</doc>
-		<doc>7a5123f6-ccc3-4417-82dd-3e6e149ab772</doc>
-		<doc>88fd6727-78b6-4c4f-ab22-33bfc5b9e7e0</doc>
-		<doc>9bf3d9bb-b463-4139-ad95-7cc5315249e6</doc>
-		<doc>a82215ed-1480-44e5-a387-1d06863c6faa</doc>
-		<doc>b41615f6-e17c-4abc-a59e-23711f8809c3</doc>
-		<doc>b6fc0b6d-15c6-4bff-bde8-927eeb50cc73</doc>
-		<doc>b8e69db1-f7c7-447a-9004-eec27bc806e6</doc>
-		<doc>0a5ec52c-e209-4a21-b0db-b2a0609608a2</doc>
-		<doc>0c0ebdd3-3cd3-4bfc-8201-66a1ed16a64d</doc>
-		<doc>1df89668-9e96-431f-9071-edc74a89c479</doc>
-		<doc>93962e6c-4d63-4f87-aae2-2a727658307b</doc>
-		<doc>a242cf5d-459f-4ff9-a1a2-9fd7a0bdbb5c</doc>
-		<doc>bbb54e0a-be62-4f75-a6a6-e6ee6b8513bc</doc>
-		<doc>bc3f175b-293f-4819-a496-7a1725589c85</doc>
-		<doc>cc79db93-80e1-4cf2-af18-50d3cbb1217a</doc>
-		<doc>d2b7c9be-77ab-4753-8897-137885099e43</doc>
-		<doc>0132cec8-aaa7-4cd0-b748-cb1483d012b9</doc>
-		<doc>1e52fa56-7fb4-4898-a85d-6ffab2741747</doc>
-		<doc>a2ef9354-e41a-4135-9fec-25e2ba466d57</doc>
-		<doc>302b6ab0-c768-41fa-9355-f89ffc7700bd</doc>
-		<doc>c1f00a83-b191-4500-a796-fda1ee7bc97d</doc>
-		<doc>50b52d94-d074-4cfb-8966-451b3d601d0e</doc>
-		<doc>97fc44ad-11e6-401a-a495-23dd2ee9e4b3</doc>
-		<doc>d7df0c47-4470-4ba9-8944-7b564461fa0a</doc>
-		<doc>e6cd6e0b-5ea3-4bab-ac78-220d668c0b93</doc>
+	<feature> 记录 看好 是不是 同桌 选项 意思 自动化 霸 </feature>
+	<docs num="43">
+		<doc>106f6070-b8ae-4d95-b82f-61476db717f1</doc>
+		<doc>edf71fa0-29af-407c-872b-b0173e986855</doc>
+		<doc>3a4c94b1-2e37-42a2-aa96-d774525ba12e</doc>
+		<doc>0c2d6b10-5043-4975-bcf8-19f03176ba44</doc>
+		<doc>8c5e5ced-f579-4e1e-8997-216c0fb6b166</doc>
+		<doc>1eeb93a2-2b70-4ffd-9d78-3e09ac143bb9</doc>
+		<doc>a8d5e69b-0cdf-4303-a53d-d464fb527eb6</doc>
+		<doc>76fd68bb-a444-4faa-a1dc-153193f77cff</doc>
+		<doc>3761be3e-b096-4763-ae22-a5f46b81efe2</doc>
+		<doc>383f3feb-de39-4f6a-b727-81beb87bccff</doc>
+		<doc>387eeb0a-e933-4dde-93df-644f03bede6b</doc>
+		<doc>6fd60826-4ad8-4051-946a-e4c4371943bc</doc>
+		<doc>9f2c3ee2-8b0e-405d-b702-d69a395c7a15</doc>
+		<doc>47525478-643b-40b0-bffc-e0854366f2c7</doc>
+		<doc>96af098f-c138-49e4-aa47-6048dc352071</doc>
+		<doc>4f3ec5ff-7e4e-467d-ae22-834c6dd83968</doc>
+		<doc>b258c98b-16f7-4073-af35-396053ff6c39</doc>
+		<doc>bb638829-95c0-4099-81ba-9e3066fc0525</doc>
+		<doc>d41ed058-4675-4a4e-a011-4b5cc00be823</doc>
+		<doc>ec61cd42-9551-421f-a776-60f29db67c5e</doc>
+		<doc>f5b32206-2433-4133-a2c5-771c64fe242a</doc>
+		<doc>0009a78d-ff48-4824-9e59-ad2ec02cffe7</doc>
+		<doc>9f7cb1b6-1b48-4e74-9318-76ba8ae2ceeb</doc>
+		<doc>65f26d06-2c98-40d3-b931-31c44f16e84d</doc>
+		<doc>1beda7e3-17ad-4c25-82cd-36f1c6ed3e03</doc>
+		<doc>2efe649a-279a-4038-9e3c-8db04f5ace74</doc>
+		<doc>23bc7783-3af5-4c91-a642-996185b4c9b7</doc>
+		<doc>e6ab70d7-38ba-486e-b584-e7c3d3d5030e</doc>
+		<doc>e8804772-0071-4541-a8cf-bcad41ac4f40</doc>
+		<doc>6a143f1c-878d-434b-a0af-6c4d34a6848c</doc>
+		<doc>6c9d36bd-e684-4aad-a281-e5379d45944c</doc>
+		<doc>73fd5208-c88f-4c42-b2ed-12b32f85764d</doc>
+		<doc>f6f08449-8ba4-4152-9b74-1dd444000b00</doc>
+		<doc>fceea235-eff6-4d95-9733-c88ab20ff108</doc>
+		<doc>c6c40a3d-cff6-4c9a-892e-5299a969f8f6</doc>
+		<doc>d32b31ba-0781-449f-8e42-b155de41e364</doc>
+		<doc>491c7a51-a010-416e-bbd8-ac4163fe3408</doc>
+		<doc>f5f48d1f-770e-4ab3-9938-aa43cc22623a</doc>
+		<doc>4729f6db-efe2-49fa-bc41-6883ddf64ca4</doc>
+		<doc>fb92d187-0577-4d01-abb8-23513e420195</doc>
+		<doc>5fa13b3e-0629-42d5-b901-d2bb0f762452</doc>
+		<doc>febd234c-ea4d-42e3-87fe-87c343a0d29b</doc>
+		<doc>fef62992-814e-45b7-ba97-88d92c40ecbc</doc>
 	</docs>
 </clus>
 
 <clus id="1">
 	<feature>宏福 本部 沙河 果园 称道 久违 可怕 貌似 目测 </feature>
 	<docs num="29">
-		<doc>4530ea8b-e55c-4bfa-8870-4266b483c3bd</doc>
-		<doc>13730e46-cdf2-44f9-827f-4943de55ae7a</doc>
-		<doc>e9521e3e-3869-4726-8f31-c74ca4a5c3fc</doc>
-		<doc>12e8cac8-f13c-4c2a-9046-8c5a4d5a497c</doc>
-		<doc>20be2854-2062-4dc5-a2f9-c32f23817993</doc>
-		<doc>38b6fe11-ee5c-4cbf-afcd-ac5049c9dda7</doc>
-		<doc>882e9e7a-d10f-4fe8-9235-ec7455e41773</doc>
-		<doc>8a2350f8-31b9-4abf-bb18-1daae61546d6</doc>
-		<doc>aef65591-1e8b-4d58-a964-a3a0138d43e5</doc>
-		<doc>bdd98fe5-a53d-4515-83d2-7a98ad0e7b37</doc>
-		<doc>e0f163f5-4852-4233-9888-aac11cefdcab</doc>
-		<doc>1833925d-a02d-4427-b43c-71239be855c0</doc>
-		<doc>2009dd41-de58-4cca-a372-7a1a05c4f1f5</doc>
-		<doc>2115b42c-06f0-458f-b320-0ecaa83a53dc</doc>
-		<doc>2985b15f-e609-43da-acf8-a857725a6ed7</doc>
-		<doc>2ad43c69-957f-4794-971f-04af24ec5e3c</doc>
-		<doc>47d0b43c-a983-49b7-b28e-dbd0e0f49dc4</doc>
-		<doc>505cb400-31e0-4713-b0f4-d1bbbf884c28</doc>
-		<doc>58b70b60-555f-4f98-a1f9-dd6032f39d97</doc>
-		<doc>6c3114f8-fa0e-48f5-aad8-1f1e98af6668</doc>
-		<doc>6e0b2e4c-89a1-447f-9771-e81e87a3f7c8</doc>
-		<doc>73bda0e7-cf7d-4792-a2b8-7bd12eeea666</doc>
-		<doc>7bc7312a-75a4-485a-a39b-cbc6a488582d</doc>
-		<doc>866b90c3-443f-4507-b316-7c395fdd287f</doc>
-		<doc>a784a66c-467e-4b1f-ac61-96fb5e25c760</doc>
-		<doc>cb6a36c7-b1d4-4ca0-b8f1-ed124f32b831</doc>
-		<doc>d46a4caf-f790-4f2c-990b-51f90c62f6bb</doc>
-		<doc>ef8dda18-af7d-4394-9631-198efaef69de</doc>
-		<doc>f58d1e41-f95a-4d83-844e-fcce57f3d966</doc>
+		<doc>315fda9c-a02f-42ce-bc24-eae6953aa3ab</doc>
+		<doc>1f5c11b4-a907-4f32-b3a1-9679c9f5b6f5</doc>
+		<doc>35db9c41-0cd7-4e3c-8c9a-45da91bee6d2</doc>
+		<doc>0159a05c-8cc9-4877-96e7-1d7a4272a106</doc>
+		<doc>3b5e0916-09d6-4e67-ba73-d441634d54e4</doc>
+		<doc>8bb34fb9-b4a9-4f30-bd55-2b5fa3ef0290</doc>
+		<doc>ac1889b5-712d-4956-832f-ad9c9c316f3d</doc>
+		<doc>ba3e7b90-000a-4d3f-ac32-e5f5a2eb6fbf</doc>
+		<doc>cffb2846-bce6-4fbd-b8a1-4a81a5362029</doc>
+		<doc>d26edc8c-c972-4ad1-84f8-dba204597730</doc>
+		<doc>dbf710c4-2db4-40d2-87f9-990d456c9f55</doc>
+		<doc>054d72f2-c202-4a1d-89b0-aa21901dec1d</doc>
+		<doc>0b80e944-862b-4367-ad59-3c3d5a3cd392</doc>
+		<doc>0f847805-2f6d-425b-afad-4af3c388f8f4</doc>
+		<doc>13c856e9-294d-4857-a5a9-f1febbb39f9c</doc>
+		<doc>2919a666-1214-4558-82bd-b867096c418d</doc>
+		<doc>296c41cd-b1f1-4cc0-8e17-26d5f7571daa</doc>
+		<doc>33268d2b-904a-4f77-9a09-85150b8faa3b</doc>
+		<doc>3c439a6c-c949-4fcd-8b6c-43a299d2b058</doc>
+		<doc>610d721c-e233-415a-8874-135268789db8</doc>
+		<doc>75ebd37d-899a-49cb-88e1-ba90c396c348</doc>
+		<doc>7e052a2f-9db9-49fe-b1b5-c477e8fd8b49</doc>
+		<doc>8519306f-2f66-4fa8-a12a-dba5b32c5262</doc>
+		<doc>882b2bea-9307-4a0a-a823-5c533ca87f82</doc>
+		<doc>9d9c438e-726c-44fb-b351-2e0531b94090</doc>
+		<doc>ade1bbd8-81e5-4b83-ae16-a1bd8fcf4abe</doc>
+		<doc>c2179c49-8d03-4052-b41b-222845b65168</doc>
+		<doc>ccf57cac-2547-4fc2-83c6-0ca76e8ea0cc</doc>
+		<doc>e394b1e7-a9f1-4530-be31-ac7bd20086a2</doc>
 	</docs>
 </clus>
 
 <clus id="2">
 	<feature>冯怡晨 李莎 王泰安 订金 刘芯 刘洋 吕紫薇 齐恒 石高强 </feature>
 	<docs num="28">
-		<doc>71fa7c25-14ea-4ce8-b587-cb95acfd4a6c</doc>
-		<doc>95f4f793-7710-4024-bbdc-12495e262419</doc>
-		<doc>aee04ff4-f9fd-4e84-881b-a0c5dfba0966</doc>
-		<doc>c797eeb3-58ea-4423-bed6-5d680ee7d588</doc>
-		<doc>6434b209-1d32-42d5-88bc-9621d9abd2ac</doc>
-		<doc>abe983da-512f-4e61-8fb1-f1d6dd711a35</doc>
-		<doc>f6afd9a4-bd8e-47ad-802b-2c0bae78510b</doc>
-		<doc>02ac9b24-7169-41ae-a0d5-91488551aef4</doc>
-		<doc>00331646-a9a4-40ae-8798-781b857f2f85</doc>
-		<doc>0bb9ee9c-756c-479d-ae56-dc82910c0134</doc>
-		<doc>12828c0e-2239-49cd-ba6c-0c308b795cce</doc>
-		<doc>27ec3d60-2426-43ba-98c0-47c5f0839193</doc>
-		<doc>35c12d1c-33b6-4b45-a219-546a4c0b9cb6</doc>
-		<doc>50cce2da-e6d7-49ce-9780-3dc2c55bb7ff</doc>
-		<doc>5a8448f1-9707-410c-b143-eef35c75b14f</doc>
-		<doc>606cb812-7188-4cc2-ade3-38cc7b8ec68c</doc>
-		<doc>65ce0468-8c2c-40eb-9c43-1ce297d03401</doc>
-		<doc>6f932c1b-36f7-4af1-b368-cce0dbe64a6f</doc>
-		<doc>79566963-529a-4bdf-a2ff-00a2c3af1fe0</doc>
-		<doc>79c22e84-ee50-4e6a-8c6f-e72a8489ec05</doc>
-		<doc>7d1ad1f8-6ea9-4009-984f-d1f999c3a6b9</doc>
-		<doc>ade257cb-16bf-47df-9439-7ff550786700</doc>
-		<doc>ae24a7ad-8cca-412d-aa1c-6fd56131521e</doc>
-		<doc>b490af6f-c275-4f30-bec1-cb78c21b1237</doc>
-		<doc>b5b51819-d065-45dc-9679-ca4d8e73df67</doc>
-		<doc>d35ca00c-6443-49de-b45d-e84148c7f9cd</doc>
-		<doc>d475a908-35d7-4831-a82f-ce7c5341c928</doc>
-		<doc>e9cb09a2-68b0-4c36-b7a4-ecfc60500ade</doc>
+		<doc>4a02ac5f-117a-4dc1-98d5-727a61fe827d</doc>
+		<doc>51f0ae52-7ccb-4cf1-8d8c-ecf8550e8bdb</doc>
+		<doc>65bc3170-0759-4744-a9e3-82c1e21b7758</doc>
+		<doc>74fcfa72-5f41-4a08-aafc-4fd74fd87931</doc>
+		<doc>7be27dff-a71e-4498-95fc-6a7d3b83e1ae</doc>
+		<doc>58d37c5f-6644-4a21-bdc7-5f1046714f60</doc>
+		<doc>e03584a4-6def-4fa3-bdf9-663c42bb92c9</doc>
+		<doc>8b3e1483-fc94-4384-9168-3a0988e322f1</doc>
+		<doc>01014803-8f2d-4f40-8c85-92e4196b3dd0</doc>
+		<doc>09c1b7bb-db2a-4c5f-b465-e077df86d377</doc>
+		<doc>0fa6ab86-a51c-47a1-98fe-f0304fc0ae93</doc>
+		<doc>191dc499-183e-40e0-b28a-628ce89ebc20</doc>
+		<doc>31a84364-615d-4727-8f73-1c20309a90bf</doc>
+		<doc>3c4a1652-deff-4792-b728-2988f5373192</doc>
+		<doc>4cc93c94-c576-4935-a184-aa5cfbe91dc1</doc>
+		<doc>580cfa2a-ce4e-4338-96e5-e2fbabd3cd20</doc>
+		<doc>5bb587c0-ada3-47fa-adac-0dd223865459</doc>
+		<doc>7141e4a1-11f2-4e71-9808-88d118d3cef8</doc>
+		<doc>73fc3bcb-8968-4d47-961f-781bfdf48945</doc>
+		<doc>7b70c4fc-885f-4bde-a91f-9662249a295f</doc>
+		<doc>979a6d91-6dd4-4826-8c83-c5a7261e448a</doc>
+		<doc>9f6ce969-aca2-4815-9592-1dc3f5259be8</doc>
+		<doc>c00c9acf-7bc9-4dfe-bf60-6cfd90a5643e</doc>
+		<doc>c1566d32-349b-4305-9adb-467c591ca80c</doc>
+		<doc>d23d698e-5feb-4b50-be09-a02916200b80</doc>
+		<doc>f1a88686-8f3a-484f-9124-0d5bbe6cbe75</doc>
+		<doc>f986caa5-d0e6-4ae5-8ef0-d3670278bbfd</doc>
+		<doc>fdc73d69-bf44-4d05-b6e9-6aa00d0d937a</doc>
 	</docs>
 </clus>
 
 <clus id="3">
 	<feature>刘洋 王龙 王泰安 王梓 妹子 学长 帮帮 打入 倒是 </feature>
 	<docs num="27">
-		<doc>6434b209-1d32-42d5-88bc-9621d9abd2ac</doc>
-		<doc>95f4f793-7710-4024-bbdc-12495e262419</doc>
-		<doc>390ede62-ef89-4d1a-aa79-d29d89ccd545</doc>
-		<doc>c6fcfa79-fe7e-456c-b5f0-eb4bcde43a32</doc>
-		<doc>00c99cd1-56b6-4eb7-a1b4-0035e699b46e</doc>
-		<doc>1af2aecf-87b6-4208-a6b6-420669ff0d12</doc>
-		<doc>21c218ab-4037-4291-bc85-7b224d8a3840</doc>
-		<doc>2a462db5-e942-46c7-89f3-a81609370c6d</doc>
-		<doc>360f746f-d116-4b5b-8535-853e3b4d2a9c</doc>
-		<doc>cd647a56-f52b-4e64-9189-612cf8d77209</doc>
-		<doc>cfba9112-b5ce-4aa8-ae90-f2cc186546e7</doc>
-		<doc>f14e19d4-93ba-443f-bbc7-379f6ba4cddc</doc>
-		<doc>15b2eca8-8f7e-4b0c-9943-c33dfc3d6742</doc>
-		<doc>1bdf9dcc-c310-45d0-a510-2ede351558f9</doc>
-		<doc>1d71dafe-60fa-44d4-bb70-ee4359e7ea2b</doc>
-		<doc>4618f531-7c64-45a4-bbb4-4a6d372e443f</doc>
-		<doc>60a3ff8b-32ef-4456-a2f4-a778d4c4ac1a</doc>
-		<doc>6e6d429a-6a19-4abd-8343-9e6f94bfe3ad</doc>
-		<doc>7c36f3f1-dd22-4761-ac24-1e24ec9cf85f</doc>
-		<doc>9396f531-b9f0-4064-93fc-04b804930886</doc>
-		<doc>a5713f37-123a-4353-ba7c-51181b3e0b45</doc>
-		<doc>ca7001d6-d6e0-4080-bc71-04b2a2ff3f8a</doc>
-		<doc>d6e58c5e-6913-4ec2-b4f4-af8d594cff1c</doc>
-		<doc>d6f866ce-5031-444e-a1a1-a554789779b4</doc>
-		<doc>da691f5e-1890-4a45-9303-6e4e63b56b98</doc>
-		<doc>f3515abe-3ecf-45e9-85a5-be1b1955d0fd</doc>
-		<doc>f4fe5923-6bb2-4e09-8876-69426753a5db</doc>
+		<doc>74fcfa72-5f41-4a08-aafc-4fd74fd87931</doc>
+		<doc>7be27dff-a71e-4498-95fc-6a7d3b83e1ae</doc>
+		<doc>20987599-2e7b-4214-8ded-87a377821209</doc>
+		<doc>3aba43fa-3c4f-441e-b20e-d61cebe83342</doc>
+		<doc>11afff50-9585-486a-acbb-718132eef974</doc>
+		<doc>139175ee-e698-440a-a7c1-ee73fa65e944</doc>
+		<doc>2c3a8f7c-63ce-4bb9-81bb-fac8ea5b2a9d</doc>
+		<doc>2e60c31a-5005-4b69-b881-39babea51b30</doc>
+		<doc>47e7fb80-4bfd-4070-846c-70817308d3bf</doc>
+		<doc>b36535db-7398-430e-adf3-389d94258528</doc>
+		<doc>d04cc00a-ddeb-4585-b49b-67d3a6eb3513</doc>
+		<doc>da9a5712-48b5-4f90-8522-9a2b6d5bfb6b</doc>
+		<doc>1a426508-b551-4141-b201-d5bfae6020d6</doc>
+		<doc>6b6ec4d9-d7d3-49d6-9772-22185e948d54</doc>
+		<doc>7fe2ac13-df9d-4555-ac89-6e9f924e5f56</doc>
+		<doc>8b79d2ec-f72c-4b54-81de-b5bb42267a63</doc>
+		<doc>8ff19587-367d-4ca7-ad5a-2d7d5618b7aa</doc>
+		<doc>9672eea6-2129-4dcd-adc3-dc9a593a7edf</doc>
+		<doc>98e44dff-5044-402c-a405-85d1865fd5ab</doc>
+		<doc>9d64548c-8a39-46b6-9221-f050fb23d4fc</doc>
+		<doc>9d893eb9-3c15-485d-b069-bcd608868cde</doc>
+		<doc>a645c37d-0f06-474f-aef3-f52d10fcd69f</doc>
+		<doc>a734a316-6df7-49c2-95d0-3b61d8575d09</doc>
+		<doc>be06490f-e7e6-499d-81ac-ff8257ba3221</doc>
+		<doc>d928ba7f-2919-423d-b642-0cc24493a812</doc>
+		<doc>f4a090a6-9689-47a8-a81c-e0fcb4e50eb6</doc>
+		<doc>fd47e926-deba-43ea-bfb8-15bc451424bc</doc>
 	</docs>
 </clus>
 
 <clus id="4">
-	<feature>凉皮 好吃 楼上 北京 吃饭 汉中 花生 交道口 惊呆 </feature>
+	<feature>凉皮 好吃 楼下 楼上 北京 吃饭 汉中 花生 交道口 </feature>
 	<docs num="26">
-		<doc>18799400-ce3a-4ce1-935f-a08e12eb3c71</doc>
-		<doc>7b937e9a-e0d0-4197-8bf3-2e69bdeeeef7</doc>
-		<doc>c7a753a8-b9a4-4498-be6d-ae30eb4e3469</doc>
-		<doc>0d2f0366-2517-4c58-ba55-f5044274fc9d</doc>
-		<doc>32655a61-609e-4156-befd-27bd85617153</doc>
-		<doc>666b808a-6715-4bd4-a2a2-7b2c99ec6437</doc>
-		<doc>6af470f2-3376-41c3-93d8-ce5f606f3f6c</doc>
-		<doc>76895a73-a925-4fc4-92ed-1bd0d026084b</doc>
-		<doc>a5adff4a-bf4a-4114-a057-e5330ac1fbf5</doc>
-		<doc>b3423e09-776b-463a-8188-41e474be6f28</doc>
-		<doc>e4ad6d02-66d2-4e6b-b4d5-ed793d4ceb1d</doc>
-		<doc>0319fd52-651d-47cd-81d9-141e3888b884</doc>
-		<doc>1a676663-e934-4dcb-8911-dc66343c21f1</doc>
-		<doc>39f9cfef-78c1-4282-a8ad-42b5122b9b40</doc>
-		<doc>473aae3b-636f-4e6f-93ee-c321e8a3220e</doc>
-		<doc>54f61887-9012-4d1e-9b7e-9d0de49ecc1c</doc>
-		<doc>7708ad21-dc48-44d7-a93e-dd21e0ab8843</doc>
-		<doc>8279230a-5504-4a00-93f6-79b273617558</doc>
-		<doc>91f8d35d-4c17-4611-a781-bf967152e9f2</doc>
-		<doc>9dc71d61-5e71-4850-8f41-7547576498e4</doc>
-		<doc>acc27834-b4ca-47d6-be04-dfa59e4b8beb</doc>
-		<doc>cf4ccc41-bee7-45c7-a67b-d9c199bae110</doc>
-		<doc>e047e5e1-2a56-42d9-b382-1347e8ea41cd</doc>
-		<doc>e216a461-16b9-43ed-a2ea-3e33372c79b1</doc>
-		<doc>e8bf134d-2a80-4b54-bdda-c2cfd43c62a8</doc>
-		<doc>fd2d7119-253f-4991-b70e-a7c1f939fb4e</doc>
+		<doc>04fcbda4-14dc-4c8b-aefe-d39b14429867</doc>
+		<doc>31417b95-93f9-4a99-9fea-4050d6d1493f</doc>
+		<doc>3241e5fd-df89-495e-8d29-c59e8323c88e</doc>
+		<doc>b1506fcf-546f-4738-8dcc-71cd2a738f89</doc>
+		<doc>09dffa2d-fd9e-43d3-800f-69a28a63f701</doc>
+		<doc>58301261-ec21-4665-957e-23e747f4da45</doc>
+		<doc>90c26655-3294-4b29-931c-760e690a8277</doc>
+		<doc>b64e7327-9df6-44c4-bd5b-21a5c0617609</doc>
+		<doc>c2ba92f5-0f6f-4645-b6c5-3094dfa678df</doc>
+		<doc>db318e56-e561-4ff8-bd0d-6d942b0c55ca</doc>
+		<doc>e7bc6834-71fc-4411-bd62-de2b08df4c0f</doc>
+		<doc>04b0caae-0f6d-41da-856d-2c86d938624c</doc>
+		<doc>0802e947-002a-42d5-bfa4-49da45de3ff3</doc>
+		<doc>32321634-fe4b-4013-8175-88a39e909d87</doc>
+		<doc>39c220de-da48-43da-b9b3-1b5d91a3b380</doc>
+		<doc>51949f89-1ee9-4578-9bf9-a451f6bac999</doc>
+		<doc>715c1347-3885-4541-9f87-5b7b0f056dd1</doc>
+		<doc>95878133-6ee1-4829-abc7-8a7f2cfe60e7</doc>
+		<doc>99524d61-8443-43de-bc1e-06da75aa2d50</doc>
+		<doc>a3c66f43-3abc-4518-9017-25bc551fc414</doc>
+		<doc>a51c38a1-583f-4691-89a8-92c16d57db8d</doc>
+		<doc>cdaf9afb-0ba0-4f21-8e62-84c6d1da1f58</doc>
+		<doc>d1fbc5ff-c753-4ad6-b6a3-f6b45f18f247</doc>
+		<doc>d339e96c-faad-43e5-b939-5b1adf4767d0</doc>
+		<doc>d55b497e-eedb-495f-b901-52c9102bcb46</doc>
+		<doc>f87238bf-b9a2-4fda-93aa-57487aa67d82</doc>
 	</docs>
 </clus>
 
 <clus id="5">
-	<feature>敬业福 吱口令复制 手机 惦记 动手 多余 发奖 挂念 过年 </feature>
+	<feature>敬业福 吱口令复制 动手指头 福里面 领到奖金 尼玛 年终大奖 齐福 抢福 </feature>
 	<docs num="24">
-		<doc>2c1cfbab-a933-4dfe-add3-7cbd6ce84b1d</doc>
-		<doc>8aaa4f56-dfa5-4913-bac3-5e9d48d33cc4</doc>
-		<doc>8d252fc0-aecf-4fc6-8ea1-cdb374985603</doc>
-		<doc>b831ed8c-959d-4ae9-8494-df5f815e66c8</doc>
-		<doc>c3ea4e5a-cafb-40ff-948e-79115467cc4d</doc>
-		<doc>cc4228d9-c1f5-4d10-bcef-5ff06bc013c3</doc>
-		<doc>e6696275-1f12-4acb-9e8a-418b55a5490e</doc>
-		<doc>02ec5aa9-754f-41b7-bba7-9b34a88bec8e</doc>
-		<doc>17ef9d9c-9dc0-4c23-869f-6c96aa8eeea8</doc>
-		<doc>3b55f36e-7299-4544-b3e0-679ff66ad071</doc>
-		<doc>3d035f8e-2025-44a1-8a08-203bd57e6890</doc>
-		<doc>40ce6fc3-d14d-4266-aa0e-e1603a43c7b9</doc>
-		<doc>64f4886c-0987-45db-8aef-25ca7728f3fd</doc>
-		<doc>7a557fad-8057-4851-bd38-e917af837a5b</doc>
-		<doc>7ffb6aa2-d9e6-4698-a466-70975d7b85ef</doc>
-		<doc>8f4fcf9f-f1e5-4414-a6da-133da501023b</doc>
-		<doc>90e46dba-bddc-46f6-87c7-db1d05bf8709</doc>
-		<doc>92d878ad-9092-4502-9e04-b6e682da4abe</doc>
-		<doc>a5166eec-9c18-4690-a45d-69daa3c151e5</doc>
-		<doc>ce4efc64-5c36-451a-b9de-2ff2be1b15fa</doc>
-		<doc>ee30043f-76af-4725-99de-6dd2ef7db9f7</doc>
-		<doc>fa0288b9-3fdc-4679-bb39-54174014d928</doc>
-		<doc>fa4afec7-51ea-40d2-903c-0741b173183a</doc>
-		<doc>fada2459-8b52-466b-8746-0d8458a425ab</doc>
+		<doc>c493d9b7-78c9-49b4-a5b1-94920d54f396</doc>
+		<doc>f63fc961-ae41-44a8-81b0-bac6b4d10137</doc>
+		<doc>57200918-68ce-482f-be91-629344b7b95a</doc>
+		<doc>d094269a-48ac-455b-bbea-f8123a749b96</doc>
+		<doc>f8b4fc38-9d87-4f25-bf9e-545d3495a909</doc>
+		<doc>0b53690f-fa3d-41e3-98af-53f40fe6cf08</doc>
+		<doc>2ed2def9-b830-4163-9724-0ace5312ec40</doc>
+		<doc>39d9965f-bfb9-46fa-8d18-77527b297b21</doc>
+		<doc>3a3aa828-07ff-4bce-acff-94c559a7ce4c</doc>
+		<doc>4e25c8f0-ffb6-41a5-8c42-92cfde628ae2</doc>
+		<doc>609732da-c519-4781-9133-7a2fe731a1ce</doc>
+		<doc>6aab059c-4aea-4f5f-aedf-7bb0b8ca5366</doc>
+		<doc>6ce0f77d-087e-46db-97a5-f576cf5a8f68</doc>
+		<doc>83be7cba-1ecb-49f0-bd70-89e319461182</doc>
+		<doc>988f9f90-369c-4af5-a6fd-ee45d45a837f</doc>
+		<doc>9e94abe1-511a-485f-ab2e-8916e2347ff5</doc>
+		<doc>a09d01d3-0b75-422e-91c2-a9dd5704fbc1</doc>
+		<doc>a2d06366-6311-4f45-aba9-912980383f5b</doc>
+		<doc>a9bb3945-4960-4874-bd54-b8024c65b743</doc>
+		<doc>d57cfcde-dd7f-4fb2-85e0-4558e28aa6cd</doc>
+		<doc>e9c276be-472f-4234-9e69-4a6b5ca17a49</doc>
+		<doc>eb63eed1-2de2-4b80-a165-66944518bd4c</doc>
+		<doc>eb81d80e-830b-4c73-9341-640f47bd8ad1</doc>
+		<doc>ec829d21-4912-40a4-a652-acf7f1c8f2b2</doc>
 	</docs>
 </clus>
 
 <clus id="6">
-	<feature>怡晨 冯怡晨 订金 定金 红包 餐厅 宝宝 报名 板斧 本部 </feature>
+	<feature>怡晨 冯怡晨 订金 定金 红包 餐厅 板斧 宝宝 报名 本部 </feature>
 	<docs num="21">
-		<doc>abe983da-512f-4e61-8fb1-f1d6dd711a35</doc>
-		<doc>f6afd9a4-bd8e-47ad-802b-2c0bae78510b</doc>
-		<doc>35c12d1c-33b6-4b45-a219-546a4c0b9cb6</doc>
-		<doc>79c22e84-ee50-4e6a-8c6f-e72a8489ec05</doc>
-		<doc>ade257cb-16bf-47df-9439-7ff550786700</doc>
-		<doc>b5b51819-d065-45dc-9679-ca4d8e73df67</doc>
-		<doc>b9da208d-b42f-4db3-9a82-a5066da7a580</doc>
-		<doc>00331646-a9a4-40ae-8798-781b857f2f85</doc>
-		<doc>0bb9ee9c-756c-479d-ae56-dc82910c0134</doc>
-		<doc>12828c0e-2239-49cd-ba6c-0c308b795cce</doc>
-		<doc>50cce2da-e6d7-49ce-9780-3dc2c55bb7ff</doc>
-		<doc>5a8448f1-9707-410c-b143-eef35c75b14f</doc>
-		<doc>606cb812-7188-4cc2-ade3-38cc7b8ec68c</doc>
-		<doc>65ce0468-8c2c-40eb-9c43-1ce297d03401</doc>
-		<doc>6f932c1b-36f7-4af1-b368-cce0dbe64a6f</doc>
-		<doc>79566963-529a-4bdf-a2ff-00a2c3af1fe0</doc>
-		<doc>7d1ad1f8-6ea9-4009-984f-d1f999c3a6b9</doc>
-		<doc>ae24a7ad-8cca-412d-aa1c-6fd56131521e</doc>
-		<doc>b490af6f-c275-4f30-bec1-cb78c21b1237</doc>
-		<doc>d35ca00c-6443-49de-b45d-e84148c7f9cd</doc>
-		<doc>e9cb09a2-68b0-4c36-b7a4-ecfc60500ade</doc>
+		<doc>58d37c5f-6644-4a21-bdc7-5f1046714f60</doc>
+		<doc>e03584a4-6def-4fa3-bdf9-663c42bb92c9</doc>
+		<doc>01014803-8f2d-4f40-8c85-92e4196b3dd0</doc>
+		<doc>4cc93c94-c576-4935-a184-aa5cfbe91dc1</doc>
+		<doc>7141e4a1-11f2-4e71-9808-88d118d3cef8</doc>
+		<doc>c1566d32-349b-4305-9adb-467c591ca80c</doc>
+		<doc>f822f6ba-9754-41bb-99c7-6855c207bb36</doc>
+		<doc>09c1b7bb-db2a-4c5f-b465-e077df86d377</doc>
+		<doc>0fa6ab86-a51c-47a1-98fe-f0304fc0ae93</doc>
+		<doc>191dc499-183e-40e0-b28a-628ce89ebc20</doc>
+		<doc>31a84364-615d-4727-8f73-1c20309a90bf</doc>
+		<doc>3c4a1652-deff-4792-b728-2988f5373192</doc>
+		<doc>580cfa2a-ce4e-4338-96e5-e2fbabd3cd20</doc>
+		<doc>5bb587c0-ada3-47fa-adac-0dd223865459</doc>
+		<doc>73fc3bcb-8968-4d47-961f-781bfdf48945</doc>
+		<doc>979a6d91-6dd4-4826-8c83-c5a7261e448a</doc>
+		<doc>9f6ce969-aca2-4815-9592-1dc3f5259be8</doc>
+		<doc>c00c9acf-7bc9-4dfe-bf60-6cfd90a5643e</doc>
+		<doc>d23d698e-5feb-4b50-be09-a02916200b80</doc>
+		<doc>f1a88686-8f3a-484f-9124-0d5bbe6cbe75</doc>
+		<doc>f986caa5-d0e6-4ae5-8ef0-d3670278bbfd</doc>
 	</docs>
 </clus>
 
 <clus id="7">
-	<feature>妹纸 征友 陕西 帮忙 复试 交代 板斧 舅舅 老实 </feature>
+	<feature>妹纸 征友 陕西 帮忙 调戏 复试 交代 问问 要约 </feature>
 	<docs num="20">
-		<doc>086f0f0b-6795-44b0-baa8-2ba5c87a031f</doc>
-		<doc>6fc827c8-4f26-42e5-963c-ef46a98819d2</doc>
-		<doc>9d424e17-2cdb-44df-ac81-1557e52459f9</doc>
-		<doc>2c697bf9-fbb8-48cf-8c20-d05360f10967</doc>
-		<doc>7cdabc64-77f4-4a52-b9c3-b467a8cc6128</doc>
-		<doc>7e31439d-451b-49a4-8d70-977f6bff3ab2</doc>
-		<doc>f4e24c35-beb8-487b-b1f4-2e3ff0af1f93</doc>
-		<doc>068c1569-5f00-4d5a-a535-143b7dc7458c</doc>
-		<doc>0e9082f5-10dc-4ee6-a5d6-34cfe2ad8421</doc>
-		<doc>17357ac4-666d-4eb2-92a6-4de2a11b1d20</doc>
-		<doc>4880cc53-f773-485b-a368-0e13b0160f62</doc>
-		<doc>550f3c0b-9bff-4370-b5cb-ae1cfdcb54ab</doc>
-		<doc>5c0549f6-d0b6-4f71-b2cd-dae9d2a3c477</doc>
-		<doc>5d023fb8-c87b-4937-abe1-8b8f534e7ade</doc>
-		<doc>5faf67c0-6892-4989-9c7a-76cd46d892be</doc>
-		<doc>8e5aced6-8b90-404f-9e3e-f52d9163a2cc</doc>
-		<doc>9b631eff-45d6-4805-ac97-08e574c81fb0</doc>
-		<doc>a78ceb45-9f46-4cbb-b214-d477c6bd73a2</doc>
-		<doc>ad10bac9-1bcf-470c-857e-343d67b775f1</doc>
-		<doc>cbe5d962-c564-4420-b996-1cfd500e8a98</doc>
+		<doc>63333e3a-fa6b-4216-b479-215d51c3d590</doc>
+		<doc>f99997c1-5b65-4f29-8eb1-706720cdb67d</doc>
+		<doc>ffdff798-0157-4ede-bb6a-d7eca73c5152</doc>
+		<doc>0ebfe110-5e53-47c7-acfe-750c6e17642e</doc>
+		<doc>1289dd2d-3b35-46e9-831f-6fcb48850f76</doc>
+		<doc>addafc09-feb7-4e90-b1c2-d50a3dadc7fe</doc>
+		<doc>f12fc61c-3f80-42d0-9676-e49d11b6a164</doc>
+		<doc>10c76ebd-2707-41e5-851a-ed464384e15f</doc>
+		<doc>24e8717d-f876-443c-b38d-e25df0c9d786</doc>
+		<doc>4c675bac-c85f-4d2e-9b19-8f8d3104ab90</doc>
+		<doc>8b90d7a0-d25c-4c0a-b6a6-62b597b82872</doc>
+		<doc>a0e66981-1df0-489a-86a6-8bb491ecc73d</doc>
+		<doc>a2aa3377-2e54-4467-aacc-e1f72518a519</doc>
+		<doc>ad07593c-fc09-413c-b3af-96f6b1deaea9</doc>
+		<doc>ae4cb356-534a-4bf2-83f5-b0cbd79a03fd</doc>
+		<doc>b97d76b7-c382-471b-84d0-0cd0b90ffff7</doc>
+		<doc>d14ea4e8-8929-4efc-ad74-33a42a5cd5d0</doc>
+		<doc>e0f0d9a4-12a5-4f24-87d5-aa6b862fa8bc</doc>
+		<doc>e70ab512-5f39-4b18-9d29-0bcb39857953</doc>
+		<doc>ffc42f08-12b2-4fc0-aad9-ecbdd791afc2</doc>
 	</docs>
 </clus>
 
 <clus id="8">
 	<feature>赵丹 刘芯 吕紫薇 齐恒 石高强 王泰安 王梓 徐琦 冯怡晨 </feature>
 	<docs num="19">
-		<doc>71fa7c25-14ea-4ce8-b587-cb95acfd4a6c</doc>
-		<doc>aee04ff4-f9fd-4e84-881b-a0c5dfba0966</doc>
-		<doc>c797eeb3-58ea-4423-bed6-5d680ee7d588</doc>
-		<doc>07618377-e109-4868-b11b-f94ad174bd35</doc>
-		<doc>1c131ad8-a20b-48fe-a659-1dd9e3ce9ece</doc>
-		<doc>33a043a9-a677-4573-a9f8-ef080d20bb8a</doc>
-		<doc>44a56be1-260e-4971-85aa-207104e8e7cf</doc>
-		<doc>5db55730-820c-4a44-80c2-c14e0c6ab254</doc>
-		<doc>633cf07c-aa62-4d4f-aa97-ff97455aa0b1</doc>
-		<doc>637fa340-c5d3-4ea8-8613-cfa879688de9</doc>
-		<doc>64fd883b-7dc7-4524-8c00-30fa731a2b28</doc>
-		<doc>6512e82b-a58a-432c-8106-47ecf5aacf2b</doc>
-		<doc>753df2a8-5120-446f-9c40-24b50da4b2e7</doc>
-		<doc>aa75f379-6a3d-472e-9f5e-a54be2019135</doc>
-		<doc>b6e19f27-43c2-44bc-8154-72db2e4ad128</doc>
-		<doc>c65f12e2-2ebe-4fbb-b68d-9d18386199cc</doc>
-		<doc>e6508e29-b9d9-4dc7-a96f-f8f330b53656</doc>
-		<doc>eb24f154-4f17-449e-b8b1-2ae1b6306b43</doc>
-		<doc>fbb1a151-2a44-4d85-a4e6-b72d4b843142</doc>
+		<doc>4a02ac5f-117a-4dc1-98d5-727a61fe827d</doc>
+		<doc>51f0ae52-7ccb-4cf1-8d8c-ecf8550e8bdb</doc>
+		<doc>65bc3170-0759-4744-a9e3-82c1e21b7758</doc>
+		<doc>0d6d13e6-b027-465b-85be-e35837235cde</doc>
+		<doc>363d0d52-ef73-4769-855b-e13af16e0560</doc>
+		<doc>42db7d30-2ffb-479b-a0a7-a080b531cc55</doc>
+		<doc>4c921976-256c-4a07-8410-69107d7d62bb</doc>
+		<doc>5563e8d4-84d0-4fd6-9455-4b13babc8849</doc>
+		<doc>580f5bd3-e1c6-4a8e-bcf7-a54994df2d46</doc>
+		<doc>58245057-1d3e-4276-83e4-367aab93d684</doc>
+		<doc>6d210138-7a57-46d9-8169-fe0159ff8c87</doc>
+		<doc>80a2c20c-299a-47fa-af2b-72fb89eb66e3</doc>
+		<doc>a488767c-3cc4-4f60-bbb5-f8b9ddcf9735</doc>
+		<doc>a910637b-ca0f-4392-880d-eca5a4e63410</doc>
+		<doc>b56863d0-2544-4aad-a531-90058bed6be5</doc>
+		<doc>b5930cdb-bf68-4310-9c19-9a3ce5597afe</doc>
+		<doc>e149024c-7ac9-4926-a820-78071d32e204</doc>
+		<doc>e553d12a-b901-4461-b605-97c82c101ac9</doc>
+		<doc>ff3d25ce-381b-41c4-8e00-06e2948c8cb3</doc>
 	</docs>
 </clus>
 
 <clus id="9">
 	<feature>卧槽 汉中 土豪 羡慕 槽群 卧 </feature>
 	<docs num="17">
-		<doc>13fe9247-e36f-4048-a0af-723757f02ac7</doc>
-		<doc>1e8bbeee-1d80-4c7f-8ae5-6f26722003b8</doc>
-		<doc>707103d4-3eb5-4562-af7d-985816a8a77e</doc>
-		<doc>858023be-f187-421c-9870-02f25932bf3c</doc>
-		<doc>ab2aabcf-aab4-4ab6-80e6-48745b67e951</doc>
-		<doc>03eb2cac-145f-4eb6-a084-a69dae6636d3</doc>
-		<doc>2856392b-a1fd-4aa7-be19-f68a43363ab6</doc>
-		<doc>3db06de5-903d-4705-8d32-c1ab8dacd105</doc>
-		<doc>50817bc5-fe6c-4240-872f-83f6485d799d</doc>
-		<doc>75181f59-9c60-4e34-a97c-1edef56d7d5a</doc>
-		<doc>7d6a847a-09d5-4842-947b-c2aee8ef7baa</doc>
-		<doc>905f83ce-ee24-4e2d-aaff-492faad2ac9b</doc>
-		<doc>daa72df6-a75d-4d07-991d-2af8dd4ed985</doc>
-		<doc>dd9a5f49-3da1-4db5-afc4-f9d5b26ba217</doc>
-		<doc>df9765e7-9934-4be6-abd5-1edde0e976c3</doc>
-		<doc>e01e0211-8f3c-43ff-9980-8cd18d0ff3a3</doc>
-		<doc>e506972a-ae21-4586-8085-638948834b0d</doc>
+		<doc>02a6bb73-702b-4c28-a4c8-29419bb18ef9</doc>
+		<doc>79383401-6903-4d5c-ad45-5472b4d48267</doc>
+		<doc>9c940d9a-50f1-4217-b89b-00509d95d2b4</doc>
+		<doc>b517695f-8f8e-4d68-96e8-20ff66495845</doc>
+		<doc>e30a4e81-df48-4200-b98e-e61ca5c0f410</doc>
+		<doc>01bf3d99-9a2c-470c-8e48-0e56b36d2c59</doc>
+		<doc>09df8383-8d86-4552-b499-bff031767467</doc>
+		<doc>115d6207-eab1-4320-89dd-49087bfe5a8d</doc>
+		<doc>1a6cc338-6fac-45c5-bb5a-a778cabeb347</doc>
+		<doc>1e8d0dd6-e704-4792-ac17-6d8ec4a991e6</doc>
+		<doc>23f0329a-a804-4ec0-84e4-c114fd57650c</doc>
+		<doc>77376702-ba0b-4088-88d4-38d0cf2ea78c</doc>
+		<doc>e9300f5c-35bb-4a06-a681-199ff887f41c</doc>
+		<doc>ebb3fec5-b83d-4d63-9641-a453888c4ac5</doc>
+		<doc>f08cd99f-035e-43c1-9a0e-2b61e121f160</doc>
+		<doc>f7d0b459-3dbb-4f20-a856-626cfccc4b86</doc>
+		<doc>fc6545cb-ebac-425e-b58b-dd137717f618</doc>
 	</docs>
 </clus>
 
 <clus id="10">
 	<feature>导员 厉害 陕西 说辞 小雨 学校 充磁 保卫 报名 </feature>
 	<docs num="15">
-		<doc>39b2cb1a-340b-4bd5-822c-da0350c200e3</doc>
-		<doc>8f6bc587-4f6d-4a05-a2cb-66e226cc05c5</doc>
-		<doc>b218e091-1cc5-4332-b36d-6d550fb826ae</doc>
-		<doc>36535386-5cd7-4cbd-a213-9f43888b8c8c</doc>
-		<doc>69a2ea9e-0c36-49a6-ab3c-84688fa2b74d</doc>
-		<doc>8fb336e5-c647-4341-8f7a-49837aff2696</doc>
-		<doc>b436a7c7-a3f9-4acd-bd0c-c477c8e50834</doc>
-		<doc>0bd5eff5-611e-4118-aed7-d55a0cd47965</doc>
-		<doc>1022a5dc-8e1e-4ea2-94f0-7c0bf6bc7e20</doc>
-		<doc>2a867569-c206-4ca5-97c0-9c6dd0364ed8</doc>
-		<doc>58601943-47a0-4036-9fbb-07084027b157</doc>
-		<doc>b0f46c94-7d60-45b7-b615-eb5fec002a0a</doc>
-		<doc>b61bc0e5-9988-4bda-8c6e-d5b6f95386e8</doc>
-		<doc>c02d5df9-04cc-4f56-a56a-e428914d451c</doc>
-		<doc>e828c00c-be15-4413-8fef-eda70d3178c3</doc>
+		<doc>bce35339-41b9-4184-ae69-568f8eac2b20</doc>
+		<doc>7453b4cd-eb45-41cf-ad7c-08bd5b02a9b8</doc>
+		<doc>ec7f9095-8675-4398-b385-5e779157a014</doc>
+		<doc>6b5faa58-fa4d-4720-b52e-3ca3e5122e91</doc>
+		<doc>7ea5ae02-2630-4b02-bccc-1bed489d0538</doc>
+		<doc>cf1020fe-f6a6-4ea5-b391-148a095e8c45</doc>
+		<doc>dd87be1d-f6c6-4878-b446-a40320af6c65</doc>
+		<doc>1f7cbea8-b6ac-496f-a27f-6e33944c3c9e</doc>
+		<doc>636363f6-3aca-44a9-a35c-f15a87a4d372</doc>
+		<doc>a1bd0d8f-2855-488c-ba72-4c9998c19816</doc>
+		<doc>b97cf13c-96e4-49e0-b9cb-720df6b6f20b</doc>
+		<doc>d2b61f8e-aee0-44d4-b40d-b454afb622e0</doc>
+		<doc>e10d2c5f-e52a-45cc-a904-522fd44e78c4</doc>
+		<doc>eeb843b0-37af-49cf-8202-6fabf8ea4095</doc>
+		<doc>f216f92d-2346-4730-a9bb-ad4c5f5f0fca</doc>
 	</docs>
 </clus>
 
 <clus id="11">
 	<feature>雾霾 口罩 乌鸦 爆炸 北京 必读 锻炼 粉尘 过敏 </feature>
 	<docs num="12">
-		<doc>745e6c99-6dea-4c15-bf1e-75798a6063a8</doc>
-		<doc>aa9cf6c2-6597-4100-93e9-4718086ab38c</doc>
-		<doc>237301fb-52e0-4038-998e-196f8afb75e6</doc>
-		<doc>29c411b2-10ef-4620-83f3-4ea87e62e8c4</doc>
-		<doc>76091eeb-f858-4b35-8430-2f5e89c86578</doc>
-		<doc>d19959cd-96c9-44b8-ae1c-87a96120c1aa</doc>
-		<doc>eecf76ae-8396-4565-a68b-e261bf4f9248</doc>
-		<doc>0a9e4fc2-8400-4ef9-8154-ac5f62bc9178</doc>
-		<doc>5a6e4d9b-92fa-4193-951a-077812b94473</doc>
-		<doc>cf4acbd0-f862-4578-9a41-7bceb8cede94</doc>
-		<doc>dfbc0f91-7a5d-4ab7-ad11-5049793bff8a</doc>
-		<doc>fdeabe7d-5f1d-4d57-bb24-2cda4b3382b9</doc>
+		<doc>2ff19bc0-99f3-4223-a5a5-9141c52e1338</doc>
+		<doc>6e36ec71-dbe5-41bf-9e9c-af8c1010d038</doc>
+		<doc>029bd226-2d36-4c48-a35b-5df8df43cd54</doc>
+		<doc>1efa0878-3313-494f-ab00-4135f584b7ae</doc>
+		<doc>5ab410f9-3175-4714-8674-8fbc35d6194a</doc>
+		<doc>82cc1d60-5be5-466c-b45c-28ca46cd9d6e</doc>
+		<doc>b69da921-82a9-4e83-901b-ac630819bfcb</doc>
+		<doc>67bd6b3e-6517-45c1-91f7-781baa62f85e</doc>
+		<doc>8cbecef9-44e5-468a-a6ac-4cc8db994335</doc>
+		<doc>c36c1da3-aa3e-4bb1-a356-a4d4de6b88d3</doc>
+		<doc>e812ad81-5c5c-4b15-aa30-0f016e3fc674</doc>
+		<doc>f6fe1739-8c09-4830-9437-8a7305c7ecc1</doc>
 	</docs>
 </clus>
 
 <clus id="12">
 	<feature>理工 北京 电气 西安 硬件 传媒 实习生 团队 百分 </feature>
 	<docs num="12">
-		<doc>f1115938-5ff8-4816-9599-be1f212d5c75</doc>
-		<doc>11068e1d-9064-464c-9974-6418c219027a</doc>
-		<doc>f77f73e4-2ead-4e59-bb5f-96f3df778971</doc>
-		<doc>4f17a2e0-6d5d-4b34-9281-68c7ec9d24fb</doc>
-		<doc>9413bdb8-f4b1-4449-9437-140bee52520e</doc>
-		<doc>952ffc4a-7ab0-4439-b3f2-614b79297d9f</doc>
-		<doc>9e74aec8-7376-42cf-b727-304481af1249</doc>
-		<doc>027bdd55-137e-47bf-9629-35ffe848788f</doc>
-		<doc>391facba-afee-4cd1-a783-57f5181e6a13</doc>
-		<doc>6a9b3507-a274-48aa-bc6a-d3c0e293e15d</doc>
-		<doc>8f5de2d8-d564-4720-a078-1d03898a4e8a</doc>
-		<doc>c7fc609b-ffb5-44f1-b743-3f09bb9cd6a7</doc>
+		<doc>b92d2ddf-e971-4c91-bd4f-15d41b66a435</doc>
+		<doc>2ad22078-2d34-4bef-b385-22b138fcc6a4</doc>
+		<doc>9bc7fd94-6afc-4b44-b9b3-54ded4cc981a</doc>
+		<doc>965dded6-6727-4f1f-bd0d-98470dd787c1</doc>
+		<doc>9c118ce3-475f-4602-9a08-a7e3d75ecbe1</doc>
+		<doc>a4283963-6ddd-47da-a7ef-6b86f229bce8</doc>
+		<doc>a57a1911-12d3-4506-908d-4323fee5e2e2</doc>
+		<doc>06039ea0-5453-42db-9b83-f5efd0a35ac3</doc>
+		<doc>0c5fa9c9-33ea-45b5-bfb2-ce91e439d8d1</doc>
+		<doc>572c0334-82a2-44bb-a8ef-df0737a18032</doc>
+		<doc>81df343c-5367-4c91-b6c9-9ab153ee37b0</doc>
+		<doc>ec727856-41fb-4d55-aa0e-628c6932ed4c</doc>
 	</docs>
 </clus>
 
 <clus id="13">
 	<feature>征友 妹纸 小伙伴 帮忙 师兄 实验室 王道 群主 研一 </feature>
 	<docs num="11">
-		<doc>9d424e17-2cdb-44df-ac81-1557e52459f9</doc>
-		<doc>f4e24c35-beb8-487b-b1f4-2e3ff0af1f93</doc>
-		<doc>c35b2f90-242d-4bbc-8e40-92560233b1c0</doc>
-		<doc>3413dfde-2834-4a7b-b66b-928f27bb25c9</doc>
-		<doc>34eb3994-2332-494e-9979-070c6c54a7b4</doc>
-		<doc>61bc0698-d3be-46f6-9400-3ce17a44a855</doc>
-		<doc>11e20ea6-b279-4745-bd32-4be8ad88ac7f</doc>
-		<doc>75b701c4-439a-4339-978d-9686c6ce1a99</doc>
-		<doc>8de7885f-eb19-4622-ba0f-063679bca1d8</doc>
-		<doc>a9d781ba-3b56-4f84-b818-94765211aaf7</doc>
-		<doc>e03a585b-3291-403b-8b3d-f0062cfd1d1a</doc>
+		<doc>1289dd2d-3b35-46e9-831f-6fcb48850f76</doc>
+		<doc>63333e3a-fa6b-4216-b479-215d51c3d590</doc>
+		<doc>952c7908-6a00-4ef8-803a-33718e2ec36a</doc>
+		<doc>6ec2d383-c63a-49b5-b2d4-bbde71af16b4</doc>
+		<doc>ef163afb-50e9-4706-9411-441dc4926367</doc>
+		<doc>f9e42925-87ac-4039-b4fe-32b61147ad97</doc>
+		<doc>3e5bea8c-1769-4922-9e65-f9fbc18445e9</doc>
+		<doc>74e28062-dfd5-4511-b543-b9171f3d79e6</doc>
+		<doc>945f8a5d-22c0-4939-a2bd-21f7949642ae</doc>
+		<doc>b0e7178c-fa23-40a8-8e74-d2f0f4e2cad4</doc>
+		<doc>e8ee3f49-7345-4b02-b23f-dbd541d101ab</doc>
 	</docs>
 </clus>
 
 <clus id="14">
-	<feature>吱口令 集五福 富强 和谐 友善 敬业福 口令复制 拷贝 宝集 </feature>
+	<feature>吱口令 集五福 富强 和谐 友善 敬业福 口令复制 宝集 拷贝 </feature>
 	<docs num="11">
-		<doc>66c1ae84-dec9-4de4-bf9e-4c63f62986e3</doc>
-		<doc>e6696275-1f12-4acb-9e8a-418b55a5490e</doc>
-		<doc>15eb7a3c-362f-4c19-a29c-b2a7c6bfceda</doc>
-		<doc>201fb1fe-b153-4412-b625-63b00c5d0b45</doc>
-		<doc>822165ea-ef6e-44d2-9751-886a948118ff</doc>
-		<doc>8aaa4f56-dfa5-4913-bac3-5e9d48d33cc4</doc>
-		<doc>a9979065-edb8-400f-b3b0-a2c0800ba9fb</doc>
-		<doc>b328dbb3-9e9e-48b0-82bb-64856df59c04</doc>
-		<doc>b831ed8c-959d-4ae9-8494-df5f815e66c8</doc>
-		<doc>c3deb057-b320-4d80-9cd3-8b8ca6c1f742</doc>
-		<doc>3797ca4a-4268-41fb-b164-990fb41c9035</doc>
+		<doc>763dbbe0-acfb-4639-bd72-68c4df0933c7</doc>
+		<doc>f8b4fc38-9d87-4f25-bf9e-545d3495a909</doc>
+		<doc>0ea1669b-ac01-45c7-a94f-52b8f2f3c210</doc>
+		<doc>57200918-68ce-482f-be91-629344b7b95a</doc>
+		<doc>9ab5778e-db08-4aed-91cb-7735c5087a92</doc>
+		<doc>d094269a-48ac-455b-bbea-f8123a749b96</doc>
+		<doc>dd3bbef9-bd5b-4f65-b469-8a09a4cf4f76</doc>
+		<doc>de101bbe-c8fd-4f7f-a44f-060219da03bb</doc>
+		<doc>e3712226-ccf4-4a7a-b211-64305fc8ce81</doc>
+		<doc>e549d4cd-19b4-4160-8939-d252a8307a74</doc>
+		<doc>6c6a1bc2-dba7-4286-937f-68f7f2d2bd95</doc>
 	</docs>
 </clus>
 
 <clus id="15">
 	<feature>吐槽 玲玲 玲依依 红包 沉默 大哥 都会 咕咚 火车票 </feature>
 	<docs num="11">
-		<doc>c72a67ad-a04d-406d-8686-715e9d7f2308</doc>
-		<doc>bdecd29d-1f43-41f4-acbb-28f06f1d0b26</doc>
-		<doc>17cf7c5c-b88b-4b1d-b675-df1de7c52f89</doc>
-		<doc>2af34dc6-9d1e-4bf4-80b2-cb1d5ccf6c5a</doc>
-		<doc>9cf4282a-f97f-4156-a0ae-cf61d44121cf</doc>
-		<doc>e4d64b70-aada-4d36-b8a8-58a52806663d</doc>
-		<doc>15ca273e-b2b3-4052-a52e-22f4394dd9f9</doc>
-		<doc>40ee659e-b14c-4b1c-944c-025402033bd7</doc>
-		<doc>d534e6df-eb68-4933-bd8a-7d803f14ea85</doc>
-		<doc>ede4e8fe-0b3c-4416-a679-7a0d63fe48ef</doc>
-		<doc>f0ae8445-fce1-42a5-b3b8-ebedee36ece6</doc>
+		<doc>bbf8d395-b4c6-4edc-86ea-28504796d4f0</doc>
+		<doc>2fd190a3-7b53-45aa-b0da-71e315a32015</doc>
+		<doc>8f8f3527-2222-4cdd-a85c-2282dffacd99</doc>
+		<doc>9fa413b6-59a0-4feb-b825-169ff33c50c5</doc>
+		<doc>e3e11788-d788-48b0-8bfc-af494f041dd1</doc>
+		<doc>efe9057e-ec2b-42f0-a390-e787d40cab36</doc>
+		<doc>0b1144f7-cfe4-4552-9e1f-1af50ac614da</doc>
+		<doc>86c4106a-4040-44c7-8320-72c8290ee91d</doc>
+		<doc>b4ede422-d2ad-4cf1-9bab-82f9ef5dc946</doc>
+		<doc>ee609478-4c38-4f07-8d09-de8dca24ae64</doc>
+		<doc>f70364da-e471-4d39-81e2-9bb72dac7797</doc>
 	</docs>
 </clus>
 
 <clus id="16">
 	<feature>壕无人性 </feature>
 	<docs num="10">
-		<doc>203291f5-0f94-4eda-9375-4327b248da60</doc>
-		<doc>3252ada8-291d-491f-8715-1f8d7047e6b3</doc>
-		<doc>4ab027fe-4dbc-4d8f-851d-115939a0d281</doc>
-		<doc>666e82d7-e8b4-4dae-8441-e609e957adca</doc>
-		<doc>7d969626-bc43-48c0-86f9-d15f97a19bc0</doc>
-		<doc>93880f5c-317b-4c97-b2e1-21dca6714fe7</doc>
-		<doc>cf098fe6-e271-41a3-86f7-72e46d7f90ba</doc>
-		<doc>e02f929e-f0ec-415f-88e6-75f61305494d</doc>
-		<doc>e774e172-7b79-48f2-af0f-50b02adf9954</doc>
-		<doc>f5ab6781-1360-4cd8-bdbd-3e79320fd10b</doc>
+		<doc>11b0b1e5-7b52-433e-be08-c0e1131690bb</doc>
+		<doc>16ad5ff2-0494-4d06-9c33-56bbfeecc9ba</doc>
+		<doc>1a0092d4-6c69-40b4-ac80-84222d4e4462</doc>
+		<doc>1c22c4ef-a63f-4030-8e99-35937f5fddb5</doc>
+		<doc>3ecc94f1-1a07-4404-b9ea-00a63fa42b65</doc>
+		<doc>4479ed16-6363-468a-aa01-344030fb2f4b</doc>
+		<doc>9f68ac3c-161c-427f-b1fc-57964e70bb5f</doc>
+		<doc>aea0a053-650b-40cd-bbe4-3d0899bb9005</doc>
+		<doc>b3184f51-54c9-4a5c-9c0c-801d54153bef</doc>
+		<doc>f2a6df58-2641-4b4c-89a0-c13e56b7e3ae</doc>
 	</docs>
 </clus>
 
 <clus id="17">
 	<feature>舍友 打电话 方言 健身房 留校 签字 侵犯 寝室 宿舍楼 </feature>
 	<docs num="10">
-		<doc>801e9953-ac14-470e-b868-1d29cd770411</doc>
-		<doc>aea91968-c90c-4295-a884-4192ac0b6df1</doc>
-		<doc>168c4726-895a-4806-bc52-5144b77c7c6d</doc>
-		<doc>0825f801-c5a4-4225-8a11-aae16c680343</doc>
-		<doc>0b3bc194-b9a4-4376-9245-d254d8a4644e</doc>
-		<doc>781880ec-a044-40df-90ab-c505c5db48de</doc>
-		<doc>8457b170-1be9-4552-8cc3-cb3bebfb7eb4</doc>
-		<doc>c9d8f04e-be63-4f9e-a735-e8d999afc65f</doc>
-		<doc>d9c86831-2640-4d41-a4db-8186ba09e9bf</doc>
-		<doc>fcfe10c7-11c3-4daa-a7ac-55c04c7a27d0</doc>
+		<doc>8b0aa7dc-fe6a-4310-a4d3-2d7dc38037a1</doc>
+		<doc>f94700f2-1cef-4c77-8be5-00b8e2f31e9a</doc>
+		<doc>d0cd79dc-63f9-42b7-86f3-afe343310117</doc>
+		<doc>149fac28-dc14-43fe-946e-d24d22747683</doc>
+		<doc>165c1a26-b2f0-4bd8-848c-59c7a28d0165</doc>
+		<doc>34e09b9f-6189-4c48-8c98-52e7a86f1ab1</doc>
+		<doc>5563ba96-d684-410d-b575-26416e18af22</doc>
+		<doc>5c93c4c7-1aea-4e53-87d5-7833e7e8219b</doc>
+		<doc>aa798e7d-2a98-4cbe-8643-296c9e982187</doc>
+		<doc>c1a8fe9f-e9fe-4376-b39c-277a64df59af</doc>
 	</docs>
 </clus>
 
 <clus id="18">
 	<feature>擀面皮 关中 好吃 老乡 学长 延安 聊擀 </feature>
 	<docs num="10">
-		<doc>6c608300-73e8-47ab-9298-56942f3bc2c0</doc>
-		<doc>fb140741-c33f-4706-805b-b450e21730e1</doc>
-		<doc>a858beba-2c40-44a0-a6f9-e494a791d0f8</doc>
-		<doc>b18f57e9-2052-486a-a75e-7c94338609f8</doc>
-		<doc>365cf396-f52f-413a-9f61-f1720878eb35</doc>
-		<doc>4104407e-9182-4dfd-9569-9eb9b3490310</doc>
-		<doc>7c60e652-2b04-4f7e-b89d-7c2c280c5bb2</doc>
-		<doc>8f6e7926-b721-4e7c-b8f3-b4bb68538346</doc>
-		<doc>9a8ce623-710f-44f3-b029-e013e51ff59b</doc>
-		<doc>c8e1bf87-1684-43d7-95c6-6119380b0f71</doc>
+		<doc>c2d0e40c-7e73-49e5-997d-d4886c85e8a4</doc>
+		<doc>d8741c5a-b987-4f8a-a9f2-a4f79592fb85</doc>
+		<doc>2a7f2eb0-9478-49c6-af47-c4615aaf250d</doc>
+		<doc>d912e477-92f4-467d-b034-09cb8e0d119b</doc>
+		<doc>64d0c32e-8b4b-4a75-a477-d41e9f01747a</doc>
+		<doc>711c7fb6-9dea-4bbd-a172-602fa9801366</doc>
+		<doc>84bdcee5-00d1-449f-99a9-6dc81bfa7d88</doc>
+		<doc>9b01bd11-bb81-4fb6-ac98-b1ad728206fa</doc>
+		<doc>a56c0c85-b452-4efa-8b58-93ceab382557</doc>
+		<doc>c23f02e9-06f0-4047-9742-5af2198a26fd</doc>
 	</docs>
 </clus>
 
 <clus id="19">
-	<feature>颜值 板斧 榜样 保安 把子 才华 超高 代码 过人 </feature>
+	<feature>颜值 板斧 把子 榜样 保安 才华 超高 代码 过人 </feature>
 	<docs num="9">
-		<doc>2e9d6a8c-834f-47dc-8c2f-4c80ccb86c3b</doc>
-		<doc>65475a51-75fe-4d51-acb9-20e85c58e91d</doc>
-		<doc>910c5902-47c0-4a73-a285-e98159fa9ee1</doc>
-		<doc>9bc973e5-25a3-4046-9f5d-f473ea34127f</doc>
-		<doc>bfc221f9-918e-4c71-a25b-a451617550f3</doc>
-		<doc>cdf8065b-93b2-4bee-ab73-85ee64236cc3</doc>
-		<doc>e95f52a8-83fe-4fc0-b68f-4f30fb190428</doc>
-		<doc>1fc2e1d6-f7c9-4cf0-9d84-58789ebd26df</doc>
-		<doc>200b482a-540c-4cac-8917-9785648946dc</doc>
+		<doc>31796267-f27e-4ecd-b9ef-c9f0163e692b</doc>
+		<doc>a613a777-fc3f-4e37-a891-b90c1497969f</doc>
+		<doc>00adc057-512b-4abd-a2ef-69d9a5023aa8</doc>
+		<doc>46dff713-ede7-4abe-b691-99cfee153267</doc>
+		<doc>a29a1464-bfc5-4dfe-a0ba-1c190e7edb6c</doc>
+		<doc>accd0f74-e370-44a4-adb7-4956df579912</doc>
+		<doc>e7a166c2-3ed0-45ef-b80c-6608709348b2</doc>
+		<doc>899e315f-88f4-4f48-b7e8-de4f48e5849e</doc>
+		<doc>b36fb783-1c99-4022-9d6a-8ab68b5fbeed</doc>
 	</docs>
 </clus>
 
 <clus id="20">
 	<feature>童鞋 枫蓝 定金 打电话 更正 过后 集合 讲解 聚会 </feature>
 	<docs num="9">
-		<doc>fbd622e6-a404-4bc4-a7a9-d7a42ffb7950</doc>
-		<doc>7fda3acb-a070-410f-bf8b-60bc88e43d2b</doc>
-		<doc>9cc345af-57d0-42b9-bfb1-93327df2ad51</doc>
-		<doc>2672aa64-341f-4eee-a255-615b6dfc9e8e</doc>
-		<doc>27d7106c-0954-4a16-b33a-14f9718b4b7d</doc>
-		<doc>37b9cf9f-8078-468f-8cb7-76c689df4e71</doc>
-		<doc>7a1775b1-96e7-465e-af48-34b2cd440a9e</doc>
-		<doc>b8aa2ce7-1474-4fea-9fd1-6d1b317a5408</doc>
-		<doc>bb56a09c-0bb9-42ac-b04d-3b57bfc78458</doc>
+		<doc>e22748f0-535d-412a-af72-e1db8b82ffe4</doc>
+		<doc>1b717897-a546-49aa-b66c-a64541afed52</doc>
+		<doc>b51c4da8-425b-42e3-9f6d-46e54f244fa1</doc>
+		<doc>10dd9d20-d250-4d14-944c-0ec7736fb478</doc>
+		<doc>5473d2e2-6a49-40e6-8395-6b8ef68808cb</doc>
+		<doc>6758a1da-567c-4380-8f22-fa9845eb244a</doc>
+		<doc>72e15c81-e00c-4cde-8902-ae66f6a379a1</doc>
+		<doc>74586795-82d4-41d0-8a49-c9159f21c2d4</doc>
+		<doc>78ceb441-dd14-4c7a-952d-5e5465e7e577</doc>
 	</docs>
 </clus>
 
 <clus id="21">
 	<feature>安卓 版本 老乡 手机 丹鈥 虚拟机 赵丹 多余 共享 </feature>
 	<docs num="9">
-		<doc>f2e52a26-a242-4784-8ef0-cd2103b40cde</doc>
-		<doc>5a8f0556-7a5a-4147-8340-8c75d327ca01</doc>
-		<doc>e6508e29-b9d9-4dc7-a96f-f8f330b53656</doc>
-		<doc>ff737f16-a4ed-473e-b43b-6bea71e98e7b</doc>
-		<doc>05e89b9a-3b3b-40a7-91a9-7c6f38e453e3</doc>
-		<doc>263bae57-442d-4636-874b-be5ba5c4b0ff</doc>
-		<doc>44272ae4-7261-4bc2-ada3-20c289f8802a</doc>
-		<doc>e9b9b9ab-220c-4e7f-8a48-75962fac80ad</doc>
-		<doc>ec63ad0c-13d5-40fe-a8ea-90df3bdfce9c</doc>
+		<doc>dae233db-ccde-4ea7-b660-4cbc954659f3</doc>
+		<doc>0d6d13e6-b027-465b-85be-e35837235cde</doc>
+		<doc>5e484d19-df81-4e92-8bd8-60677aad2f06</doc>
+		<doc>8ceae43b-768c-485a-91e4-cd62a92115d1</doc>
+		<doc>5aa74da6-6111-4be4-86f8-b7671dc0c55f</doc>
+		<doc>93782ae6-cc06-422e-ad84-47e8a996305f</doc>
+		<doc>a4a8f82b-88a4-475d-a715-536a432627f5</doc>
+		<doc>ab339629-b03a-4db9-b350-5b31bcc1d052</doc>
+		<doc>f61aa244-d2e3-46e0-bc8c-fa2ff90b919a</doc>
 	</docs>
 </clus>
 
 <clus id="22">
 	<feature>丹妹 北航 吃香 后面 里面 厉害 沙河 收藏 </feature>
 	<docs num="9">
-		<doc>7c35086c-427a-49b0-ac29-fe5b036ab51f</doc>
-		<doc>4c86ce15-c3ab-47fa-885b-65456329acd6</doc>
-		<doc>70709609-a3d6-4377-b136-21f06b1e81ec</doc>
-		<doc>c2f3886a-784b-47f5-bca4-80e73c3a2f97</doc>
-		<doc>f2dbb3d8-f5c7-4fa7-8dc2-2f53c47e4828</doc>
-		<doc>fd316ab6-6910-4627-be1a-4ad013c962d2</doc>
-		<doc>519ac21e-4e6b-4ade-90b1-7e5c3621234c</doc>
-		<doc>6c716724-2cee-4771-ad40-0d9d5723c8ad</doc>
-		<doc>a53c2993-e59e-45ba-8822-dc8d46daa3c2</doc>
+		<doc>b6fd1c81-4789-4a9c-b9fe-d2bd3b01112c</doc>
+		<doc>7cfb4410-5590-4f29-a736-b46d1d2ad60c</doc>
+		<doc>859a2713-a214-4a59-ba19-d5b904182f3b</doc>
+		<doc>b7589b67-8094-4d77-a5ac-bab500c27350</doc>
+		<doc>f8411fc0-4517-4fdd-a409-ef7f9633476d</doc>
+		<doc>f8de2cb8-d0ce-42c5-85c1-be0ced56e7f0</doc>
+		<doc>31978a60-1c6a-4642-a5ef-ddcbb3ab43aa</doc>
+		<doc>43990d4b-86d2-438d-bb16-2fdef0c51193</doc>
+		<doc>b249cd8a-53a7-4a54-b3a3-aa5fad96e0be</doc>
 	</docs>
 </clus>
 
 <clus id="23">
 	<feature>龙岗 大桥 到底 对面 高中 路口 </feature>
 	<docs num="9">
-		<doc>04d33708-11d9-4d49-8564-75715583273a</doc>
-		<doc>72dc18d1-bd01-4a81-99b1-bde520377437</doc>
-		<doc>73db10eb-b93b-4b25-a727-7ed34063ebce</doc>
-		<doc>aeacad39-095a-4e2f-b500-3dd345b3e4a2</doc>
-		<doc>b1c1882d-2cbb-4a97-adf4-45719e066e68</doc>
-		<doc>ee3d1eed-f815-48e2-8a15-560ac5664c94</doc>
-		<doc>717752cf-9f35-4a27-8963-d5ba120f2232</doc>
-		<doc>e0bde243-3922-4797-a46d-1d2b5441640d</doc>
-		<doc>f0989d59-5eec-4b32-a518-fc33d963d1ca</doc>
+		<doc>ce197a4c-ce00-464c-9bda-9fd96a349f4e</doc>
+		<doc>3ec6f2d7-853a-408b-8702-fa3f0f50bd6c</doc>
+		<doc>56457df7-fb35-4e02-ae5d-16c73d1f2bcf</doc>
+		<doc>79c53aee-8110-4e30-b89c-0e6216d8353c</doc>
+		<doc>d4a28cc5-e510-435f-846e-dde7a0bafe5d</doc>
+		<doc>fd290d90-4ede-4138-aa78-781d2a936c52</doc>
+		<doc>7723d1d3-d2aa-4c2a-9901-056189ea6329</doc>
+		<doc>8bd947ea-26da-4c2b-8d6a-54e88b5c6edb</doc>
+		<doc>95b47446-45bd-4173-a6fd-219f1540a84e</doc>
 	</docs>
 </clus>
 
 <clus id="24">
 	<feature>评论里面 红包 抬抬 童鞋 </feature>
 	<docs num="9">
-		<doc>37b9cf9f-8078-468f-8cb7-76c689df4e71</doc>
-		<doc>b8aa2ce7-1474-4fea-9fd1-6d1b317a5408</doc>
-		<doc>03bd6909-9997-40b1-ae02-9d48fc001235</doc>
-		<doc>0bd296d2-fd3c-4e1e-8e0b-dedf7e1a15c0</doc>
-		<doc>2e2d8ecc-4bc4-4f73-8e5b-a11515a587a5</doc>
-		<doc>45d10cb8-cb74-4d8d-8a3c-f822d8ed1e90</doc>
-		<doc>9712c8fc-5595-4c46-9536-94ee1e0fa3bf</doc>
-		<doc>e959c02b-c710-460a-9222-81bc96557a90</doc>
-		<doc>fb79acc8-4403-45dd-9517-22e33c187136</doc>
+		<doc>10dd9d20-d250-4d14-944c-0ec7736fb478</doc>
+		<doc>74586795-82d4-41d0-8a49-c9159f21c2d4</doc>
+		<doc>1649a7c5-6bd9-4af8-89d1-0152ca5638af</doc>
+		<doc>67357fe4-7fa2-4aae-9b69-4904996c5176</doc>
+		<doc>7fe20ff0-56dd-4d3b-b9f0-6566888ab19b</doc>
+		<doc>9ac311d7-4a02-4b3b-bfff-19a8edfc906f</doc>
+		<doc>9dff5d76-a5a8-45c0-985d-6dd72574aa52</doc>
+		<doc>d1b3f6e8-4046-4c76-a0c8-f072470ad690</doc>
+		<doc>d76773f2-6778-4def-b879-202963e6cec0</doc>
 	</docs>
 </clus>
 
 <clus id="25">
-	<feature>青女神 采纳 大面积 蓝色 头像 刘洋 女神青 </feature>
+	<feature>青女神 采纳 大面积 蓝色 头像 刘洋 </feature>
 	<docs num="9">
-		<doc>15b2eca8-8f7e-4b0c-9943-c33dfc3d6742</doc>
-		<doc>8c080e52-395d-4b8c-9323-99f6d950d3d8</doc>
-		<doc>27ad88d9-087f-4fd6-8f54-944ddf591024</doc>
-		<doc>a4aabfcd-0303-4f59-92b1-522fb1d49e4e</doc>
-		<doc>2ecd222b-d93b-40e8-922c-58c9623c2df9</doc>
-		<doc>65dd58ae-44b9-4e45-a130-cad8e2e0efa1</doc>
-		<doc>6e38074b-4194-4151-806f-6a84d52a0642</doc>
-		<doc>983c2875-bd72-415d-96ef-3a6e2731a269</doc>
-		<doc>efd28f32-0906-4381-b689-3fe29232e71d</doc>
+		<doc>17510a8e-2c39-4d66-b902-4d91dd862af6</doc>
+		<doc>9d893eb9-3c15-485d-b069-bcd608868cde</doc>
+		<doc>74fabaa8-cafb-4844-99de-b531f0b24a1d</doc>
+		<doc>51502722-2237-46ce-a5ae-34391beb0370</doc>
+		<doc>69135bd5-25ad-4ed1-9b72-1c5da27ad20e</doc>
+		<doc>7d4a8f3b-c617-4907-ad4d-8a08c7b84ad6</doc>
+		<doc>90657b80-85e9-4794-b003-5e4afa8a8cea</doc>
+		<doc>a7de5ba7-0e88-4a7c-9618-9b66b427ad0e</doc>
+		<doc>e117aaa2-13eb-42cd-932f-705956e81619</doc>
 	</docs>
 </clus>
 
 <clus id="26">
 	<feature>枫蓝 餐馆 打电话 当初 地图 定金 丰台区 购物 集合 </feature>
 	<docs num="9">
-		<doc>7fda3acb-a070-410f-bf8b-60bc88e43d2b</doc>
-		<doc>66a33a0a-e084-4966-b778-e557d50412e5</doc>
-		<doc>04e66750-6a61-4940-84a8-64e2b17a3f0f</doc>
-		<doc>be62ac6e-12e9-447f-9e70-147c1710620e</doc>
-		<doc>0d14d33f-16e8-4659-b0a5-424dcfb6211b</doc>
-		<doc>3760b547-fa5c-4242-b40a-7e633b2596f6</doc>
-		<doc>3db43670-e2ad-4c2f-8583-7dcd9420b843</doc>
-		<doc>88607780-833d-45b2-abcd-9699c6508d7b</doc>
-		<doc>a9811ff1-ef5e-4c59-9326-a544f786183b</doc>
+		<doc>1b717897-a546-49aa-b66c-a64541afed52</doc>
+		<doc>44ea99ab-e318-4ca3-8420-b62eb96b9c03</doc>
+		<doc>7d825731-6993-4bb6-8999-66d46ca10aea</doc>
+		<doc>9b405273-e049-4514-94f9-14955a56520e</doc>
+		<doc>06f4cedf-07ca-49b2-9202-58976baf6058</doc>
+		<doc>1bebdc47-424e-42a1-aed6-0b588e5c7d7c</doc>
+		<doc>247129e6-71f9-4228-b7f7-1f4fbc055505</doc>
+		<doc>553cc4e8-7845-403a-bdc6-74c2535493e3</doc>
+		<doc>79980cf5-11ff-4c61-b223-d31173d0e36e</doc>
 	</docs>
 </clus>
 
 <clus id="27">
-	<feature>邹广琴 定金 李子 王国 紫薇 波马 波王 曹洋 晨洋 </feature>
+	<feature>邹广琴 定金 李子 王国 紫薇 波马 曹洋 晨洋 鹏波 </feature>
 	<docs num="8">
-		<doc>12a12094-a3c3-453e-82a9-6b0e46e806ff</doc>
-		<doc>9a7c508c-5d18-479d-8178-1a0835c0ee6c</doc>
-		<doc>de6ea0e1-6c89-41eb-b1af-cf4806a64222</doc>
-		<doc>05989b36-426b-4ca9-a271-7e81cb0682ca</doc>
-		<doc>05cf1963-b1e6-460b-ac4b-83d32e3c4bc6</doc>
-		<doc>5b2dce30-f1cf-4852-bef4-21bc17591132</doc>
-		<doc>9d478633-8727-4d5c-802d-6e85ab06361d</doc>
-		<doc>cf244062-90db-4f62-b44c-089a951cb2cb</doc>
+		<doc>a63928c1-d261-4ff4-a81a-e38be4dc6796</doc>
+		<doc>23c04826-b086-4d0f-9cf5-fd01c7049f11</doc>
+		<doc>759aab53-c6bc-48f7-8bc7-3cf0eff085fc</doc>
+		<doc>2c669d3c-7497-4458-8722-107297889a83</doc>
+		<doc>5f13c838-4e5f-4467-b1ff-0408b998e601</doc>
+		<doc>98b49036-0f17-4b28-b7a3-757d446f7327</doc>
+		<doc>cab390b5-2002-4737-b241-e0f5601e577f</doc>
+		<doc>ce88d5a7-0cc8-4392-82a1-8dcbb03c5fa7</doc>
 	</docs>
 </clus>
 
 <clus id="28">
 	<feature>富强福 口令 福神 神器 开启 氵肖 </feature>
 	<docs num="8">
-		<doc>a1828724-8091-40f6-a2d5-e6c3f584dc1c</doc>
-		<doc>00f9e93e-78ed-4743-9997-97fca8ac99a1</doc>
-		<doc>822165ea-ef6e-44d2-9751-886a948118ff</doc>
-		<doc>a9979065-edb8-400f-b3b0-a2c0800ba9fb</doc>
-		<doc>b8bb0115-8824-453d-835e-d67e2f3fac15</doc>
-		<doc>c3deb057-b320-4d80-9cd3-8b8ca6c1f742</doc>
-		<doc>5a07a925-06a3-4caa-92e9-dec89858c549</doc>
-		<doc>bed25712-d662-49aa-b0ee-539713b42e4e</doc>
+		<doc>e1f8c196-6453-4041-b456-8090de766396</doc>
+		<doc>004ca6cf-9ebc-4e66-af95-37736603e7b4</doc>
+		<doc>0ea1669b-ac01-45c7-a94f-52b8f2f3c210</doc>
+		<doc>de101bbe-c8fd-4f7f-a44f-060219da03bb</doc>
+		<doc>e3712226-ccf4-4a7a-b211-64305fc8ce81</doc>
+		<doc>ef820aac-6df9-4276-a9ea-e7a4fb9c2d08</doc>
+		<doc>1efd5866-45a2-4419-bcfc-79edda281edd</doc>
+		<doc>6a048c06-7ddb-4a0a-9617-5a1f05218ccd</doc>
 	</docs>
 </clus>
 
 <clus id="29">
-	<feature>顶帖 板斧 口气 馒头 陕西 邪恶 昨晚 拜托 帮忙 </feature>
+	<feature>顶帖 板斧 拜托 帮忙 聚会 口气 馒头 没事 陕西 </feature>
 	<docs num="8">
-		<doc>9e19366f-80d5-44d9-afa2-d7233692b9c0</doc>
-		<doc>23ff925b-430d-47e8-8e7b-b7b1facbe002</doc>
-		<doc>c305945d-3afa-4258-9db5-6136fcb833dd</doc>
-		<doc>36069df9-6ee5-431e-aa60-182bdcdc2138</doc>
-		<doc>1a42ca8e-a259-4617-b1b2-89cd63992405</doc>
-		<doc>db451088-77a7-4c12-906f-49e78a256f84</doc>
-		<doc>e1ecdd3d-8c0a-4c2e-a271-41fc40d33350</doc>
-		<doc>f78a3cb0-c5af-4f72-9a49-8a736da3c5b6</doc>
+		<doc>c653701e-af42-4f3d-b6b2-8d2093d76217</doc>
+		<doc>a7a190c2-a2e3-4dac-a11d-518c482ade68</doc>
+		<doc>6da27a6a-dc5e-4bf5-9347-ee011743c3fc</doc>
+		<doc>e6ba5015-7f5e-45ce-99fc-39e4f7103d91</doc>
+		<doc>1fae7540-baab-4326-aa3d-14b399a343d6</doc>
+		<doc>67a8ee81-bbde-4a31-8db7-775288baf91e</doc>
+		<doc>b3c760c3-076c-4f17-899c-a6930aa6cacc</doc>
+		<doc>d40291f2-694c-4012-ad34-d1b296d84fb8</doc>
 	</docs>
 </clus>
 
 <clus id="30">
 	<feature>谢谢学长 刘洋 学长 洋鈥 </feature>
 	<docs num="8">
-		<doc>00c99cd1-56b6-4eb7-a1b4-0035e699b46e</doc>
-		<doc>2e018c3b-692d-495b-8250-e4d4c1e3d4cc</doc>
-		<doc>11ec4836-75b6-4837-9d11-cc1967628e11</doc>
-		<doc>1c26d21d-8e3c-46a5-9cac-fab1f000f6b9</doc>
-		<doc>2c14082b-db58-4f8d-a8ab-f08d008ad125</doc>
-		<doc>a47dba38-196b-4ae2-acfd-5238055b2608</doc>
-		<doc>d5295302-8b1e-481a-882a-e00ca02eebe4</doc>
-		<doc>ee7ff9db-f543-437b-8a08-514fc9edaa72</doc>
+		<doc>d04cc00a-ddeb-4585-b49b-67d3a6eb3513</doc>
+		<doc>483fb5c0-6e2f-49b1-94d5-1443ae473272</doc>
+		<doc>094eccfe-556e-4f0c-93d8-274be1d49e55</doc>
+		<doc>698db11d-66db-40ae-b2cd-09e06720b7da</doc>
+		<doc>988210de-de9d-496c-9593-5ac03e84279e</doc>
+		<doc>a24af057-b49e-4634-830a-7319e140e9d0</doc>
+		<doc>af6769ca-183b-4621-b350-c9c5716bbfc1</doc>
+		<doc>fd005d0c-f44b-4a3c-aeb3-4c9dc3888fcc</doc>
 	</docs>
 </clus>
 
 <clus id="31">
 	<feature>抢红包 左手吃饭右手 谈笑风生 瓜分 潜水 右手抢 红包稳 </feature>
 	<docs num="7">
-		<doc>6c2d9c94-2a1e-444a-a170-a5b90e54c9b6</doc>
-		<doc>ab076360-e7ff-4f0d-97a4-c2aec43b4f4a</doc>
-		<doc>0d901fbb-ea85-41c7-ae22-9a12daf9be3b</doc>
-		<doc>35dcf65f-e08d-4b41-93f5-6185a7b7a471</doc>
-		<doc>90e6647c-8922-4ad4-bed7-f03c90bdb45e</doc>
-		<doc>a9de2a8a-6924-4637-a7ad-d23e99732f7a</doc>
-		<doc>ece80a3b-fa60-45de-8168-c484cef7ffd3</doc>
+		<doc>4fac0725-4a24-4984-84cf-a69fd9ca4a98</doc>
+		<doc>6c96ebf8-44cc-4080-86ec-fbe64786d98b</doc>
+		<doc>0e2c9fa6-dce3-4eaf-9a04-20976fff70c1</doc>
+		<doc>1deea44b-fdbf-44b4-8222-03c5410dcc60</doc>
+		<doc>16da286d-d23e-463a-a231-5222794d7fb0</doc>
+		<doc>1fc6194b-5b71-4bbf-a8b3-71207a830bbd</doc>
+		<doc>280bf3bd-19a0-49ae-bca5-30d948dba06c</doc>
 	</docs>
 </clus>
 
 <clus id="32">
 	<feature>去火车站 手机 阿姨 购票 里面 平台 身份证 温馨 小伙伴 </feature>
 	<docs num="7">
-		<doc>b26e0155-bfbf-4903-815e-1a67e41bcc37</doc>
-		<doc>bfdc37e1-1bd2-4a2b-bc86-9ac625478c28</doc>
-		<doc>f040f6c7-2f47-4726-a10c-fbfa334cd2d5</doc>
-		<doc>3dd40217-5ae8-44a8-bda0-ca4aa4723f90</doc>
-		<doc>78a91d0a-87bc-4936-97dd-8dbd4a961054</doc>
-		<doc>9aab7a56-b4f3-4264-90f8-0e95073da4f6</doc>
-		<doc>e8d609fd-0253-416b-88e1-cb151e6efc33</doc>
+		<doc>a95b94d8-3eb6-469b-84ab-da834c8d0422</doc>
+		<doc>9f7e5378-cfa2-4a13-b03e-36b3e41c40a6</doc>
+		<doc>fcce37a2-e06b-429e-b47e-4b66a6a8f359</doc>
+		<doc>17f16894-7ea1-4b88-93d3-f690c179c0e3</doc>
+		<doc>29aaeffb-b774-4724-9104-e54fffe15288</doc>
+		<doc>520da43b-f5fa-4c8c-b516-591aa8988fde</doc>
+		<doc>e74160f1-0cb5-47ad-9ec2-90a19c8bfbf6</doc>
 	</docs>
 </clus>
 
 <clus id="33">
 	<feature>单身狗 贵族 好意思 坏人 老五 马路 谢谢 召唤 钻石 </feature>
 	<docs num="7">
-		<doc>9ec19c43-5759-4a37-abe3-79f96185eddd</doc>
-		<doc>0780b965-3fa6-4742-b509-72d505aa90d2</doc>
-		<doc>d485314f-707a-45b7-a97b-2c28c9973232</doc>
-		<doc>456f4287-3686-4546-b34f-2c463af5d371</doc>
-		<doc>755372bf-bd37-407d-a531-478e3f83db5d</doc>
-		<doc>f508be9b-6f87-49a7-a2cf-5a794f9bb88b</doc>
-		<doc>54b6006e-33f5-4ed2-9c20-dd87442fe9b0</doc>
+		<doc>52db127f-b5bd-4b5e-af5a-666cc581e09f</doc>
+		<doc>6629d9c6-257a-4726-8667-9319388545c5</doc>
+		<doc>b11f4e9f-e25c-46f1-a238-f812b227b0e5</doc>
+		<doc>4ef8819e-e1a1-4ced-aef7-fceb8681a340</doc>
+		<doc>ae28e470-22d1-4298-b381-67c0a770761a</doc>
+		<doc>f483683e-fffe-47c0-9127-26ac99236270</doc>
+		<doc>77d4f12e-7891-48cd-8bfd-cfe636868c98</doc>
 	</docs>
 </clus>
 
 <clus id="34">
 	<feature>杨鹏波 记住 板斧 宝宝 定金 李子 王国 温柔 紫薇 </feature>
 	<docs num="7">
-		<doc>de6ea0e1-6c89-41eb-b1af-cf4806a64222</doc>
-		<doc>12a12094-a3c3-453e-82a9-6b0e46e806ff</doc>
-		<doc>575d66cd-b052-4682-af35-964986f2593d</doc>
-		<doc>9a7c508c-5d18-479d-8178-1a0835c0ee6c</doc>
-		<doc>ff378670-1d6f-401d-b1c8-455e7efa8a26</doc>
-		<doc>523ff685-0c2c-4b62-a6f7-65d3887c6073</doc>
-		<doc>fa9e31b8-9152-4968-963a-18fa2ee3b48c</doc>
+		<doc>a63928c1-d261-4ff4-a81a-e38be4dc6796</doc>
+		<doc>23c04826-b086-4d0f-9cf5-fd01c7049f11</doc>
+		<doc>759aab53-c6bc-48f7-8bc7-3cf0eff085fc</doc>
+		<doc>e181c4e4-aded-464b-a074-8209cdb7fe96</doc>
+		<doc>f78e491d-3fa3-42e4-b358-b0d1607ebb4e</doc>
+		<doc>64a5f58d-6afa-48e5-9b86-61272ba3c26a</doc>
+		<doc>be455a75-d13d-4f02-a38c-f68b670274d6</doc>
 	</docs>
 </clus>
 
 <clus id="35">
-	<feature>师麦当劳 通宵 </feature>
+	<feature>毛概 问卷调查 拜托 帮帮 帮忙 苍天 发问 红包 绕过 </feature>
 	<docs num="6">
-		<doc>784be57a-3721-4acd-9802-7399ed6c5f49</doc>
-		<doc>2baad876-9114-4a78-83b9-314c3d02383a</doc>
-		<doc>3fbd3c2a-8d74-4b03-83d8-0e6321e529c9</doc>
-		<doc>9d0fe050-4d5a-42b8-808a-bb5f02e22623</doc>
-		<doc>aa8d5627-ae3a-41eb-879f-903faad80b2e</doc>
-		<doc>d4a719e9-a3d6-4133-8a6e-cd57252fc99a</doc>
+		<doc>6d963136-fed3-4cd8-b9c7-4ee5ac33af0e</doc>
+		<doc>3cabca90-854c-4653-98c1-d45eab72cf4f</doc>
+		<doc>b1773ac0-8078-4b39-9945-34677bf955eb</doc>
+		<doc>0e9cb94d-b3d8-4e65-bbce-f0bf26da4bee</doc>
+		<doc>55cbaebc-d62c-44b9-9a34-ef0c3c0acfec</doc>
+		<doc>c8ca78ac-fa97-4bf4-868e-aa8e488c8191</doc>
 	</docs>
 </clus>
 
 <clus id="36">
-	<feature>恩恩 多谢 谢谢 </feature>
+	<feature>师麦当劳 通宵 </feature>
 	<docs num="6">
-		<doc>769a58c8-729d-46c0-81be-98c6181c73ff</doc>
-		<doc>afb63510-f223-4d06-8044-82d95d305311</doc>
-		<doc>72690769-7efc-47a9-89c3-e861a4a4b6e6</doc>
-		<doc>911ae163-5852-43c2-8bec-cb710fa20a1e</doc>
-		<doc>c612f542-1868-41e4-8614-1ed5021b5e4f</doc>
-		<doc>dddfac8c-33ff-45a3-860a-316cea8b7491</doc>
+		<doc>b67a0f00-570d-4dc3-8e6b-efd742ce6d3e</doc>
+		<doc>2232d20b-416b-4cfa-99ca-09cfca8f0fb8</doc>
+		<doc>5a059053-a0fb-44fe-816b-756d57acc9b2</doc>
+		<doc>626a3f8b-9830-455d-bcd3-3b6698742774</doc>
+		<doc>a4018b0b-9d39-439c-a2d3-d0e3e520407d</doc>
+		<doc>eddcf76d-24c1-4311-8003-176b84bb20f2</doc>
 	</docs>
 </clus>
 
 <clus id="37">
 	<feature>群里面 结婚 老乡 土豪 </feature>
 	<docs num="6">
-		<doc>5c7d16dc-716b-4d49-af2d-df52ddfd1f1d</doc>
-		<doc>a44a3aec-20c4-4767-b0e9-5644a5693845</doc>
-		<doc>fb7b5fd5-d3a0-4c93-9313-6ec58c8834a2</doc>
-		<doc>57f9b57f-3a38-4f36-8994-3273fc01fb0b</doc>
-		<doc>72712a0f-8b01-47f1-b97f-950291ece9c2</doc>
-		<doc>bd90068d-d6cd-4347-8c2e-ef93c39796fd</doc>
+		<doc>6328449f-258b-488e-b08f-aa12d45363d1</doc>
+		<doc>7a91aaef-f758-4b22-850f-0e9deb16f935</doc>
+		<doc>f8f1d6b8-bbe9-42e9-9564-42765bc8efc7</doc>
+		<doc>1c5bf742-d7f6-4dc6-bd26-3d6059b83f68</doc>
+		<doc>a700da4b-6686-4189-9c94-ebd3db636c2f</doc>
+		<doc>b6509178-7f14-42be-b61e-a7e93e630fcf</doc>
 	</docs>
 </clus>
 
 <clus id="38">
 	<feature>萌萌哒 板斧 王思 </feature>
 	<docs num="6">
-		<doc>5ab07307-cbe8-410a-8125-8afbb73290a7</doc>
-		<doc>648c1989-f86e-4bd3-87b5-273c6f95acac</doc>
-		<doc>16b9b976-44a0-434c-aa91-9c13f7bf2813</doc>
-		<doc>2de45d00-7a28-4598-8f6c-ede577522167</doc>
-		<doc>83e4de20-f7c2-48fe-8976-b6c3d74886df</doc>
-		<doc>ec8b28ea-f3c8-4a66-9b12-ebba33c19119</doc>
+		<doc>a1c67f68-9fbd-4371-857e-4ccd5475281a</doc>
+		<doc>41e5aec5-8289-403c-b1a0-22861f8dedce</doc>
+		<doc>3559a222-c5e9-4bb5-a35a-09a3b492a77e</doc>
+		<doc>b969ebd4-c0d8-4399-a209-aa70258bda4d</doc>
+		<doc>c212a10b-d7dd-424d-b602-787b37c53f4d</doc>
+		<doc>e4c13ab5-3c00-4beb-a731-0f8a976c834a</doc>
 	</docs>
 </clus>
 
 <clus id="39">
 	<feature>豆豆咕咚咚 表弟 咕咚 关门 无所谓 豆豆 吐槽 咚鈥 </feature>
 	<docs num="6">
-		<doc>17cf7c5c-b88b-4b1d-b675-df1de7c52f89</doc>
-		<doc>00924085-b5f0-49ed-ae39-117021768f4d</doc>
-		<doc>228315e6-a0b5-4c7d-8c91-de7bdbdc3f55</doc>
-		<doc>08111282-7391-4574-a9b8-fd8f673fc4ad</doc>
-		<doc>c3c3308e-8cb2-4139-aba5-7d8753d1c5cf</doc>
-		<doc>fb55ab0c-41f3-42fa-a410-1b8c92848159</doc>
+		<doc>9fa413b6-59a0-4feb-b825-169ff33c50c5</doc>
+		<doc>1f6f20be-cb1f-4cad-9ed1-aab539b06eed</doc>
+		<doc>f2d9a816-4e18-4ecd-9a9f-b299fadc1433</doc>
+		<doc>1232110c-5c8b-4116-ae62-81b34ccda224</doc>
+		<doc>365b627d-b81b-4dc7-b08a-de67b7f89e3c</doc>
+		<doc>5c5558d5-9af6-48d8-b085-27ab286fe5a2</doc>
 	</docs>
 </clus>
 
 <clus id="40">
 	<feature>自习室 白天 查询 咖啡馆 空闲 类似 楼上 频率 情侣 </feature>
 	<docs num="6">
-		<doc>26ac3093-42ed-4b3f-9990-311ff41c1df6</doc>
-		<doc>6acdb60c-1cfe-4e4b-9978-cfdb82caceef</doc>
-		<doc>9d3ce68a-08dd-46db-b227-43bb2d32c996</doc>
-		<doc>424563a8-443e-4128-876c-a5555c273251</doc>
-		<doc>816cfb02-7b56-4321-add5-6f9d98628da9</doc>
-		<doc>7c9a85e2-78ed-4966-be53-1678eee7b585</doc>
+		<doc>322e2c6a-d873-4c8c-8c0f-d4739c4e29a3</doc>
+		<doc>9c0dd06f-514d-4c45-860f-befb01d8ed0f</doc>
+		<doc>cf1ea0a9-d814-437a-9a67-2400beed59e6</doc>
+		<doc>369bfe79-b149-45e9-9bae-0adc6e8a513f</doc>
+		<doc>cefe6bcb-0934-4b47-b847-7b2028b41298</doc>
+		<doc>3d2b42b3-4683-4373-be15-f99672b60fb3</doc>
 	</docs>
 </clus>
 
 <clus id="41">
-	<feature>毛概 拜托 帮帮 帮忙 发问 绕过 问卷 谢谢 作业 </feature>
-	<docs num="6">
-		<doc>314b4dfa-5a87-4441-a3b3-aad6fddead9b</doc>
-		<doc>09bffa5c-2bbe-41fa-bdb4-2d5f5fe53db3</doc>
-		<doc>1fb46ae7-3002-4316-8316-61f4a192118d</doc>
-		<doc>eca29ecb-3c75-4361-aea6-b4bc8d8ed62e</doc>
-		<doc>ee82fab9-8b57-4b0c-a140-96362e9e8473</doc>
-		<doc>f2f969b4-b5fc-4957-b5ee-97640843d840</doc>
+	<feature>嵌入式 测试 大数 急需 简历 前端 示波器 万用表 西安 </feature>
+	<docs num="5">
+		<doc>bf8843a6-484a-4a14-bffa-e5e8816ff6cb</doc>
+		<doc>2b39d59f-71fe-47b0-a777-f74565b70c8c</doc>
+		<doc>2eba159b-8296-4379-920f-e46b6e0f018a</doc>
+		<doc>cbabeeb9-d002-4a9a-9020-d1355e08ecef</doc>
+		<doc>e699990c-1d8c-43e2-a128-ffbfaccc3575</doc>
 	</docs>
 </clus>
 
 <clus id="42">
 	<feature>许鲜 蜂蜜 福建 富士 拼抢 舌尖 甜蜜 烟台 柚子 </feature>
 	<docs num="5">
-		<doc>16e65387-3555-4e33-b0e8-657d0a41f836</doc>
-		<doc>795775c2-2ce8-41f9-a256-46f17d3c3c89</doc>
-		<doc>f60086a4-17a6-4c8f-b928-4cee8ad7c838</doc>
-		<doc>fdc6f42f-0046-41fa-8130-068d5abf5416</doc>
-		<doc>3e4b4a14-c0eb-4c6a-8bb2-86db5d7fe14e</doc>
+		<doc>25517cc5-0a4a-49fe-84fd-1dded5bd5ff6</doc>
+		<doc>67c22051-243e-4ced-9133-73c0dc54a21e</doc>
+		<doc>9801a0c9-824a-44c9-8af6-2c807daea1f5</doc>
+		<doc>e08e5ecf-7c5c-47c0-a93b-e5f9b4dc030c</doc>
+		<doc>622fd7a5-76ab-43a1-a43f-9c49f4ad06e2</doc>
 	</docs>
 </clus>
 
 <clus id="43">
 	<feature>秀恩爱 投票 博秀 微博 </feature>
 	<docs num="5">
-		<doc>164b87fd-97e7-494f-aae2-81edca60ad29</doc>
-		<doc>75b38949-2536-45dc-bf06-fe0129634c34</doc>
-		<doc>129d21a2-c0cf-4914-8de5-ef50b801214c</doc>
-		<doc>975c1267-b601-448b-8ac3-9eb1582f307e</doc>
-		<doc>d125ec65-0d97-41e9-9759-76571ed15633</doc>
+		<doc>0eef5a8b-17cb-48a4-832e-68f2f5bf5da6</doc>
+		<doc>860d1f84-9692-40e4-b001-5373f32133d0</doc>
+		<doc>3bd91cb7-2798-4e33-abd0-014b4c3c7349</doc>
+		<doc>8f625106-b35c-4a03-aa74-1ee18f49e427</doc>
+		<doc>c5cf6718-c278-4bd0-adb9-39cb9d6c5f01</doc>
 	</docs>
 </clus>
 
 <clus id="44">
-	<feature>西安财经 西北 政法 财经西安 </feature>
+	<feature>西安财经 西北 政法 </feature>
 	<docs num="5">
-		<doc>92735803-c17e-444f-96f3-ceb867b14b0a</doc>
-		<doc>68c1cb61-27c0-4805-98e2-d4b5dfefcb05</doc>
-		<doc>17ff7bd8-32b0-4ecb-9cee-3b872a98e31c</doc>
-		<doc>c84644d3-3717-4c14-8dbf-04279f71382e</doc>
-		<doc>e821869e-6d98-483c-83a1-163738c1e2a1</doc>
+		<doc>a29928eb-61a0-4735-ac77-6f343226012c</doc>
+		<doc>14357b62-b00e-4b78-ab12-27244548b985</doc>
+		<doc>18f17608-1d79-45bf-bf48-ae119f6373eb</doc>
+		<doc>e4f1ed34-1846-4edf-b775-ac2a06fbc378</doc>
+		<doc>fc60155a-c829-40dc-8ebd-820cbe8302d9</doc>
 	</docs>
 </clus>
 
 <clus id="45">
 	<feature>鈽篰 北京 可不可以 小伙伴 学生证 学校 哒鈽 鈽衡 </feature>
 	<docs num="5">
-		<doc>3eea72b4-ec7b-46a4-9ab5-d18e558adff0</doc>
-		<doc>c961fc44-27f6-4025-bb06-282cb8d5fe43</doc>
-		<doc>64b93a66-ac44-4339-8cc1-35c51735befe</doc>
-		<doc>0117b7af-4eda-415b-ad68-19c1dce4477f</doc>
-		<doc>7176aab6-d4e2-4c14-be56-bf214b67c689</doc>
+		<doc>780d9f78-3d48-4f6c-bae8-5ee019fb4d77</doc>
+		<doc>824d0573-a61a-4421-8c25-1b22d777a518</doc>
+		<doc>4e69e73b-bcac-48fa-b1cc-f3cbbb784ce6</doc>
+		<doc>0afc91e0-012a-4016-8b04-4c5cb5b7856b</doc>
+		<doc>6ae37c85-7db1-4491-86c3-c55a14a0c904</doc>
 	</docs>
 </clus>
 
 <clus id="46">
 	<feature>蟹蟹 帮忙 公关 联络部 </feature>
 	<docs num="5">
-		<doc>2e53c85c-37c0-4310-a89c-0a4dc2a97cb6</doc>
-		<doc>3a2e1308-0140-4bbe-bb9c-44da9e7cc774</doc>
-		<doc>920cd4af-cca8-49fe-947d-b4ef01b71bca</doc>
-		<doc>211ff03e-1a12-495c-be37-b1bf94e92847</doc>
-		<doc>c1482dc1-8993-4fae-971a-54b63d085329</doc>
+		<doc>b01503b5-961f-4db1-800a-40508fb80a26</doc>
+		<doc>0d48781e-d9fb-46fa-b2b4-d3bed99a9ddd</doc>
+		<doc>236e2868-9540-4bb7-a3be-1a80dba0258d</doc>
+		<doc>8a3d3719-86cb-4a66-a42b-0b38c1f4bde0</doc>
+		<doc>095a01aa-ea51-4cf5-9c0b-5abca58328fd</doc>
 	</docs>
 </clus>
 
 <clus id="47">
-	<feature>嵌入式 测试 大数 急需 简历 前端 示波器 万用表 西安 </feature>
+	<feature>师兄师姐 华为 镜子 逻辑 男生 女生 数理 提醒 研究生 </feature>
 	<docs num="5">
-		<doc>267d06fe-7b4a-45d2-90c0-79e2fdfa68c2</doc>
-		<doc>10034a82-39d1-4ee8-8678-032ff2e79fb2</doc>
-		<doc>28b7eafa-5758-4a4e-adf9-9d1bf3efac3c</doc>
-		<doc>2dc2bace-3808-4315-b8e8-6e2ef7cb86e2</doc>
-		<doc>5c9042e3-b0d5-4621-94b5-9d4466d4ba07</doc>
+		<doc>4fa5193a-cbfb-4a80-a361-bafff8d4950d</doc>
+		<doc>9fbb5b02-78f4-401c-9b7f-cceca9bfb9a9</doc>
+		<doc>4d0c0a75-833c-4ea9-9a10-3eac7b2297b5</doc>
+		<doc>b401d050-77cc-46d0-bd99-0c1ee500fcc3</doc>
+		<doc>83c0beb5-42ab-4486-bcee-fe61bef4a1b0</doc>
 	</docs>
 </clus>
 
 <clus id="48">
-	<feature>师兄师姐 华为 镜子 逻辑 男生 女生 数理 提醒 研究生 </feature>
+	<feature>董学长 纪念卡 厉害 董奕 学长董 </feature>
 	<docs num="5">
-		<doc>132318c6-8841-4ebc-8d57-19f6b624d1de</doc>
-		<doc>a1f033c4-7068-402f-96cf-11e02ec04be2</doc>
-		<doc>093e22d0-1486-4024-9ba0-b7973c112951</doc>
-		<doc>8f58fc19-c1ae-47ee-abbf-fdc3fc12d621</doc>
-		<doc>dd52f8ee-437f-498c-82de-ea8c967ed483</doc>
+		<doc>d009a621-4481-4d8b-a569-ab7023302aab</doc>
+		<doc>35468338-9d87-48d4-a8bd-146948855da4</doc>
+		<doc>19af19c2-70f9-4c74-afc9-7419ee88c63b</doc>
+		<doc>5e30f30e-e367-4085-bfcd-888945836a5d</doc>
+		<doc>f6b222c9-3399-49ab-90b4-40ac1b3b4b50</doc>
 	</docs>
 </clus>
 
 <clus id="49">
-	<feature>董学长 纪念卡 厉害 董奕 学长董 </feature>
+	<feature>恩恩 多谢 谢谢 </feature>
 	<docs num="5">
-		<doc>c6b82641-eda8-410e-b51a-1f61d51725ef</doc>
-		<doc>cda20678-c8da-4275-abc1-61117482d7a8</doc>
-		<doc>0d90f094-b03e-4893-989b-8c6c58b10088</doc>
-		<doc>af800841-fb85-4ac6-8bfb-a78e901a5c07</doc>
-		<doc>fd1db8c3-febe-402d-ab89-9a4620b1308c</doc>
+		<doc>47c6e3e0-128e-452e-b380-bc3fa7611025</doc>
+		<doc>5e96e895-6a4b-40c3-889b-f23d218e82e0</doc>
+		<doc>8b6f2584-1228-4f05-9d05-5f369aa97b7f</doc>
+		<doc>887cabc4-e646-463d-9e53-4ed1358f7445</doc>
+		<doc>9556993f-0cae-4576-a9f5-35a856fcaf01</doc>
 	</docs>
 </clus>
 
 <clus id="50">
 	<feature> 错过 作业 </feature>
 	<docs num="5">
-		<doc>b28d35ce-a70d-4b1c-8c63-496cc0a6fb4d</doc>
-		<doc>0332cb22-9b98-4748-89b9-1b86f91179c9</doc>
-		<doc>3488f670-1716-4a32-83c3-ae58363115cb</doc>
-		<doc>bbcbe0f0-96cc-4119-a42e-f4e00b705b4e</doc>
-		<doc>eeeaa8b7-22ae-4811-98a5-82a759e41a76</doc>
+		<doc>026c6dbd-cfe3-4a44-8ca7-694ac4e1d2cc</doc>
+		<doc>5cff6ac9-842f-40f7-bac1-76c05d9e8349</doc>
+		<doc>9436128b-e689-40c5-95cb-012ef5b1d522</doc>
+		<doc>d63e02ed-8b52-414a-b344-ff5b90b0ebda</doc>
+		<doc>e0a83328-0e85-4873-822c-2bd31af5bd2f</doc>
 	</docs>
 </clus>
 
 <clus id="51">
 	<feature>铁一校友会 校友会 </feature>
 	<docs num="5">
-		<doc>9cbafeb5-f477-4b55-ba34-f7c84c0b8404</doc>
-		<doc>1bcf168d-53b0-4458-b7f2-c6ba59e85daa</doc>
-		<doc>92b3037b-3c34-4a02-89d6-e3889634b04f</doc>
-		<doc>a431e0d3-5e18-4706-aa68-8317e6820341</doc>
-		<doc>b223decc-e599-4ec6-a075-25c3dc3a07ce</doc>
+		<doc>0119a1dc-9513-4f68-be99-ef5bd1ed02d8</doc>
+		<doc>0c52328a-bc2e-43fe-a903-576ca996131e</doc>
+		<doc>144ee6b4-16f6-463e-b317-123d9ead52eb</doc>
+		<doc>2ec3361f-a5ad-4a2a-95bd-dd644b9e5093</doc>
+		<doc>e12fcc8b-5649-4704-94f7-b54037f26fba</doc>
 	</docs>
 </clus>
 
 <clus id="52">
 	<feature>基友 生日 </feature>
 	<docs num="5">
-		<doc>3911cdcc-f297-4df0-9ad1-0e1e733ce4b8</doc>
-		<doc>0d4bf681-9acf-4783-a9f5-1641c7b50cc1</doc>
-		<doc>288336e2-f1e2-49d9-b20d-d1a905481e36</doc>
-		<doc>32ce3c97-6eeb-4af7-80fe-3798220b23a4</doc>
-		<doc>f9eee85c-41a2-4c53-baed-9b596056c21f</doc>
+		<doc>82ae3947-38e9-47e7-9280-a28e98bd56d9</doc>
+		<doc>277a99fc-0cbb-45e5-ab0a-7d5f1ff5e77a</doc>
+		<doc>75bc1e00-decb-4644-abf8-5082d1323863</doc>
+		<doc>8ba2bebd-058a-4383-9831-45a187079549</doc>
+		<doc>f6e10198-5862-435f-bc50-6ef8ea75ee90</doc>
 	</docs>
 </clus>
 
 <clus id="53">
-	<feature>老乡群 分裂 转手 陈奕 迪斯 雷迪 门票看台 群里面 天津演唱会 </feature>
+	<feature>老乡群 分裂 看台 里面 门票 天津 万能 嫌疑 演唱会 </feature>
 	<docs num="5">
-		<doc>af6cb45e-dbe4-45ad-8a4d-88c12815b99e</doc>
-		<doc>0b847f52-bf06-4c1c-9ca8-078d3844d031</doc>
-		<doc>4e441036-27b8-4a4f-8f32-943fa23c6224</doc>
-		<doc>5c7d16dc-716b-4d49-af2d-df52ddfd1f1d</doc>
-		<doc>495bebd4-7a77-4c8a-b33c-8fefa24d0c69</doc>
+		<doc>a0bc06d2-9485-4bcf-81c4-2bf26afd7b79</doc>
+		<doc>35ae12f9-c0bd-4360-a018-1ed2db13881d</doc>
+		<doc>47e98059-b02c-476c-8bdf-e0f5fc0c37a1</doc>
+		<doc>1cd24c7c-458e-485f-81ae-90fc4faa8c61</doc>
+		<doc>6328449f-258b-488e-b08f-aa12d45363d1</doc>
 	</docs>
 </clus>
 
 <clus id="54">
 	<feature>西安理工 百分 同桌 </feature>
 	<docs num="5">
-		<doc>f77f73e4-2ead-4e59-bb5f-96f3df778971</doc>
-		<doc>11068e1d-9064-464c-9974-6418c219027a</doc>
-		<doc>4f17a2e0-6d5d-4b34-9281-68c7ec9d24fb</doc>
-		<doc>9413bdb8-f4b1-4449-9437-140bee52520e</doc>
-		<doc>952ffc4a-7ab0-4439-b3f2-614b79297d9f</doc>
+		<doc>9bc7fd94-6afc-4b44-b9b3-54ded4cc981a</doc>
+		<doc>2ad22078-2d34-4bef-b385-22b138fcc6a4</doc>
+		<doc>965dded6-6727-4f1f-bd0d-98470dd787c1</doc>
+		<doc>a4283963-6ddd-47da-a7ef-6b86f229bce8</doc>
+		<doc>a57a1911-12d3-4506-908d-4323fee5e2e2</doc>
 	</docs>
 </clus>
 
 <clus id="55">
 	<feature>领红包 默默 谢谢 样子 组织部 宋佳 </feature>
 	<docs num="4">
-		<doc>b0398ab4-11b8-4b11-a4b2-cb47468e4c58</doc>
-		<doc>0e75ea3d-beb0-4c99-8729-670f019cbfc8</doc>
-		<doc>2cedeb99-14a3-4f19-ac43-73a6c474a4f9</doc>
-		<doc>e49048ef-5afb-4573-9c3e-1ef4d1a263a4</doc>
+		<doc>9b06bbbc-d9ba-4f57-974f-12db3eecfaa4</doc>
+		<doc>1d4253e8-8936-47da-8b6e-d3afafc539dd</doc>
+		<doc>5058c5ef-c906-45e4-a3b2-651ddb03d574</doc>
+		<doc>97b5f75d-c50e-420a-9f5b-e345438b6398</doc>
 	</docs>
 </clus>
 
 <clus id="56">
 	<feature>洗牙 超声波 过氧化氢 报销 机器 冷光 求助 实验室 乡党 </feature>
 	<docs num="4">
-		<doc>161294d4-4516-4bd7-b856-477267f6fc59</doc>
-		<doc>51af4dc9-987f-40ab-9160-03edcdfc4349</doc>
-		<doc>5feb0b89-f3d1-4f2a-a54b-da800f4d999e</doc>
-		<doc>33402188-4a08-4e03-992b-9154c2ee2c16</doc>
+		<doc>686cdcb6-be1d-47b3-a3a6-582d5bfe4479</doc>
+		<doc>e8a78610-248f-4fd8-9b3c-42873c5747ff</doc>
+		<doc>7b64f7f8-96ce-4fa1-843c-399595943d0a</doc>
+		<doc>6c45e68e-1af7-4b81-9a21-0530bdaa97ff</doc>
 	</docs>
 </clus>
 
 <clus id="57">
 	<feature>陕西理工 汉中 西安 </feature>
 	<docs num="4">
-		<doc>027bdd55-137e-47bf-9629-35ffe848788f</doc>
-		<doc>9e74aec8-7376-42cf-b727-304481af1249</doc>
-		<doc>8f5de2d8-d564-4720-a078-1d03898a4e8a</doc>
-		<doc>c7fc609b-ffb5-44f1-b743-3f09bb9cd6a7</doc>
+		<doc>0c5fa9c9-33ea-45b5-bfb2-ce91e439d8d1</doc>
+		<doc>9c118ce3-475f-4602-9a08-a7e3d75ecbe1</doc>
+		<doc>06039ea0-5453-42db-9b83-f5efd0a35ac3</doc>
+		<doc>572c0334-82a2-44bb-a8ef-df0737a18032</doc>
 	</docs>
 </clus>
 
 <clus id="58">
 	<feature>洋葱学长 </feature>
 	<docs num="4">
-		<doc>152a56f7-b3db-4f1f-b90a-466ca4a90609</doc>
-		<doc>38b8b4cc-8d64-4522-bd77-d8aa5fe0238d</doc>
-		<doc>3a16b69c-7fb2-4f4a-92e9-0eee4eed1834</doc>
-		<doc>4a9ff3aa-5197-4b08-bd42-bb7e3937de6b</doc>
+		<doc>1db56d10-2dee-4326-9c1c-4fb42e68dc66</doc>
+		<doc>4112cf2e-2ba0-4b1e-a113-87c4907866e6</doc>
+		<doc>9881c9a5-9e35-44f6-ad42-9a88b641c376</doc>
+		<doc>e2428b31-9fdb-4e38-8ae3-0881048d0148</doc>
 	</docs>
 </clus>
 
 <clus id="59">
 	<feature>板芙 啧啧 伤肾 </feature>
 	<docs num="4">
-		<doc>7b03f926-5a14-4d66-8518-a838a14b7e88</doc>
-		<doc>147319b0-835d-4e23-a95f-262fc1ceece3</doc>
-		<doc>32127dc9-8368-4abf-b7f1-4b0cf8cf8a1e</doc>
-		<doc>fc5d5147-c482-455f-8f92-60f30a3b6ad1</doc>
+		<doc>4346ee5a-a97c-4f61-8874-7d4e259083bb</doc>
+		<doc>7885c713-1591-449e-a890-58ba0410075c</doc>
+		<doc>8ad59fd2-f9e9-45ab-a6c6-304b7722a418</doc>
+		<doc>cb31594b-ea88-4d2f-9d99-cb8dc047f237</doc>
 	</docs>
 </clus>
 
 <clus id="60">
 	<feature>淘口令 红包 口罩 粉尘 过瘾 呼吸 火速 尽情 口令 男女 </feature>
 	<docs num="4">
-		<doc>745e6c99-6dea-4c15-bf1e-75798a6063a8</doc>
-		<doc>024c3e6c-99ea-4cf7-a5ad-8cf9c2dedb45</doc>
-		<doc>03ffa76d-5ac0-45fa-a148-d5b52319f4ea</doc>
-		<doc>047ca1f4-366a-4707-bd1a-927a52fe5822</doc>
+		<doc>2ff19bc0-99f3-4223-a5a5-9141c52e1338</doc>
+		<doc>c40cf178-00ee-4e2d-856f-1a3276d4d25d</doc>
+		<doc>d35c57ed-6d1d-4977-a493-ff80853d8789</doc>
+		<doc>6927a314-701a-4e63-8e11-e9acbdb91a58</doc>
 	</docs>
 </clus>
 
 <clus id="61">
 	<feature>佘晨阳 刘一 吴江 欣悦 博胡 曹晓 超徐 晨佘 戴维 </feature>
 	<docs num="4">
-		<doc>27ec3d60-2426-43ba-98c0-47c5f0839193</doc>
-		<doc>d475a908-35d7-4831-a82f-ce7c5341c928</doc>
-		<doc>4a98afd9-c241-40b6-865f-5707f769ff33</doc>
-		<doc>69bcc915-5401-4d3e-9087-5ba83cb32a1c</doc>
+		<doc>7b70c4fc-885f-4bde-a91f-9662249a295f</doc>
+		<doc>fdc73d69-bf44-4d05-b6e9-6aa00d0d937a</doc>
+		<doc>ba0e5810-5484-486f-8c5a-e875b2909c88</doc>
+		<doc>cb46ffdd-3c25-48bc-bad1-e31c97756c7b</doc>
 	</docs>
 </clus>
 
 <clus id="62">
 	<feature>奥奥 </feature>
 	<docs num="4">
-		<doc>dab3077a-4bf1-4007-b3ff-f90179cc272a</doc>
-		<doc>46b9f578-3809-45ff-9ae0-6bab247e9b4a</doc>
-		<doc>c7b47fb9-2cd8-41d8-994a-36b3457da936</doc>
-		<doc>e05befa1-6c54-441d-b3dc-9f157133e0a0</doc>
+		<doc>3296bfa7-e751-43a0-b61b-ae7ff58e9589</doc>
+		<doc>1d40032c-3067-4dce-9d15-f3f6797c8986</doc>
+		<doc>4c801538-17c3-4e58-9e80-0e9a45481dfe</doc>
+		<doc>86ea44a9-994b-494a-af49-c52ba02b70ce</doc>
 	</docs>
 </clus>
 
 <clus id="63">
 	<feature>艾玛 表妹 笑笑 </feature>
 	<docs num="4">
-		<doc>9fe584cd-b916-4830-9ad5-c4a6d1032dbc</doc>
-		<doc>4e47a5fe-f1c1-4700-8ea4-97fa2550868d</doc>
-		<doc>a45eb2c8-7c10-4b6e-924b-688bd03c4601</doc>
-		<doc>b42f5122-c5bc-4e9b-946e-6651f10d41ee</doc>
+		<doc>083f5161-a330-4a31-9b95-fa418b06414f</doc>
+		<doc>169806e0-52ad-4339-bfbb-49d14d434051</doc>
+		<doc>3062e872-dec1-4b69-8312-0b9009942df1</doc>
+		<doc>66b5e56b-a10e-4156-87ec-52a697c66c65</doc>
 	</docs>
 </clus>
 
 <clus id="64">
 	<feature>茼性 寞釋 </feature>
 	<docs num="4">
-		<doc>0fde8a56-6184-42f2-b44e-db3e4154ba25</doc>
-		<doc>656d2d74-7adc-4106-9e31-54f0b1b8d3ef</doc>
-		<doc>97d0aa67-09eb-4c41-9427-f45b2e1dab83</doc>
-		<doc>ca83637e-8d5e-4f2a-aaf1-0fd676271f0b</doc>
+		<doc>38b5cfb0-e38f-42a4-93ff-c84cd37dddf7</doc>
+		<doc>6518246c-f2a8-4c48-9bd5-cf3c258cdae4</doc>
+		<doc>6afcb698-d969-41ad-a409-5aab94d1e8b9</doc>
+		<doc>aafe6b40-8d13-4e2e-bc02-9e9f4d756568</doc>
 	</docs>
 </clus>
 
 <clus id="65">
-	<feature>截屏 女朋友 板斧 发给 荷鈥 何荷 </feature>
+	<feature>王译锌 是不是 订金 红包 泰安 学长 博康 曹哲 超师 </feature>
 	<docs num="4">
-		<doc>88e18a99-a315-47c7-aff5-6f3713a4b11a</doc>
-		<doc>0958c9c7-d5e5-46bf-b337-0336f21416a1</doc>
-		<doc>ac84fcde-115c-456b-aa80-c855e6ae953b</doc>
-		<doc>b18d6671-e01d-404f-a600-c4929b031ad6</doc>
+		<doc>9d3b6d0b-e23e-43d6-ae5a-39751a37c5ef</doc>
+		<doc>bec65fe9-4a79-4bc3-a6fc-664d0323bb0b</doc>
+		<doc>9225ebf9-fa7e-4120-aaab-557e10af97a1</doc>
+		<doc>9315c44e-922e-4689-9333-059c135163e1</doc>
 	</docs>
 </clus>
 
 <clus id="66">
-	<feature>王译锌 是不是 订金 红包 泰安 学长 博康 曹哲 超师 </feature>
+	<feature>徐琦 李哲 石高强 调剂 定金 博邵 邓宏 高强侯 广雅 </feature>
 	<docs num="4">
-		<doc>9827d550-cae4-4c22-b671-512fa6c49bd1</doc>
-		<doc>4563fae8-90fc-4c8c-aead-0c4bc17d5ed9</doc>
-		<doc>5514d5b6-3d00-4cc4-bcc2-092674e96d9e</doc>
-		<doc>6e44a046-8d70-4e5f-81de-7cddc51fb1c8</doc>
+		<doc>96a8b56a-4626-44a1-b518-638464e1442e</doc>
+		<doc>9f13df9d-f29c-46ec-bb28-3e977aed0d1c</doc>
+		<doc>b94d6bdb-b73b-4685-b7b7-cd0042342ab3</doc>
+		<doc>05e2c627-50b5-4c5d-93bc-6b6574b27a1e</doc>
 	</docs>
 </clus>
 
 <clus id="67">
 	<feature>友善福 吱口令复制 手机 製這 複製 多余 赐一 </feature>
 	<docs num="4">
-		<doc>246a9694-0528-4d7d-a01e-ee9d259d302e</doc>
-		<doc>af7e504e-6eb8-4f85-b2cb-da527d2bae55</doc>
-		<doc>15eb7a3c-362f-4c19-a29c-b2a7c6bfceda</doc>
-		<doc>b328dbb3-9e9e-48b0-82bb-64856df59c04</doc>
+		<doc>c6df608a-c970-480a-8477-0b4e7f995e32</doc>
+		<doc>a5659bbb-0760-457a-9f4e-192cfb215d3a</doc>
+		<doc>dd3bbef9-bd5b-4f65-b469-8a09a4cf4f76</doc>
+		<doc>e549d4cd-19b4-4160-8939-d252a8307a74</doc>
 	</docs>
 </clus>
 
 <clus id="68">
 	<feature>学院超市 学院超市旁边 窦鈥 </feature>
 	<docs num="4">
-		<doc>3502e547-6f06-41ef-bd3e-215b2b531560</doc>
-		<doc>2446df3d-aeb3-437e-b8fd-1e640de00951</doc>
-		<doc>af85683a-27ab-4610-8cca-186ac58c74a0</doc>
-		<doc>d9320f78-0999-4937-a7b3-9078ac3bb3fc</doc>
+		<doc>3321d00a-7f12-4221-9de2-cefbf921279d</doc>
+		<doc>6e8df225-cd30-4ec2-9a64-ba63ca829baf</doc>
+		<doc>8114c934-34ce-426c-958a-5f5b3091b6f0</doc>
+		<doc>ac9a5ec9-58e9-4754-a42d-446f8db2fe67</doc>
 	</docs>
 </clus>
 
 <clus id="69">
 	<feature>杀软 没用 </feature>
 	<docs num="4">
-		<doc>fa2f3d82-b51d-4617-a046-11cb197529d1</doc>
-		<doc>1f049a57-e0e9-44f8-8cc6-11e0df114b03</doc>
-		<doc>202d6f52-307e-442b-918f-e81fe75517f5</doc>
-		<doc>b6e95ce2-5620-4f5b-99c0-b9275a1f1744</doc>
+		<doc>94c48d73-21d9-4218-9849-396a04a36892</doc>
+		<doc>695dd2cb-b562-46bd-93b3-2d14b842e4fb</doc>
+		<doc>819877c9-eeaf-42a8-aa21-8d442a0152be</doc>
+		<doc>c96af2b2-856d-4247-b283-396cd3cf9d1c</doc>
 	</docs>
 </clus>
 
 <clus id="70">
-	<feature>徐琦 李哲 石高强 调剂 定金 博邵 邓宏 高强侯 广雅 </feature>
+	<feature>截屏 女朋友 板斧 发给 荷鈥 何荷 </feature>
 	<docs num="4">
-		<doc>6bdefaab-f9c3-4ed0-b266-73f63ce17655</doc>
-		<doc>ada33232-8758-41b6-8060-0f7aead03f12</doc>
-		<doc>7763d44b-bcaf-44ab-b441-f7bb6e1e7a56</doc>
-		<doc>7450b023-be85-40c1-ace7-339392074861</doc>
+		<doc>55e8f5fd-def3-41e7-865b-bb0b57105593</doc>
+		<doc>c55e5451-a6f2-433f-b8d9-924bcb818e0b</doc>
+		<doc>91a0232c-88e7-4594-85a4-663c5c13eb46</doc>
+		<doc>f1a49e2a-c342-4995-ba09-89b1ea6289e9</doc>
 	</docs>
 </clus>
 
 <clus id="71">
 	<feature>尼玛 崩溃 大奖 大年 惦记 动手 发奖 挂念 过年 </feature>
 	<docs num="4">
-		<doc>2c1cfbab-a933-4dfe-add3-7cbd6ce84b1d</doc>
-		<doc>9987e60d-9280-46b1-a0b7-eca6acf01926</doc>
-		<doc>53ebecd8-4464-489f-972f-ffc335a07297</doc>
-		<doc>b5a46ef3-f4bb-426b-90ac-a4f8d44ca915</doc>
+		<doc>c493d9b7-78c9-49b4-a5b1-94920d54f396</doc>
+		<doc>e2736bbf-2d4d-4002-9c1a-c8e4be9cc222</doc>
+		<doc>379c8b7c-b7b2-4d8e-a071-d9ebaec4b81b</doc>
+		<doc>ff671524-d113-4308-b967-6b28f3939343</doc>
 	</docs>
 </clus>
 
 <clus id="72">
 	<feature>禧龙 厕所 房改 开间 男生 透明 醉醉 醉哒 </feature>
 	<docs num="4">
-		<doc>bc81133f-084a-46c3-853f-3ff0b7004b48</doc>
-		<doc>2566bb6e-67b7-45e4-9b68-2d7578614180</doc>
-		<doc>acea0036-3628-4a65-a63b-b0fd405f78bf</doc>
-		<doc>74c2846b-fac8-410e-933c-f73e018bfe7c</doc>
+		<doc>3b90c3e1-0e2c-487a-b3eb-f145bac8c612</doc>
+		<doc>68c57bf9-f307-4316-b562-7d8c147c429d</doc>
+		<doc>7bf053fb-caa4-4afc-8fce-10da4d4a17bf</doc>
+		<doc>9c6c1f0d-6048-4a72-a349-eeb867812678</doc>
 	</docs>
 </clus>
 
 <clus id="73">
 	<feature>学院超市旁边 窦鈥 </feature>
 	<docs num="4">
-		<doc>3502e547-6f06-41ef-bd3e-215b2b531560</doc>
-		<doc>2446df3d-aeb3-437e-b8fd-1e640de00951</doc>
-		<doc>af85683a-27ab-4610-8cca-186ac58c74a0</doc>
-		<doc>d9320f78-0999-4937-a7b3-9078ac3bb3fc</doc>
+		<doc>3321d00a-7f12-4221-9de2-cefbf921279d</doc>
+		<doc>6e8df225-cd30-4ec2-9a64-ba63ca829baf</doc>
+		<doc>8114c934-34ce-426c-958a-5f5b3091b6f0</doc>
+		<doc>ac9a5ec9-58e9-4754-a42d-446f8db2fe67</doc>
 	</docs>
 </clus>
 
 <clus id="74">
 	<feature>王梓凯 龙聪洋 订金 泰安 博康 曹哲 超师 超王 晨潘 </feature>
 	<docs num="4">
-		<doc>9827d550-cae4-4c22-b671-512fa6c49bd1</doc>
-		<doc>390ede62-ef89-4d1a-aa79-d29d89ccd545</doc>
-		<doc>c6fcfa79-fe7e-456c-b5f0-eb4bcde43a32</doc>
-		<doc>55e0db4a-3d6f-43bd-84b5-e2738bae0e23</doc>
+		<doc>9d3b6d0b-e23e-43d6-ae5a-39751a37c5ef</doc>
+		<doc>20987599-2e7b-4214-8ded-87a377821209</doc>
+		<doc>3aba43fa-3c4f-441e-b20e-d61cebe83342</doc>
+		<doc>d882bfe5-b6fb-42e6-8416-027a4653f7d0</doc>
 	</docs>
 </clus>
 
 <clus id="75">
 	<feature>海淀驾校 帮忙 报名 即日 良心 原价 月底 注明 陈海淀 </feature>
 	<docs num="4">
-		<doc>be7b5807-dffa-44ee-819d-359f6c1b701f</doc>
-		<doc>8640a033-e770-4f44-95e6-49d5f5256940</doc>
-		<doc>117d4669-7e67-4e62-873c-03e4a84f7480</doc>
-		<doc>247c8a56-2d4e-48d5-9fc3-7afbd4fef117</doc>
+		<doc>ec75d358-8eac-4a54-bfb7-889d81ea1b7c</doc>
+		<doc>a1a6443a-2daf-43b0-adbc-77cddde13614</doc>
+		<doc>d80fd830-48cd-4632-9475-01637eca82db</doc>
+		<doc>f30f2d67-1872-44a9-aca3-3d971ca411b1</doc>
 	</docs>
 </clus>
 
 <clus id="76">
 	<feature>吃香锅 北航 丹妹 </feature>
 	<docs num="3">
-		<doc>7c35086c-427a-49b0-ac29-fe5b036ab51f</doc>
-		<doc>59336f89-a46e-4a91-87ba-5243cd6ba5f7</doc>
-		<doc>181ebdaf-a686-48df-9e02-f3c5205b6518</doc>
+		<doc>b6fd1c81-4789-4a9c-b9fe-d2bd3b01112c</doc>
+		<doc>6a17bea5-2d04-4dbf-a3b2-7c7c3b04baff</doc>
+		<doc>325f1e46-5cc1-4fad-9c69-d0ca390c2b55</doc>
 	</docs>
 </clus>
 
 <clus id="77">
 	<feature>打车券 监控全程 大钱 快车 实时 中国不许 出行 省钱 守护 </feature>
 	<docs num="3">
-		<doc>0bcbe8a1-ec10-4892-ac5d-8af4185c82b8</doc>
-		<doc>73bf8569-ccd1-44fb-9049-ed7ede5031c5</doc>
-		<doc>2e2d8a46-db75-4358-990a-aa82a0db7872</doc>
+		<doc>8d30a14b-d951-4a42-bfc3-ef2757b63f37</doc>
+		<doc>eecba8cd-3546-4828-90d0-e0a34a8be493</doc>
+		<doc>a1cfbcfb-2eca-42f8-8783-5b638a4fae28</doc>
 	</docs>
 </clus>
 
 <clus id="78">
 	<feature>东方时尚 墙裂 时尚不错 </feature>
 	<docs num="3">
-		<doc>55ae9e93-6a34-42e1-9880-227a67360ae3</doc>
-		<doc>b62c3fd3-8208-4ccb-896d-cbc8f4842caa</doc>
-		<doc>7a7ab8ec-1732-4874-ad7f-1576493a94f9</doc>
+		<doc>8f199bf9-5d38-470a-b075-7ba6a10495fe</doc>
+		<doc>ca1b93f4-9db2-482b-a4c3-66fdc60da0ae</doc>
+		<doc>bf5638ba-1c99-4ccd-b170-22ae535f86ca</doc>
 	</docs>
 </clus>
 
 <clus id="79">
 	<feature>王壮鑫 仕鑫 王仕 思怡 喔王 鑫赵 </feature>
 	<docs num="3">
-		<doc>a6954ef0-ef2a-42b5-a413-182f3fa25b9b</doc>
-		<doc>51a391e9-5d15-461e-abd5-54838d3b9d63</doc>
-		<doc>f0c6f450-4ab9-4966-85fd-1c01b0a697f8</doc>
+		<doc>77a22257-3882-4cc5-8dff-feb94eda0ae7</doc>
+		<doc>bf188ef0-7a67-4963-8f85-ac9fdcec41ed</doc>
+		<doc>f5d23d5f-0e10-4dd9-867b-41c6b798525a</doc>
 	</docs>
 </clus>
 
 <clus id="80">
 	<feature>二手书店 本部 经手 开门 面交 愉快 略坑 书店略 </feature>
 	<docs num="3">
-		<doc>853c0121-ff27-4848-b44e-8aa4c91c5b7f</doc>
-		<doc>7f3f91a8-99ca-4e97-b86d-f9a24d5c81b0</doc>
-		<doc>e6784d4d-f127-4b83-8999-df57c979fa30</doc>
+		<doc>1a5a412f-922a-4d24-b8f1-a425bc33f327</doc>
+		<doc>23d40314-8929-45a3-b0c0-5a6bd7ea3ba8</doc>
+		<doc>cd241863-6c2f-41fa-b32f-29fcb9da94a9</doc>
 	</docs>
 </clus>
 
 <clus id="81">
 	<feature>管子键 管子键鈥 问卷 </feature>
 	<docs num="3">
-		<doc>bd069d51-aa91-4c90-ac4c-72e2939648fd</doc>
-		<doc>e41287a0-a284-48b0-a831-6a0954df87f6</doc>
-		<doc>ebeb3ad6-52c8-4aaf-b76b-1305e03a7762</doc>
+		<doc>488939ff-844d-4032-b808-c27df7a905f4</doc>
+		<doc>212e33b1-1825-4272-853a-466f8710e3dd</doc>
+		<doc>a3a9300c-357e-474f-8f92-339c5f7efc33</doc>
 	</docs>
 </clus>
 
 <clus id="82">
 	<feature>汉一中 </feature>
 	<docs num="3">
-		<doc>10718d91-1e68-4dee-aecf-998766af76c2</doc>
-		<doc>870028a7-feb4-4a5c-96dc-0a24ee141ba0</doc>
-		<doc>bc7f7346-e981-4ed3-ab08-e815c0a88d6a</doc>
+		<doc>8eba579e-51f5-4269-80df-d25f1d65da9f</doc>
+		<doc>a2884cd9-c5ea-467a-9207-f09129a5980f</doc>
+		<doc>ab380e03-b6b7-4808-a347-5e04299b6728</doc>
 	</docs>
 </clus>
 
 <clus id="83">
 	<feature>汉中方言 成都 官话 西南 贵川 云贵 </feature>
 	<docs num="3">
-		<doc>1b987dea-9186-4e2d-8f7c-4001150f7cda</doc>
-		<doc>a69e26c5-f7f4-495b-b0fe-aa5efb5e8aa7</doc>
-		<doc>7622607d-49ae-4da9-8b43-60a3060b1ee5</doc>
+		<doc>6f793646-f1cc-42c2-b5ac-d40321dff030</doc>
+		<doc>94f57236-d204-43c0-8724-93ca3c0ea214</doc>
+		<doc>a351f649-0472-4fad-b2af-544444556895</doc>
 	</docs>
 </clus>
 
 <clus id="84">
 	<feature>西南官话 方言 成都 汉中 </feature>
 	<docs num="3">
-		<doc>1b987dea-9186-4e2d-8f7c-4001150f7cda</doc>
-		<doc>595b5176-8534-464e-9458-5b1a1b08758a</doc>
-		<doc>0ab4dbc6-a83a-4af9-ab26-ebb5a68ccbd9</doc>
+		<doc>6f793646-f1cc-42c2-b5ac-d40321dff030</doc>
+		<doc>15a657b4-9abb-4cc2-89fe-eb44b4240f7f</doc>
+		<doc>a061261f-e499-4f6d-a490-7f80fa85ef31</doc>
 	</docs>
 </clus>
 
 <clus id="85">
 	<feature>红烧牛肉 里面 是不是 酱鸭 沙怡 怡鈥 </feature>
 	<docs num="3">
-		<doc>4aa1ca98-c882-4256-9dac-1767f31b0b87</doc>
-		<doc>62d13b0c-171c-436d-8b0f-3bd8d2722020</doc>
-		<doc>dd4f6549-906a-436d-bc03-0fdc660dcbc3</doc>
+		<doc>1d116966-fa66-41cf-a8f3-ccb6d18d2beb</doc>
+		<doc>59c6d1a3-7940-4d39-abb8-f35116bf6520</doc>
+		<doc>529da736-cf78-439d-98ac-73542a8efcd7</doc>
 	</docs>
 </clus>
 
 <clus id="86">
 	<feature>勾魂凉皮 少爷楼上 楼上勾魂 楼下 皮绝 </feature>
 	<docs num="3">
-		<doc>76895a73-a925-4fc4-92ed-1bd0d026084b</doc>
-		<doc>e8bf134d-2a80-4b54-bdda-c2cfd43c62a8</doc>
-		<doc>fd2d7119-253f-4991-b70e-a7c1f939fb4e</doc>
+		<doc>31417b95-93f9-4a99-9fea-4050d6d1493f</doc>
+		<doc>a3c66f43-3abc-4518-9017-25bc551fc414</doc>
+		<doc>d339e96c-faad-43e5-b939-5b1adf4767d0</doc>
 	</docs>
 </clus>
 
 <clus id="87">
 	<feature>鸡年大吉 老乡 万事如意 蹦蹦 黄鸡蹦 大吉 </feature>
 	<docs num="3">
-		<doc>bae1fc78-24d7-4057-9fea-e0498f9f8600</doc>
-		<doc>eb9e0ed9-0f54-4a67-a0dc-ed49421b5809</doc>
-		<doc>62cfe706-26cb-4077-b1d4-c8d08c8ce6b3</doc>
+		<doc>76f817f4-80b8-4717-8f00-f89860f19cd9</doc>
+		<doc>edca0a2b-3e56-4cad-871c-a3b5235ba9a6</doc>
+		<doc>40711c03-67b3-484f-9427-00bc1ddda7bb</doc>
 	</docs>
 </clus>
 
 <clus id="88">
 	<feature>特产干果零食礼盒 干果 坚果 礼盒 零食 松鼠 特产 中秋 </feature>
 	<docs num="3">
-		<doc>168996a6-50d2-46ea-bd6b-7eb4e7523d1c</doc>
-		<doc>46ec2197-c1cd-439c-bf3c-08cb574f371c</doc>
-		<doc>9dcaf4a7-ed5f-44b6-b214-b390ad2dbabe</doc>
+		<doc>02c01d2b-40aa-49b2-a7be-6c4a1fe60dc6</doc>
+		<doc>9f5c4c77-8c79-4746-a9b8-77ac1187fe8f</doc>
+		<doc>a2418876-db55-4f72-8007-2e770cc71a24</doc>
 	</docs>
 </clus>
 
 <clus id="89">
 	<feature>焦妹子 主意 </feature>
 	<docs num="3">
-		<doc>ec2c502a-86aa-479c-8899-26e131b2fb70</doc>
-		<doc>240ac2a5-a6b7-4ce8-98f1-63dd61760358</doc>
-		<doc>baa79d53-e3dc-44c9-b2f2-0049cea82bcf</doc>
+		<doc>9a50434a-2bb4-475e-9374-1d4344b0edcd</doc>
+		<doc>385802bf-4ede-464e-ab8c-3c0a77146820</doc>
+		<doc>a8fc046a-f910-41c3-b5b6-0d3756fa1910</doc>
 	</docs>
 </clus>
 
 <clus id="90">
 	<feature> 班级 投票 谢谢 </feature>
 	<docs num="3">
-		<doc>442b11ad-f6a0-4ec2-9cb1-b82fd616d38d</doc>
-		<doc>9028c284-a825-4b10-af35-98bce59687a5</doc>
-		<doc>09ecf134-d186-42c0-97c7-1eaf65600520</doc>
+		<doc>763207c8-cae0-400a-b690-39a394b49e92</doc>
+		<doc>9cd967ea-ab7a-498f-8324-4f7bb05774a9</doc>
+		<doc>4dd54627-bba6-486d-b2e9-ca11d03abb1b</doc>
 	</docs>
 </clus>
 
 <clus id="91">
 	<feature>咖啡厅 通宵 </feature>
 	<docs num="3">
-		<doc>36571456-f210-41f5-a83d-9a3b591d6ae5</doc>
-		<doc>3c0bf053-3333-47b9-8c47-d0dd5680bfc9</doc>
-		<doc>d5cc433e-291e-44c7-a287-94df36b0b904</doc>
+		<doc>9c16627e-5bf4-480b-acdd-0f4d9b4da231</doc>
+		<doc>643aadd9-d233-4c32-a256-3109b23656a2</doc>
+		<doc>cbc6e38b-4f69-41d0-8b34-82afcb2cf257</doc>
 	</docs>
 </clus>
 
 <clus id="92">
 	<feature>钵钵鸡 好吃 类似 哥香 南门 小巷 一品 鸡挺 懒龙 </feature>
 	<docs num="3">
-		<doc>20e865b0-2881-454e-b4f6-177f0e3ad217</doc>
-		<doc>9d1bb26f-1f9a-42da-b9e8-3a356a59cca2</doc>
-		<doc>0c869beb-8675-40c6-a465-caa486bd5b0a</doc>
+		<doc>797b33df-17ff-4bc2-bb53-248094b28515</doc>
+		<doc>a789c475-ea78-4757-957e-1034f9a0445d</doc>
+		<doc>a691f299-c57b-499b-a280-a05df844723f</doc>
 	</docs>
 </clus>
 
 <clus id="93">
 	<feature>凯德 基本上 牌子 西直门 德茂 </feature>
 	<docs num="3">
-		<doc>134951e1-e955-4e00-95c1-9a132d7c41eb</doc>
-		<doc>d2bd51c9-bc13-4316-a438-35debc9cc410</doc>
-		<doc>de0c2bdc-a98c-4352-9af2-df57037c9326</doc>
+		<doc>e90e3dd1-c7d2-4c87-bc08-eba37f86ab0c</doc>
+		<doc>6cfeaf2b-6375-4d59-8159-2396dc5baa37</doc>
+		<doc>f435dff5-456c-40ee-999c-deb05422df25</doc>
 	</docs>
 </clus>
 
 <clus id="94">
 	<feature>福建芦柑 福建 舌尖 甜蜜 芦柑 许鲜 </feature>
 	<docs num="3">
-		<doc>16e65387-3555-4e33-b0e8-657d0a41f836</doc>
-		<doc>f60086a4-17a6-4c8f-b928-4cee8ad7c838</doc>
-		<doc>fdc6f42f-0046-41fa-8130-068d5abf5416</doc>
+		<doc>25517cc5-0a4a-49fe-84fd-1dded5bd5ff6</doc>
+		<doc>9801a0c9-824a-44c9-8af6-2c807daea1f5</doc>
+		<doc>e08e5ecf-7c5c-47c0-a93b-e5f9b4dc030c</doc>
 	</docs>
 </clus>
 
 <clus id="95">
 	<feature>码农 宝宝 急功近利 浪潮 农谷 编程 农认清 修养 争执 </feature>
 	<docs num="3">
-		<doc>4c85c06c-eb9c-43da-ae14-670381c16165</doc>
-		<doc>415bbff8-87c9-41a8-8d2b-a55f211d6add</doc>
-		<doc>8340e9ad-1678-49c5-a37f-5994b26d061e</doc>
+		<doc>d9610395-abf4-4806-9f7c-7d95bfd1416e</doc>
+		<doc>3fda19dc-ce5e-4800-9fa3-d5f95ec41019</doc>
+		<doc>b5c2c5fd-1e7b-4475-b878-e9fb0858ceb9</doc>
 	</docs>
 </clus>
 
 <clus id="96">
 	<feature>马蓁 打电话 考生 厉害 陕西 实话实说 延安 中肯 妥妥 </feature>
 	<docs num="3">
-		<doc>181f2a3d-9bd2-4583-b5f9-f4817a83ae23</doc>
-		<doc>a9cc022f-cffd-4b5c-9fb3-3865cccf9787</doc>
-		<doc>e922a306-58c8-4a8b-babb-2e77fc867e30</doc>
+		<doc>af574f6c-e651-48da-8f19-7ce811cf6b81</doc>
+		<doc>063d8160-ac5b-4471-9198-32aa0f7074fa</doc>
+		<doc>89c9fb66-21f2-4588-84f1-3a513b3f898e</doc>
 	</docs>
 </clus>
 
 <clus id="97">
 	<feature>纳尼 </feature>
 	<docs num="3">
-		<doc>5787000c-4d06-4cc7-a498-ba1703d540ca</doc>
-		<doc>865831f8-9dd7-444c-86ef-db0427fa2684</doc>
-		<doc>99740a9c-602f-42fd-a92a-af2af9646965</doc>
+		<doc>4f25f4dd-c002-4d19-ae5f-9cabb7affe31</doc>
+		<doc>9c67755f-ed40-403a-aee0-22b5b1a830d6</doc>
+		<doc>c64e2f24-d8a1-4a84-be91-e77fd0d15a56</doc>
 	</docs>
 </clus>
 
 <clus id="98">
 	<feature>取代上海 北京 粗放 </feature>
 	<docs num="3">
-		<doc>d52c7736-85b0-45d6-9aa1-51f971f8eaaf</doc>
-		<doc>0a48c729-49f7-4797-ad60-a9dea38941b2</doc>
-		<doc>f046e92e-7014-43cc-9179-270918752cb6</doc>
+		<doc>ab809369-72ee-4133-a94b-f4d42d838fac</doc>
+		<doc>8a52e133-80d9-4738-a4bd-27885ca76bee</doc>
+		<doc>fcfb07a9-8b08-4f06-8c49-60a890fb495d</doc>
 	</docs>
 </clus>
 
 <clus id="99">
 	<feature>陕北普通话 改天 普通话 </feature>
 	<docs num="3">
-		<doc>25148a3d-79a6-4b25-9050-2028644b7d44</doc>
-		<doc>3699ded8-5443-4c06-8380-9447c0015316</doc>
-		<doc>7d7afe25-48d5-4c01-be3b-0d48aefb790a</doc>
+		<doc>2246f1f5-82ec-48a8-a615-6676cf25064b</doc>
+		<doc>c311ef1c-bd53-428f-a7cb-6e3278155c26</doc>
+		<doc>226b7e00-2fb0-408f-9748-b242fc091a2d</doc>
 	</docs>
 </clus>
 
 <clus id="100">
 	<feature>神马 答案 校内 作业 耶神 </feature>
 	<docs num="3">
-		<doc>d3759d2a-faba-4fa2-84cf-f46714973a13</doc>
-		<doc>478124f5-1be7-46c9-a32d-16a0b6aa9742</doc>
-		<doc>e5e61dd5-54a6-49ca-9eac-e16560c8b6bc</doc>
+		<doc>80ddd910-eebd-4aab-96f9-fd642776db8b</doc>
+		<doc>cc21cec6-85db-4006-bfd1-6bb526b6a773</doc>
+		<doc>89174984-7ea8-4bbb-b2bf-ad4aeea37ffc</doc>
 	</docs>
 </clus>
 
 <clus id="101">
 	<feature>刷屏 板斧 谢谢 原谅 胖友 友圈 </feature>
 	<docs num="3">
-		<doc>d3b2c2ff-12fe-4564-991e-53a7535f69f9</doc>
-		<doc>a4f590ed-94b3-496f-9e2d-219e1f9804a7</doc>
-		<doc>ddedd29e-c895-4a14-8e93-c2509d94e958</doc>
+		<doc>d8ed2232-a250-4d44-aaec-d447d72deac0</doc>
+		<doc>dab3a017-42ef-46cc-959b-bb42a0536a86</doc>
+		<doc>39a468ee-67f1-4a2c-8a68-322b98158224</doc>
 	</docs>
 </clus>
 
 <clus id="102">
 	<feature>谭维维 维维 </feature>
 	<docs num="3">
-		<doc>06c41a5e-1b41-4817-88ef-cd80c94f9d8f</doc>
-		<doc>eb673f52-d631-4959-9b2a-a716ef5a49a9</doc>
-		<doc>f18cc05b-3001-49f7-821c-0afc0d23312c</doc>
+		<doc>5f5f1cbf-3ca9-4caf-a1c6-507e80e6fd12</doc>
+		<doc>b2be1dcb-ac8e-4375-9405-29458ff49da2</doc>
+		<doc>c42c017b-d401-4c7c-9493-01a92eca12b2</doc>
 	</docs>
 </clus>
 
 <clus id="103">
-	<feature>泡姜鸡 西南角 汉中 老三 陈三娃 娃泡 </feature>
+	<feature>泡姜鸡 西南角 汉中 老三 陈三 娃泡 </feature>
 	<docs num="3">
-		<doc>b3bf5e6f-dd6e-4150-a653-f9ce4bb2458f</doc>
-		<doc>bf00b329-fae7-4af0-a8f7-01ac36869beb</doc>
-		<doc>91afdd8b-f6a6-457a-81e0-2940a0ba2472</doc>
+		<doc>420cf658-af16-425f-94a4-1e37a1118151</doc>
+		<doc>4a86a109-8592-4933-a42c-b612235fb287</doc>
+		<doc>f1d7a35e-e525-4964-96c1-df9fb8b2f6e9</doc>
 	</docs>
 </clus>
 
 <clus id="104">
 	<feature>脱单 板斧 小伙伴 </feature>
 	<docs num="3">
-		<doc>0249c7a3-3545-4364-867e-5e4f6ad3aedd</doc>
-		<doc>db218e1b-4be2-45a8-8caa-d6385cb1fc42</doc>
-		<doc>d39b4f64-ec5f-449c-b3da-7cbab3772bbb</doc>
+		<doc>6bf6dcc6-620f-49a0-8699-46e5a4aa2744</doc>
+		<doc>be7bdb60-2b5e-497d-84ec-2df5c35a0a82</doc>
+		<doc>7a85c12f-7d58-4a98-b82e-888e616f095a</doc>
 	</docs>
 </clus>
 
 <clus id="105">
 	<feature>万能福 </feature>
 	<docs num="3">
-		<doc>29661fd1-692f-4700-ad4a-539fc2b3184c</doc>
-		<doc>9f94b94e-42e0-45ed-8bc6-d43621617972</doc>
-		<doc>bf7f6542-81e8-4b3d-9ae9-33f4154fd515</doc>
+		<doc>85c1b7e9-6445-44e6-ab45-174f40d62eb3</doc>
+		<doc>f2b33025-d908-457f-a3b2-a101fef9f785</doc>
+		<doc>f460eba8-4016-4825-bfa4-70777402fd69</doc>
 	</docs>
 </clus>
 
 <clus id="106">
 	<feature>微信号 后面 年级 性别 姓名 </feature>
 	<docs num="3">
-		<doc>72835520-41d8-4e84-b52b-87730ddf6d06</doc>
-		<doc>49724831-4b9f-4c1c-9071-d2c9c02abc03</doc>
-		<doc>5bb7ccef-1e9b-45fe-a257-ea311c0a7f3a</doc>
+		<doc>ac8d841c-dba3-498c-bb4a-9c44374eb65e</doc>
+		<doc>796f2a6c-7522-409f-88e9-cf3896681311</doc>
+		<doc>37132857-9f5c-4c6a-bd36-ee47f2aef6df</doc>
 	</docs>
 </clus>
 
 <clus id="107">
 	<feature>渭南盆地 汉中 扩散 西安 雾霾 </feature>
 	<docs num="3">
-		<doc>0a9e4fc2-8400-4ef9-8154-ac5f62bc9178</doc>
-		<doc>69782f71-1b56-4140-a1d3-66db6fd24cbb</doc>
-		<doc>8c14da0d-0319-4116-8039-b7d788c71527</doc>
+		<doc>67bd6b3e-6517-45c1-91f7-781baa62f85e</doc>
+		<doc>b030a607-f7c5-4058-abf3-6ca0ccf734bd</doc>
+		<doc>dfaed6e0-5768-49bd-aae6-f935b00e3f5a</doc>
 	</docs>
 </clus>
 
 <clus id="108">
 	<feature>温莎 莎不错 </feature>
 	<docs num="3">
-		<doc>a5eda6da-c763-43bf-b1d8-79a9666e65e1</doc>
-		<doc>4508436b-af6b-43f7-bf61-d2df68222255</doc>
-		<doc>c633ece9-36fc-43f1-a08a-37d9dce095e5</doc>
+		<doc>5a232a70-94ff-45b7-a488-e362a07e46f2</doc>
+		<doc>1514549d-7779-43cd-92be-3ba9735b00ef</doc>
+		<doc>5263a2ac-7807-409b-be58-a6fadab17f37</doc>
 	</docs>
 </clus>
 
 <clus id="109">
 	<feature>刷一波 老乡 波刷 迪波 </feature>
 	<docs num="3">
-		<doc>0aa68966-b5bf-4dc8-b666-457c2ba740b3</doc>
-		<doc>bb63757e-95c3-4c30-b894-d0ef89e8d869</doc>
-		<doc>2b885af8-78ce-4d31-8000-7b346c83790d</doc>
+		<doc>b8c5c5d1-48a0-4523-926e-e9dd6d3eec25</doc>
+		<doc>e59b8f36-580b-4636-bebb-c35b4a4be62f</doc>
+		<doc>c88b5a43-1900-4e08-9a8f-7db46184aaa0</doc>
 	</docs>
 </clus>
 
 <clus id="110">
 	<feature>帅裂苍穹 </feature>
 	<docs num="3">
-		<doc>6961d149-14ca-4771-aca1-bd63b968c33a</doc>
-		<doc>ae676335-409b-4a62-89a7-df09aa4e96de</doc>
-		<doc>e1efae40-5f64-4899-84cb-b7eb9149608b</doc>
+		<doc>3c752935-c349-47ed-8f62-120bb6d49a5f</doc>
+		<doc>6240e33f-cbac-442d-89ac-f3ef5073622c</doc>
+		<doc>f877739c-8c8d-455c-b34b-f0521893d583</doc>
 	</docs>
 </clus>
 
 <clus id="111">
 	<feature>香锅 北航 超级 好吃 开学 麻辣 鱿鱼 香辣 </feature>
 	<docs num="3">
-		<doc>71226bd0-baa8-4ba9-8e57-99474c6023a9</doc>
-		<doc>2659ead0-8c82-4ee0-9631-3b48dc037e68</doc>
-		<doc>da4dcf06-61e4-44ee-bde5-f974959b4de3</doc>
+		<doc>26d8fa2e-0796-44fe-a44b-f7a1265d6584</doc>
+		<doc>2cf3c32b-35cb-4991-8ef9-8f8814d8e340</doc>
+		<doc>9ea65dc7-e8c3-485a-990d-e85f0f47de3f</doc>
 	</docs>
 </clus>
 
 <clus id="112">
 	<feature>洋葱龙 复试 洋葱 龙鈥 </feature>
 	<docs num="3">
-		<doc>d02e297e-57cd-4dd7-a51a-0718342a7d07</doc>
-		<doc>30bc2331-2cff-455f-91f5-00a67eb58d53</doc>
-		<doc>4b562bb0-0cea-4674-8d81-c2b06bdc2440</doc>
+		<doc>b24e1745-98f9-4be8-bc50-2a409017b241</doc>
+		<doc>33084cab-0b51-4f15-9e32-b4e422170820</doc>
+		<doc>eb9e9e1e-7303-4e0a-9677-753433f0314e</doc>
 	</docs>
 </clus>
 
 <clus id="113">
 	<feature>耀州 老区 王益 赵丹 </feature>
 	<docs num="3">
-		<doc>44a56be1-260e-4971-85aa-207104e8e7cf</doc>
-		<doc>024b1313-260a-477d-beb3-dbc8c23c5766</doc>
-		<doc>8fa0f5bb-8389-4996-bf32-309077c9d9b5</doc>
+		<doc>363d0d52-ef73-4769-855b-e13af16e0560</doc>
+		<doc>3499460c-0b46-42ca-a19e-551e89a6e1b5</doc>
+		<doc>9b1046d8-1e43-4e96-8c8c-cc6cfc776fa1</doc>
 	</docs>
 </clus>
 
 <clus id="114">
 	<feature>攒人品 试用 </feature>
 	<docs num="3">
-		<doc>ca725443-660b-490b-b9ea-5ecee8856bf8</doc>
-		<doc>09968d0c-bacd-44fb-a42c-6b67f97f21b1</doc>
-		<doc>3d31b491-2eb9-4f8d-b526-72d5eb158c65</doc>
+		<doc>7accdaa8-9874-4adf-9204-d29bb7d43bba</doc>
+		<doc>11fcf59b-869e-4d61-b1a5-9cb7e005c6cc</doc>
+		<doc>8cac78ec-9acb-43c6-b334-da80e3fe6ea1</doc>
 	</docs>
 </clus>
 
 <clus id="115">
 	<feature>揍板斧 帮忙 </feature>
 	<docs num="3">
-		<doc>f2dbb3ad-528a-4fd5-9a0f-1903d54a5ced</doc>
-		<doc>408255af-62c0-40a2-afc2-8402927ea72c</doc>
-		<doc>a5a56723-0752-4630-afb4-c53113bb66bc</doc>
+		<doc>8f94e6ab-4d32-4aea-9afa-e7308d4debeb</doc>
+		<doc>9c35a4ca-e26c-4228-91c7-4d20535577b2</doc>
+		<doc>ede86d3c-afab-4615-9838-70359c957523</doc>
 	</docs>
 </clus>
 
 <clus id="116">
 	<feature>钻石王老五 单身 谢谢 </feature>
 	<docs num="3">
-		<doc>9ec19c43-5759-4a37-abe3-79f96185eddd</doc>
-		<doc>02dd0785-6713-4eac-a57c-7b893190c631</doc>
-		<doc>43e84359-619f-42b4-8842-389ce270568b</doc>
+		<doc>52db127f-b5bd-4b5e-af5a-666cc581e09f</doc>
+		<doc>03734ae8-5522-4b9e-8fea-d91bf479c19b</doc>
+		<doc>7e9e8d23-f875-4854-b0b5-d1a1166f2421</doc>
 	</docs>
 </clus>
 
 <clus id="117">
 	<feature>銉籢 麓赂 单身 能量 籢麓 籢鈯 籢銉 健銉 麓麓 </feature>
 	<docs num="3">
-		<doc>e5977856-8752-4e27-8909-f8b771908e80</doc>
-		<doc>05865eed-b26b-4e3a-9f4d-d84db20b2ca7</doc>
-		<doc>9cffc22b-1ac7-4086-8530-a8ad5249c8b1</doc>
+		<doc>2446f1cf-bb69-4b1d-804a-d97a0efff307</doc>
+		<doc>b18bda6e-6d25-4327-92f8-9dcdc508fe89</doc>
+		<doc>9b4852d7-fda4-461a-80ba-6f534c1cdea5</doc>
 	</docs>
 </clus>
 
 <clus id="118">
 	<feature>炫彩 麻烦 是非 谢谢 非单 </feature>
 	<docs num="3">
-		<doc>12437765-629f-40c1-b781-897a5dec21e0</doc>
-		<doc>6054f363-f604-4fc1-98dc-80e13f71fa0b</doc>
-		<doc>cb2c20a0-c60c-461e-a584-b74939ab2f6d</doc>
+		<doc>699f176d-1bcb-46c9-b7cf-214ad20bffa1</doc>
+		<doc>84c24a2a-2246-474c-bb1d-0769807b49ba</doc>
+		<doc>d7d0c5ac-005c-46ba-ae2d-278956a10f61</doc>
 	</docs>
 </clus>
 
 <clus id="119">
 	<feature>财源滚滚 财源 滚滚 </feature>
 	<docs num="3">
-		<doc>0042e682-c965-441f-b70a-265fa4d3f432</doc>
-		<doc>f22dd61d-b16d-4b1c-8574-6400c95b986b</doc>
-		<doc>ff0c1ab4-6679-4774-9a1c-325e4291595d</doc>
+		<doc>1570298a-de8d-4ba4-a16c-33613e7c9e8b</doc>
+		<doc>1a8abc63-65c8-4e8c-9ed3-55738fae05f2</doc>
+		<doc>bcaf0281-ed3e-429f-8a9d-3d017ea9d8d6</doc>
 	</docs>
 </clus>
 
 <clus id="120">
 	<feature>超值 北京 分享 富士 核桃 红枣 品质 脐橙 新疆 </feature>
 	<docs num="3">
-		<doc>51bf9af7-a3e4-4268-a6ca-f84a36cee6df</doc>
-		<doc>971cf68e-555a-4a9c-a63b-bf0370f6a90d</doc>
-		<doc>3e4b4a14-c0eb-4c6a-8bb2-86db5d7fe14e</doc>
+		<doc>64148b83-1618-459c-93e2-222ad4441b20</doc>
+		<doc>5eeb7c20-60fc-487f-8284-0210e8cbacf0</doc>
+		<doc>622fd7a5-76ab-43a1-a43f-9c49f4ad06e2</doc>
 	</docs>
 </clus>
 
 <clus id="121">
 	<feature>玛丽女王 伦敦 学院 英国 排名 </feature>
 	<docs num="2">
-		<doc>4f9a886a-cec5-4982-b68b-f7e6a6aad9e5</doc>
-		<doc>46877dd2-c5fe-4207-b29c-1e59b6ca6e9e</doc>
+		<doc>9cb92e32-e7be-4d2c-bf1e-5089c5633bd4</doc>
+		<doc>a6ea6ca7-453c-445a-a5e2-9489bc4ec19e</doc>
 	</docs>
 </clus>
 
 <clus id="122">
 	<feature>胡嘉豪 </feature>
 	<docs num="2">
-		<doc>50bd0863-668d-4bc4-9cf2-c79d1f626cc9</doc>
-		<doc>ba7ae234-9ad4-49cf-85e2-ce1cdeed3eaf</doc>
+		<doc>29da25c8-5c16-4ae1-9a67-47a27dfdb1be</doc>
+		<doc>65d1248a-5b80-41b5-9323-eb3db5998f5d</doc>
 	</docs>
 </clus>
 
 <clus id="123">
 	<feature>亦可赛艇 赛艇 亦可 </feature>
 	<docs num="2">
-		<doc>4cd18429-249f-4ab3-8914-833e1cec03fd</doc>
-		<doc>818e52ac-49c0-44a3-9a20-91569e23aa82</doc>
+		<doc>15551019-f22a-4607-86ba-70f72f7746eb</doc>
+		<doc>ae74139d-6b13-4821-a31c-ef85d79c3773</doc>
 	</docs>
 </clus>
 
 <clus id="124">
 	<feature>齐恒 紫薇 恒鈥 佳艺 赖佳 艺鈥 怡鈥 思怡 </feature>
 	<docs num="2">
-		<doc>300962a7-f743-4b9f-996b-7780a0354fa8</doc>
-		<doc>553bea11-85fd-477c-b4e2-c322b421ad76</doc>
+		<doc>bc03d7d6-fb78-4c61-afcf-24dd829775d5</doc>
+		<doc>2b86e76c-b734-499f-b4a2-2de7fddf917d</doc>
 	</docs>
 </clus>
 
 <clus id="125">
 	<feature>石高强 赵轩邵洁 定金 高强 郭帅 洁郭 洁徐 晶赵 李哲 刘晶 </feature>
 	<docs num="2">
-		<doc>7763d44b-bcaf-44ab-b441-f7bb6e1e7a56</doc>
-		<doc>1cc5f1de-47c7-4d44-aa21-c32ed5a255fc</doc>
+		<doc>b94d6bdb-b73b-4685-b7b7-cd0042342ab3</doc>
+		<doc>b963b425-e408-473a-8ea0-99182706a10e</doc>
 	</docs>
 </clus>
 
 <clus id="126">
 	<feature>王龙 高强 博邵 邓宏 广雅 郭帅 恒杨 洁徐 晶赵 李莎 </feature>
 	<docs num="2">
-		<doc>6bdefaab-f9c3-4ed0-b266-73f63ce17655</doc>
-		<doc>ada33232-8758-41b6-8060-0f7aead03f12</doc>
+		<doc>96a8b56a-4626-44a1-b518-638464e1442e</doc>
+		<doc>9f13df9d-f29c-46ec-bb28-3e977aed0d1c</doc>
 	</docs>
 </clus>
 
 <clus id="127">
 	<feature>滴滴打车券 大钱 快车 全程 实时 监控 省钱 守护 </feature>
 	<docs num="2">
-		<doc>73bf8569-ccd1-44fb-9049-ed7ede5031c5</doc>
-		<doc>0bcbe8a1-ec10-4892-ac5d-8af4185c82b8</doc>
+		<doc>eecba8cd-3546-4828-90d0-e0a34a8be493</doc>
+		<doc>8d30a14b-d951-4a42-bfc3-ef2757b63f37</doc>
 	</docs>
 </clus>
 
 <clus id="128">
 	<feature>申领机动车驾驶证 计划生育 居住地 常住户口 机动车 出具 出入境 代为 监护人 近亲 </feature>
 	<docs num="2">
-		<doc>0b69cde1-1edb-47fe-ac8f-b0a21e6c3715</doc>
-		<doc>a37f04b1-5dc9-4081-84b6-1e93306f87e4</doc>
+		<doc>bdc663ac-81af-413f-9bd5-7799eebcacd9</doc>
+		<doc>2345993d-6fba-40a8-90ac-132715565478</doc>
 	</docs>
 </clus>
 
 <clus id="129">
 	<feature>安卓手机 老乡 多余 共享 </feature>
 	<docs num="2">
-		<doc>f2e52a26-a242-4784-8ef0-cd2103b40cde</doc>
-		<doc>ff737f16-a4ed-473e-b43b-6bea71e98e7b</doc>
+		<doc>dae233db-ccde-4ea7-b660-4cbc954659f3</doc>
+		<doc>8ceae43b-768c-485a-91e4-cd62a92115d1</doc>
 	</docs>
 </clus>
 
 <clus id="130">
 	<feature>帮忙顶帖 拜托 帮忙 没事 顶帖 </feature>
 	<docs num="2">
-		<doc>23ff925b-430d-47e8-8e7b-b7b1facbe002</doc>
-		<doc>36069df9-6ee5-431e-aa60-182bdcdc2138</doc>
+		<doc>a7a190c2-a2e3-4dac-a11d-518c482ade68</doc>
+		<doc>e6ba5015-7f5e-45ce-99fc-39e4f7103d91</doc>
 	</docs>
 </clus>
 
 <clus id="131">
 	<feature>棒棒哒 爸爸 </feature>
 	<docs num="2">
-		<doc>d0fac22b-daa7-45cb-ae13-96c32b1d97de</doc>
-		<doc>3ad02c96-3203-4bb2-9a0a-ef8d23952310</doc>
+		<doc>fd84d09d-f4d4-424b-a0ff-b7cb956c85e5</doc>
+		<doc>1dcf5630-8d75-43c7-b059-1ca9dca5df9e</doc>
 	</docs>
 </clus>
 
 <clus id="132">
 	<feature>陈奕迅 看台 老乡 门票 天津 演唱会 原价 迪斯 雷迪 </feature>
 	<docs num="2">
-		<doc>af6cb45e-dbe4-45ad-8a4d-88c12815b99e</doc>
-		<doc>cb850a43-d320-463c-ae49-f694fd6e70b5</doc>
+		<doc>a0bc06d2-9485-4bcf-81c4-2bf26afd7b79</doc>
+		<doc>b75fb82d-8911-4e86-b196-98e90df1f9b5</doc>
 	</docs>
 </clus>
 
 <clus id="133">
 	<feature>英国伦敦 北京 电气 硬件 传媒 实习生 团队 学院 策划 </feature>
 	<docs num="2">
-		<doc>f1115938-5ff8-4816-9599-be1f212d5c75</doc>
-		<doc>4f9a886a-cec5-4982-b68b-f7e6a6aad9e5</doc>
+		<doc>b92d2ddf-e971-4c91-bd4f-15d41b66a435</doc>
+		<doc>9cb92e32-e7be-4d2c-bf1e-5089c5633bd4</doc>
 	</docs>
 </clus>
 
 <clus id="134">
 	<feature>集五福 拷贝 口令 宝集 福集 </feature>
 	<docs num="2">
-		<doc>201fb1fe-b153-4412-b625-63b00c5d0b45</doc>
-		<doc>66c1ae84-dec9-4de4-bf9e-4c63f62986e3</doc>
+		<doc>763dbbe0-acfb-4639-bd72-68c4df0933c7</doc>
+		<doc>9ab5778e-db08-4aed-91cb-7735c5087a92</doc>
 	</docs>
 </clus>
 
 <clus id="135">
 	<feature>玉洁 模样 选修课 原理 郭玉 群聊 徐恒 </feature>
 	<docs num="2">
-		<doc>a22cbd35-4fe6-4867-90bc-d885d581cdc5</doc>
-		<doc>fd1d8df1-9e00-41c2-9963-794b298530bb</doc>
+		<doc>3abc42fd-31cc-42cb-88e7-2a6dfd31972b</doc>
+		<doc>dc859ca0-c4f3-4428-99e4-2a25f2c5117a</doc>
 	</docs>
 </clus>
 
 <clus id="136">
 	<feature>缘分呐 山城 遇见 呐 </feature>
 	<docs num="2">
-		<doc>42156c15-88a8-4cb0-b281-ce3c51e0e972</doc>
-		<doc>44294930-1d98-4344-a85e-316464674515</doc>
+		<doc>d70b7433-1404-41a3-b4b4-1b3b0a249984</doc>
+		<doc>ba843c69-8411-409d-b891-45c75ba25a75</doc>
 	</docs>
 </clus>
 
 <clus id="137">
 	<feature>运气不错 运气 </feature>
 	<docs num="2">
-		<doc>5f4ead78-d48c-4d65-bd8f-7e09921d2f5e</doc>
-		<doc>d4494e60-0c1c-48c5-abe1-de8eb71a736a</doc>
+		<doc>b8e38de5-59e7-4a90-8f31-1087945cfe31</doc>
+		<doc>f92ca19e-b7a7-4390-bbb4-9ae12b139de1</doc>
 	</docs>
 </clus>
 
 <clus id="138">
 	<feature>民乐园 电影票 国语 免费 民乐 西安 小伙伴 熊猫 </feature>
 	<docs num="2">
-		<doc>ca3926e3-7163-4070-b5dd-51cab286c143</doc>
-		<doc>f3026ee0-1c45-4e78-aea6-dcdac2cce823</doc>
+		<doc>0a6a2555-6adb-47f1-ad78-49ffc7e24c14</doc>
+		<doc>a5acfeff-82d4-44d0-b4ff-26a0f030c1db</doc>
 	</docs>
 </clus>
 
 <clus id="139">
 	<feature>码代码 身材 巅峰 </feature>
 	<docs num="2">
-		<doc>830c4146-c9d6-432e-9cf5-fe882bc21334</doc>
-		<doc>ca1a644c-335d-420b-ba89-2cdae6ac8389</doc>
+		<doc>cf702ccc-ff56-4957-877a-e1b7efc74f79</doc>
+		<doc>61f7d02e-f9e1-404b-b7cc-5bfb5264b603</doc>
 	</docs>
 </clus>
 
 <clus id="140">
 	<feature>欧美汇万宁 箱子 昨晚 </feature>
 	<docs num="2">
-		<doc>51c1dd54-ad07-43e5-9b58-f24a18d9ea21</doc>
-		<doc>7c7b1a48-9fe0-47f0-b48b-9f43531f4089</doc>
+		<doc>daf27a7b-d456-4677-ac5d-f4f6aece193b</doc>
+		<doc>d6291b65-4506-471a-8f13-e68fbfef79f4</doc>
 	</docs>
 </clus>
 
 <clus id="141">
 	<feature>皮卡丘 女神 </feature>
 	<docs num="2">
-		<doc>04027a6c-d34c-4f74-ab61-47162f113a1c</doc>
-		<doc>ac8e04a6-94a7-4a7c-9365-094bb892a2de</doc>
+		<doc>887e01e0-bf4d-4fad-ab04-e47ffcf56dcc</doc>
+		<doc>845bdf6f-603c-47ed-a9da-5eea2d231cc9</doc>
 	</docs>
 </clus>
 
 <clus id="142">
 	<feature>京师大学堂 当成 科普 前身 师范 </feature>
 	<docs num="2">
-		<doc>7a42245e-f974-4318-af75-ffc686af0541</doc>
-		<doc>ec7cefdd-89fd-44b3-84e7-7160fb8cd99d</doc>
+		<doc>881ef08e-7490-408d-b003-2067ff88f121</doc>
+		<doc>05307baa-a33d-4072-a254-7e1586679cca</doc>
 	</docs>
 </clus>
 
 <clus id="143">
 	<feature>群主威武 威武 群主 </feature>
 	<docs num="2">
-		<doc>3ffb2a97-ca1e-476a-9b9e-dba0edd5c497</doc>
-		<doc>f3346b28-e77d-48c9-b0e8-7b5543d74f40</doc>
+		<doc>47f8d909-803a-43c8-a6b7-08a01ba12035</doc>
+		<doc>90d12f6e-39f5-4001-a269-71266564820f</doc>
 	</docs>
 </clus>
 
 <clus id="144">
 	<feature>陕北普通话 改天 </feature>
 	<docs num="2">
-		<doc>25148a3d-79a6-4b25-9050-2028644b7d44</doc>
-		<doc>3699ded8-5443-4c06-8380-9447c0015316</doc>
+		<doc>2246f1f5-82ec-48a8-a615-6676cf25064b</doc>
+		<doc>c311ef1c-bd53-428f-a7cb-6e3278155c26</doc>
 	</docs>
 </clus>
 
 <clus id="145">
 	<feature>亻寸 亻言 </feature>
 	<docs num="2">
-		<doc>8e91a46c-de45-4f08-a10e-042a99ff516e</doc>
-		<doc>e5ef773c-6296-4d92-8877-b6bed3221443</doc>
+		<doc>cf2efcc1-9c94-431f-be68-cf3eca5588b4</doc>
+		<doc>10089d5b-55c7-454d-a455-c63469ff5c6c</doc>
 	</docs>
 </clus>
 
 <clus id="146">
 	<feature>王凯迪 迪鈥 凯迪 王凯 </feature>
 	<docs num="2">
-		<doc>02577f66-bfa6-4b10-8528-ef050e4ab3fa</doc>
-		<doc>4a6b4690-3e15-451a-bd7f-73c318ad575b</doc>
+		<doc>406b82b4-7fe7-4c46-963d-19442dc6756b</doc>
+		<doc>a7ea4b1f-1610-45ba-9e46-dd3a351d10f0</doc>
 	</docs>
 </clus>
 
 <clus id="147">
 	<feature>王仕鑫 王壮 壮鑫赵 </feature>
 	<docs num="2">
-		<doc>a6954ef0-ef2a-42b5-a413-182f3fa25b9b</doc>
-		<doc>068315a3-0355-40d3-878e-720ff5f0eb37</doc>
+		<doc>77a22257-3882-4cc5-8dff-feb94eda0ae7</doc>
+		<doc>321487f6-8d2c-4eb8-bc01-5554b9f39ec2</doc>
 	</docs>
 </clus>
 
 <clus id="148">
 	<feature>王辛睿 京师 逍遥 逆旅 王辛 辛睿 </feature>
 	<docs num="2">
-		<doc>1b93a4d1-8fbf-478c-b3d5-9ed70e37bdd8</doc>
-		<doc>5d3d7ea3-25c5-4645-a853-0ce4ba9d59c0</doc>
+		<doc>316bd767-d964-40c0-b251-d306ebf70c87</doc>
+		<doc>6d38b7d5-b523-49d4-8699-4ecbd5d7a6cd</doc>
 	</docs>
 </clus>
 
 <clus id="149">
 	<feature>薇薇 老乡 </feature>
 	<docs num="2">
-		<doc>efcaec70-0fe3-4fce-bf7e-2a69a4aa2180</doc>
-		<doc>fa683ba8-d1d6-4050-a0a9-26d7d46add1b</doc>
+		<doc>69609071-3f97-4561-9594-e431499d12e4</doc>
+		<doc>9112e58e-ef07-4d5c-b7bb-91c7852c4677</doc>
 	</docs>
 </clus>
 
 <clus id="150">
 	<feature>一品懒龙 好吃 钵钵 钵鸡 哥香 </feature>
 	<docs num="2">
-		<doc>9d1bb26f-1f9a-42da-b9e8-3a356a59cca2</doc>
-		<doc>2730de2f-912a-4a03-9a41-22967ca39be6</doc>
+		<doc>797b33df-17ff-4bc2-bb53-248094b28515</doc>
+		<doc>63ac015b-b232-424c-9386-097b92707f4a</doc>
 	</docs>
 </clus>
 
 <clus id="151">
 	<feature>安空调 </feature>
 	<docs num="2">
-		<doc>253522c3-c42e-43f4-9167-57fa8a562b71</doc>
-		<doc>af8422fe-33ba-40a5-9bb4-c3c04758b4ea</doc>
+		<doc>4109c348-cbe2-4920-b147-1b808886fc4e</doc>
+		<doc>aeb16ca5-d452-403c-83b6-b970536c2a94</doc>
 	</docs>
 </clus>
 
 <clus id="152">
 	<feature>安康一中 表妹 </feature>
 	<docs num="2">
-		<doc>3dc91205-ca6b-40ca-920a-b252e33c343e</doc>
-		<doc>802e9692-d480-45dc-af6e-50fbe033a9df</doc>
+		<doc>974d7b5f-77cf-4aaf-a8ff-4dd009bb1ccb</doc>
+		<doc>f1f372dc-b32a-4982-a8fb-52adaee199e5</doc>
 	</docs>
 </clus>
 
 <clus id="153">
 	<feature>和谐福 拷贝 </feature>
 	<docs num="2">
-		<doc>7cad48ed-070c-4e7f-9a66-ae6b661c5b0f</doc>
-		<doc>b8aa210b-2f8d-4487-a66d-26c22bb54a40</doc>
+		<doc>37706397-a1d7-45bc-8bab-15135d0c1112</doc>
+		<doc>ff8d3f62-4316-4001-b97f-8632b178bfde</doc>
 	</docs>
 </clus>
 
 <clus id="154">
 	<feature>免单 京东 袋洗 单券 狂砸 领券 </feature>
 	<docs num="2">
-		<doc>ee4cea27-ddf1-49e5-957e-3e17f214535f</doc>
-		<doc>5eaaf8fb-cc63-4b6c-a19d-19d943b95d92</doc>
+		<doc>2f941374-34ec-4148-ae18-eecfc13bae65</doc>
+		<doc>9435462e-aeb9-4fa7-9310-46f66183994d</doc>
 	</docs>
 </clus>
 
 <clus id="155">
 	<feature>表情 </feature>
 	<docs num="2">
-		<doc>ab2f2d38-d4e7-41b1-b25d-6cf230afd0dc</doc>
-		<doc>cb2b8d7a-c8a2-48c2-ab46-6113df6f614e</doc>
+		<doc>0cd2a5ae-5706-46fe-a008-f541d3dd2c08</doc>
+		<doc>9ffa8a98-e16c-4b78-ba32-9a09d4fb1b6c</doc>
 	</docs>
 </clus>
 
 <clus id="156">
 	<feature>北京周边 小伙伴 一日游 </feature>
 	<docs num="2">
-		<doc>f96f396c-5902-4cbc-a404-8c9bdebec53c</doc>
-		<doc>641a637d-3ef7-4e1e-88f5-3d76061ea7bd</doc>
+		<doc>95abd5f9-b653-4569-8aa9-c3d17b5758c7</doc>
+		<doc>7eedaeb2-3d52-44c3-86f2-38b0a24b6caa</doc>
 	</docs>
 </clus>
 
 <clus id="157">
 	<feature>膜蛤 网上 姿势 蛤不可 蛤界 唔识 </feature>
 	<docs num="2">
-		<doc>1df07d99-0801-4dc9-aa83-401a19207d05</doc>
-		<doc>3e4408af-0ba7-4cbf-891d-82ab34fdead2</doc>
+		<doc>a2b54ea3-f6f2-4bbc-9a45-518b5635f53a</doc>
+		<doc>6f6fc4f2-fd11-40d5-9e70-91554c8feb2b</doc>
 	</docs>
 </clus>
 
 <clus id="158">
 	<feature>木木 木鈥 </feature>
 	<docs num="2">
-		<doc>a43ff8f3-1ab2-4d09-8553-4f036b577339</doc>
-		<doc>d1e2861e-2de5-413a-a768-50b03cf9b964</doc>
+		<doc>2f5d46d7-425f-4988-9d6f-4304618a9200</doc>
+		<doc>f326a2cb-0234-4530-b02c-0fedd6b1bb20</doc>
 	</docs>
 </clus>
 
 <clus id="159">
 	<feature>黑色妹子 板斧 里面 左侧 </feature>
 	<docs num="2">
-		<doc>085ebb72-17b3-4304-a042-f80c8eb86ed9</doc>
-		<doc>57d61337-c128-4ec0-be91-597c38384401</doc>
+		<doc>e1b1d59d-9697-4f51-8e40-b9f50b8342cc</doc>
+		<doc>be855862-9aeb-4789-b1c5-1fd415315970</doc>
 	</docs>
 </clus>
 
 <clus id="160">
 	<feature>汉中面皮 汉中 面皮 南门 学校 </feature>
 	<docs num="2">
-		<doc>fa98e8ed-94ce-44c0-bcce-dd26842903a9</doc>
-		<doc>4ad65256-ae12-4a29-b171-616d3d6e7ef5</doc>
+		<doc>1996a799-df20-4eea-9f3d-5f58bed93dbb</doc>
+		<doc>1e784033-1218-40b1-8313-51c4db2b514c</doc>
 	</docs>
 </clus>
 
 <clus id="161">
 	<feature>糯米糍 玫瑰 </feature>
 	<docs num="2">
-		<doc>326f46f6-0620-4618-9720-42e73d11b96b</doc>
-		<doc>991650c5-d5bc-4a03-8e3a-9e313d432c81</doc>
+		<doc>a618319b-b91c-4fa1-ab82-1fee007d0c9c</doc>
+		<doc>c0b003a5-af69-40fc-8f5f-64ae7769d48a</doc>
 	</docs>
 </clus>
 
 <clus id="162">
 	<feature>聚会定金 定金 枫蓝 宝宝 更正 过后 聚会 签到 确认 无误 </feature>
 	<docs num="2">
-		<doc>fbd622e6-a404-4bc4-a7a9-d7a42ffb7950</doc>
-		<doc>e20df946-dc67-43d9-87c3-82fc05f182f4</doc>
+		<doc>e22748f0-535d-412a-af72-e1db8b82ffe4</doc>
+		<doc>474fbac8-0c1c-4b78-bf54-e6100240efbb</doc>
 	</docs>
 </clus>
 
 <clus id="163">
 	<feature>汉江 边上 火车站 新区 </feature>
 	<docs num="2">
-		<doc>5af3309e-647d-43c8-8ba8-10e31d6fcb16</doc>
-		<doc>d270ee28-e5df-4ba5-9fe4-60804aeec6bd</doc>
+		<doc>42155720-26b8-4c1d-a30e-3277da2f0226</doc>
+		<doc>3edc2c3c-f83a-4b0e-81e0-3c0b171f5790</doc>
 	</docs>
 </clus>
 
 <clus id="164">
 	<feature>亲爱的老乡 版面 本科 格式 联署 评论 沙发 学生证 转发 </feature>
 	<docs num="2">
-		<doc>eab66545-b7cc-4697-8e73-95b9977f0a70</doc>
-		<doc>fd47a1f2-e9e3-4143-9975-74f36e8c4ecc</doc>
+		<doc>55044d5d-afa3-4305-a59a-ff070ea0611e</doc>
+		<doc>a96914b3-a03c-4eb7-80d7-b5034e7a4ac6</doc>
 	</docs>
 </clus>
 
 <clus id="165">
 	<feature>清真餐厅 麻辣烫 食堂 营业 娜清真 </feature>
 	<docs num="2">
-		<doc>faa7b8f4-9315-402f-9d2e-5aa36ce51b14</doc>
-		<doc>2929f7fb-17c7-432d-9b2d-62f6150b9811</doc>
+		<doc>cac3f2c6-9462-42e2-9892-7c0a02422256</doc>
+		<doc>9643ccc2-1cc4-473f-843f-4982c4e4f4ad</doc>
 	</docs>
 </clus>
 
 <clus id="166">
 	<feature>马丹 </feature>
 	<docs num="2">
-		<doc>40ee82f7-e404-48f0-ad68-cd1eafa1985c</doc>
-		<doc>d917b031-b493-4afb-85ae-7982c37c35e6</doc>
+		<doc>07932741-9f02-4f10-b1df-75885fbda29e</doc>
+		<doc>bb2f5a55-65cc-418f-9b99-9b44313951e7</doc>
 	</docs>
 </clus>
 
 <clus id="167">
 	<feature>区间不对 北京 车站 大妈 好说 顺义 自动 </feature>
 	<docs num="2">
-		<doc>d8b9098c-69a6-49a8-9c16-12ad4577e0d6</doc>
-		<doc>08392254-b351-4251-8c68-d767c4a130dd</doc>
+		<doc>462b7364-28b5-4933-a744-fcd9a7557c4f</doc>
+		<doc>372a9d79-aec3-4fa0-a9ac-db23303489bb</doc>
 	</docs>
 </clus>
 
 <clus id="168">
 	<feature>离散数学 </feature>
 	<docs num="2">
-		<doc>53d7df46-f8aa-4396-915a-bd21cf62118e</doc>
-		<doc>67804d0d-8c1a-42f9-92bd-dcd6e253b0dc</doc>
+		<doc>57fbd1e0-6c74-48fa-8c92-4ebf8bad6919</doc>
+		<doc>d4690151-6ce8-43cd-b980-829c22b690ce</doc>
 	</docs>
 </clus>
 
 <clus id="169">
 	<feature>滚蛋杯 </feature>
 	<docs num="2">
-		<doc>cb3de61f-8d8d-4498-9e7d-39ffa627442a</doc>
-		<doc>eb1053de-0861-43ef-9fe0-140f654f2722</doc>
+		<doc>0e002104-a8a9-429e-8003-9315836e7c3e</doc>
+		<doc>f01d49dd-3a94-4f53-af5e-87db513ca279</doc>
 	</docs>
 </clus>
 
 <clus id="170">
 	<feature>炫酷 红绿灯 样子 </feature>
 	<docs num="2">
-		<doc>21765069-8b9b-4021-8311-2fe431126706</doc>
-		<doc>5357dd2b-4ed0-4a89-9824-7fbc05e4df4f</doc>
+		<doc>14d50cb1-9788-4fc0-9f0f-a5be6a963d93</doc>
+		<doc>645732d4-c307-4bec-938e-7d8d74cecb45</doc>
 	</docs>
 </clus>
 
 <clus id="171">
 	<feature>群 错群 邮斗 </feature>
 	<docs num="2">
-		<doc>363a3c8c-37b2-47fd-86a2-eb0a3f1d3071</doc>
-		<doc>a9eaf503-2472-4035-828a-635d7b4c716b</doc>
+		<doc>b603f562-024d-4516-beab-39c6331f0b66</doc>
+		<doc>e03e8887-7ba2-4cc4-b194-ddbec2da2501</doc>
 	</docs>
 </clus>
 
 <clus id="172">
 	<feature>肉肉 表情 南瓜 炒肉 扯肉 </feature>
 	<docs num="2">
-		<doc>87cda96a-93ee-4354-a14a-9f256dda9ca2</doc>
-		<doc>56e74296-9941-47dc-a262-43b5fec5ce2a</doc>
+		<doc>f4e1758a-2aa6-46de-9909-131ff9200a8c</doc>
+		<doc>5a42de6b-6520-4401-b345-ef6cf070ad9b</doc>
 	</docs>
 </clus>
 
 <clus id="173">
 	<feature>肉质细腻 榴莲 绵密 肉质 入口 泰国 细腻 限量 </feature>
 	<docs num="2">
-		<doc>24683e11-f25e-4f8d-9be5-eca0ea679adb</doc>
-		<doc>3246420d-b912-405c-9a7f-eee8eb1fd4a4</doc>
+		<doc>61dc2981-40a1-438c-b2f8-0507669b0f37</doc>
+		<doc>93b87ddb-4f73-439a-a3d5-dd675f44a869</doc>
 	</docs>
 </clus>
 
 <clus id="174">
 	<feature>入口绵密 榴莲 绵密 肉质 入口 泰国 细腻 限量 </feature>
 	<docs num="2">
-		<doc>24683e11-f25e-4f8d-9be5-eca0ea679adb</doc>
-		<doc>3246420d-b912-405c-9a7f-eee8eb1fd4a4</doc>
+		<doc>61dc2981-40a1-438c-b2f8-0507669b0f37</doc>
+		<doc>93b87ddb-4f73-439a-a3d5-dd675f44a869</doc>
 	</docs>
 </clus>
 
 <clus id="175">
 	<feature>富强和谐 友善 吱一 </feature>
 	<docs num="2">
-		<doc>8b7b9f81-3455-40a3-b987-12313c75191c</doc>
-		<doc>a47e786c-ff10-4540-bb3a-14cc3de33c2e</doc>
+		<doc>9ff24a00-342a-4e8a-a18d-18a7d43abfa8</doc>
+		<doc>2780d51a-e55c-4065-af90-4c4748e4b58d</doc>
 	</docs>
 </clus>
 
 <clus id="176">
 	<feature>北京西站 北站 火车 远去 </feature>
 	<docs num="2">
-		<doc>55ae210a-688c-41f2-98c9-34d874442894</doc>
-		<doc>a696c8a2-f18f-4d0e-aabc-191ee2f8ccbb</doc>
+		<doc>712cf1fd-91ce-4d92-b4b1-67b23b926a6f</doc>
+		<doc>623327c9-15b2-4c88-afd4-4f92f3e868ed</doc>
 	</docs>
 </clus>
 
 <clus id="177">
-	<feature>陕西老乡 老乡 热心 陕西 </feature>
+	<feature>陕西老乡 热心 </feature>
 	<docs num="2">
-		<doc>0947cece-b551-44fc-a4d2-125f26b61754</doc>
-		<doc>512e5c7a-2a18-4bab-8be4-f43162feaa59</doc>
+		<doc>691a15fc-e018-4150-8455-d37960c75c83</doc>
+		<doc>486fa465-8286-4407-95bf-bd7bd653cdb5</doc>
 	</docs>
 </clus>
 
 <clus id="178">
 	<feature>陕西群 </feature>
 	<docs num="2">
-		<doc>1c810a85-2e41-4db5-982f-24d8f4cc4c68</doc>
-		<doc>566c0fbc-aca1-456b-aa56-92a67e106f75</doc>
+		<doc>b2d37526-3f16-4b2e-ae52-b8a6d890ba75</doc>
+		<doc>c175f267-c705-4c3f-a24a-89bc3d7c9995</doc>
 	</docs>
 </clus>
 
 <clus id="179">
 	<feature> </feature>
 	<docs num="2">
-		<doc>1ffc4a88-e93b-4c49-8086-7433fa090e62</doc>
-		<doc>33fa9961-2361-479e-948a-f84212278ecb</doc>
+		<doc>7b27a218-5e8a-4f73-aa80-abf5009ec2e3</doc>
+		<doc>93361e1d-d84b-4f0e-86a1-deca47e1a0c8</doc>
 	</docs>
 </clus>
 
 <clus id="180">
 	<feature>伤肾 小心 啧啧 板芙 </feature>
 	<docs num="2">
-		<doc>7b03f926-5a14-4d66-8518-a838a14b7e88</doc>
-		<doc>27736d85-d612-4985-9a7c-5d7292437ed6</doc>
+		<doc>4346ee5a-a97c-4f61-8874-7d4e259083bb</doc>
+		<doc>4e1c6da6-62e9-4c16-af05-c6f0b47bf481</doc>
 	</docs>
 </clus>
 
 <clus id="181">
 	<feature>涉水险 涨价 </feature>
 	<docs num="2">
-		<doc>7b40d817-9d92-4cfa-9c14-5c191ad0c3e2</doc>
-		<doc>908e431d-a454-41ae-a2bd-3737db3b7cc7</doc>
+		<doc>6c3ebd84-8b67-4eb3-adeb-68537f4f10af</doc>
+		<doc>309ba94f-43da-4bb1-99c3-ba3f9728666c</doc>
 	</docs>
 </clus>
 
 <clus id="182">
 	<feature>厉害厉害 </feature>
 	<docs num="2">
-		<doc>5c8e8622-b324-4ef4-863d-59b9babc1dc8</doc>
-		<doc>cc20604d-ed01-4942-bfe8-30421fc07ec1</doc>
+		<doc>51a7cd2a-15bf-428f-89d9-e27c9e6a3116</doc>
+		<doc>56ce9d21-07fe-4fdd-91fb-970879c45190</doc>
 	</docs>
 </clus>
 
 <clus id="183">
 	<feature> </feature>
 	<docs num="2">
-		<doc>67cb07d4-f474-4e38-9cc7-eb8eef90347b</doc>
-		<doc>03b0adf8-13b9-4d07-b872-92ff57d3d869</doc>
+		<doc>b18958cb-42ad-42fa-901a-25b8dd4d9d87</doc>
+		<doc>1dc1493d-6d6a-493c-a92c-664ee7bbac6a</doc>
 	</docs>
 </clus>
 
 <clus id="184">
 	<feature>奥义 单身 召唤 </feature>
 	<docs num="2">
-		<doc>456f4287-3686-4546-b34f-2c463af5d371</doc>
-		<doc>755372bf-bd37-407d-a531-478e3f83db5d</doc>
+		<doc>4ef8819e-e1a1-4ced-aef7-fceb8681a340</doc>
+		<doc>f483683e-fffe-47c0-9127-26ac99236270</doc>
 	</docs>
 </clus>
 
 <clus id="185">
 	<feature>师蛋蛋 网上 账号 </feature>
 	<docs num="2">
-		<doc>9239a157-8550-45b2-aafd-359dd2429933</doc>
-		<doc>c4d11944-58a3-4724-b6a0-b4dad8734328</doc>
+		<doc>8383aa9c-c32c-4625-810f-128a0b0070bd</doc>
+		<doc>a5dd21c3-77c0-41f6-b2ca-0c097a0ce34a</doc>
 	</docs>
 </clus>
 
 <clus id="186">
 	<feature>多发红包 多发 红包 </feature>
 	<docs num="2">
-		<doc>b144a516-614a-40af-9fb2-6fc83363f418</doc>
-		<doc>c4588957-c3ed-4fe8-bee4-b2f79353596f</doc>
+		<doc>bb1f109e-9e9f-4564-a716-b93386513723</doc>
+		<doc>be2475e6-e513-4530-83a4-7b8d9d974358</doc>
 	</docs>
 </clus>
 
 <clus id="187">
 	<feature>手机 董玩 锁董 </feature>
 	<docs num="2">
-		<doc>e80dbbee-24bf-45aa-979b-6b860a8a79b8</doc>
-		<doc>b3470242-9f68-453f-9fd3-0fb1c9e5d7cd</doc>
+		<doc>7e311f46-e2fc-464a-a628-5b4f8cc8155a</doc>
+		<doc>4a782c99-c122-4487-aa48-e67b107133fc</doc>
 	</docs>
 </clus>
 
 <clus id="188">
 	<feature>俩煎饼 正好 </feature>
 	<docs num="2">
-		<doc>66dfe898-1344-4db5-9fd5-d02afdf69194</doc>
-		<doc>5fa9b7a4-7f35-4d78-91ba-3566642c2a92</doc>
+		<doc>836d0d2e-0584-4e6a-8071-aecde20ca9c0</doc>
+		<doc>a08edcf9-3c77-469d-941d-74f58083de73</doc>
 	</docs>
 </clus>
 
 <clus id="189">
 	<feature>水城里面 餐馆 好吃 开业 </feature>
 	<docs num="2">
-		<doc>4f45fad9-4f08-42d5-b6a0-8aca304d56ed</doc>
-		<doc>cb61ee27-731f-4561-a3b9-d9a846c49620</doc>
+		<doc>e87ec68c-efaf-4e82-b856-cf1397d41ffb</doc>
+		<doc>99ec21b1-f784-4d9d-aca2-4b597d6f879d</doc>
 	</docs>
 </clus>
 
 <clus id="190">
 	<feature>挺正宗 看起来 面皮 婆婆 </feature>
 	<docs num="2">
-		<doc>ede5210f-783a-4ea6-9319-dd26a268ee4c</doc>
-		<doc>b6773df5-e6c6-4eea-822f-bae634bc7c12</doc>
+		<doc>93f54a14-bdc2-421b-93df-c3ba3132f035</doc>
+		<doc>95fc8d08-afa4-464f-b7e0-44569529d6b7</doc>
 	</docs>
 </clus>
 
 <clus id="191">
 	<feature>怂娃 班主任 </feature>
 	<docs num="2">
-		<doc>edfef7d0-499c-494d-aaf4-a4de7f556491</doc>
-		<doc>52940874-5329-4cbe-8a10-b5d59237cf15</doc>
+		<doc>252e2aee-0073-4755-b19d-8c56c279c5d0</doc>
+		<doc>a2953393-8289-45ef-ad47-92fd25f9c10f</doc>
 	</docs>
 </clus>
 
 <clus id="192">
 	<feature>搜嘎 </feature>
 	<docs num="2">
-		<doc>546bce56-9b0b-4958-87e5-cc89aee0d27a</doc>
-		<doc>9af1a4ad-2453-4ef4-9692-04b29fd9add5</doc>
+		<doc>16d172c5-56c4-4ac1-9e61-6db6a8902bf6</doc>
+		<doc>ba73c3a9-3ce7-428d-8e29-4bf428a76cd5</doc>
 	</docs>
 </clus>
 
 <clus id="193">
 	<feature>撩妹 代码 感兴趣 套路 颜值 </feature>
 	<docs num="2">
-		<doc>cdf8065b-93b2-4bee-ab73-85ee64236cc3</doc>
-		<doc>eb7ab4a3-8cc1-4ab6-a8d5-4ef7a4a660f3</doc>
+		<doc>00adc057-512b-4abd-a2ef-69d9a5023aa8</doc>
+		<doc>2c3df462-0cfd-4624-80e6-73c774449679</doc>
 	</docs>
 </clus>
 
 <clus id="194">
 	<feature>邓学长 </feature>
 	<docs num="2">
-		<doc>750874d0-4318-4db2-931a-f0f340900067</doc>
-		<doc>7e6afb2c-ebdc-4a5a-b01e-51957b7fda8a</doc>
+		<doc>cc88992b-9de4-45af-8707-092317ba6ceb</doc>
+		<doc>d84c4ef6-ba3d-4c9f-b543-4e6022974de2</doc>
 	</docs>
 </clus>
 
 <clus id="195">
 	<feature>大作业 </feature>
 	<docs num="2">
-		<doc>b6f226fd-2f43-48d6-a272-63f877c621bc</doc>
-		<doc>e3846ea7-4367-4326-b191-203c0894a591</doc>
+		<doc>678d99b1-0f42-42d6-aa04-3d8f51c5317c</doc>
+		<doc>f407ef5b-f056-4677-af65-7c64b47856ed</doc>
 	</docs>
 </clus>
 
 <clus id="196">
 	<feature>琳姐 进去 姐不用 琳鈥 </feature>
 	<docs num="2">
-		<doc>72fdf95d-b8ce-49da-a863-f635745e4692</doc>
-		<doc>7daffa28-28de-4fb5-b230-ea9f826cf58e</doc>
+		<doc>683693bd-c0e9-4c15-b3e5-1f1f54b357dd</doc>
+		<doc>8d1d22bd-4dc5-47ba-9771-ec601037c9af</doc>
 	</docs>
 </clus>
 
 <clus id="197">
 	<feature>妥妥 打电话 考生 厉害 陕西 问问 马蓁 妥滴 妥浙 </feature>
 	<docs num="2">
-		<doc>181f2a3d-9bd2-4583-b5f9-f4817a83ae23</doc>
-		<doc>4d68d448-9646-4495-975e-b177387307f1</doc>
+		<doc>af574f6c-e651-48da-8f19-7ce811cf6b81</doc>
+		<doc>554bc601-d8cc-48be-a58b-774c47fc4782</doc>
 	</docs>
 </clus>
 
 <clus id="198">
 	<feature>玲玲 玲依依 都会 姐姐 吐槽 依依玲 </feature>
 	<docs num="2">
-		<doc>c72a67ad-a04d-406d-8686-715e9d7f2308</doc>
-		<doc>bf7f7974-19d0-4102-afb6-9797c0a489cf</doc>
+		<doc>bbf8d395-b4c6-4edc-86ea-28504796d4f0</doc>
+		<doc>a062af69-f97c-4806-baa7-e57e391884b6</doc>
 	</docs>
 </clus>
 
 <clus id="199">
 	<feature>零散务工人员 春运 互联网 火车站 年月 日日 日月 身份证 始发站 </feature>
 	<docs num="2">
-		<doc>2fd38058-140a-48ec-9d0b-93b2e87e6d2c</doc>
-		<doc>52e398bb-662c-4fad-a0f4-732c6d6a96a9</doc>
+		<doc>db6dccc6-2d49-4054-a1e5-c6b486f9edec</doc>
+		<doc>2aba2060-ff29-40d5-8f27-c22c8b0c5225</doc>
 	</docs>
 </clus>
 
 <clus id="200">
-	<feature>渭南老乡 老乡 渭南 召唤 </feature>
+	<feature>渭南老乡 召唤 </feature>
 	<docs num="2">
-		<doc>ff6f25c1-ec0a-44c5-a454-dbe5ffcc4b1b</doc>
-		<doc>d1b984ec-d436-46ee-a851-b926f2655cbd</doc>
+		<doc>5f9d0688-a773-4929-9438-8d452343eacd</doc>
+		<doc>5e0e8938-d942-41ea-a057-fe84b4d7ac75</doc>
 	</docs>
 </clus>
 
 <clus id="201">
 	<feature>何毅 京师 科学学 上面 硕士 研究生 何夕 弘毅 夕何 </feature>
 	<docs num="2">
-		<doc>8d4a8937-6569-46f6-a63b-ad7d029e1b70</doc>
-		<doc>6cc27ca8-833a-49e4-b31b-516d2083d1d6</doc>
+		<doc>d33020a9-f22e-4145-9236-a2d4d173365b</doc>
+		<doc>912a6b30-5afa-45de-9568-47277ee4b838</doc>
 	</docs>
 </clus>
 
 <clus id="202">
 	<feature>刘睿 问卷 邮刘 洲鈥 睿博 睿洲 </feature>
 	<docs num="2">
-		<doc>bd7559bc-66f1-4a1b-b900-13248ca1d2dd</doc>
-		<doc>1b239356-2983-4547-a8d2-f09949256c60</doc>
+		<doc>77d5f73f-9142-415f-b44e-bb2ac0ed02a9</doc>
+		<doc>a0a6c4f8-b708-4aa5-8449-3017d147e2ae</doc>
 	</docs>
 </clus>
 
 <clus id="203">
 	<feature>大明宫 城墙 地势 跑步 上人 遗址 </feature>
 	<docs num="2">
-		<doc>f37fc33a-379d-4c87-8ec3-76aaab64d6df</doc>
-		<doc>cb320738-e705-4570-8ea7-5520e2aa5bc5</doc>
+		<doc>b5d783ad-961a-4480-9e57-1e9e7c23315f</doc>
+		<doc>824f3329-5f32-4e12-b74c-e2493d61b2a1</doc>
 	</docs>
 </clus>
 
 <clus id="204">
 	<feature>西安饭庄 北京 便宜 那天 饭庄一 坑爹 肉夹 </feature>
 	<docs num="2">
-		<doc>323ee25f-d851-415d-a4ed-f9c6ab6a307c</doc>
-		<doc>eca6be64-e28e-4b0d-893a-177082a6e7e5</doc>
+		<doc>21510abe-36bb-4807-811a-e94c4872b6dc</doc>
+		<doc>bf889fdd-77b4-4752-a8b5-933ec13df872</doc>
 	</docs>
 </clus>
 
 <clus id="205">
 	<feature>西安房价 </feature>
 	<docs num="2">
-		<doc>7930383c-d4f4-48b8-a612-7ba117a5f4c8</doc>
-		<doc>dbd61b99-e50b-412e-a488-d2d90dbafd14</doc>
+		<doc>18026f5b-436e-41dd-bba7-4e2bd594bc58</doc>
+		<doc>c217e18f-91fd-4592-a215-6978b01369b6</doc>
 	</docs>
 </clus>
 
 <clus id="206">
 	<feature>西安华为 </feature>
 	<docs num="2">
-		<doc>5da3141c-0818-4d73-ab3c-34513cb7f1a4</doc>
-		<doc>dd407b25-1c67-48c5-80c0-4edf24cdb39e</doc>
+		<doc>14a5fdd0-7da6-403e-8fa6-8d0dd6fcc4b3</doc>
+		<doc>fe990708-e9fc-4ace-8d20-37627e08fd98</doc>
 	</docs>
 </clus>
 
 <clus id="207">
 	<feature>西安研究所 单位名 华为 浪费 </feature>
 	<docs num="2">
-		<doc>bf639650-3385-419c-a091-67800f2e86ca</doc>
-		<doc>c99ad8ee-7dff-4d71-82de-9808e6be45dd</doc>
+		<doc>1fb03829-04cf-485d-9b77-bc9c6a37a196</doc>
+		<doc>b0d6554f-77d3-48ba-9c44-5c43a8b51b95</doc>
 	</docs>
 </clus>
 
 <clus id="208">
 	<feature>西安医学院 医学院 交大 西安 医大 医二 </feature>
 	<docs num="2">
-		<doc>e4f47d00-c79d-460e-ad59-5577b76203e4</doc>
-		<doc>acd98b05-7ee1-4088-b15a-974bdcc56a6e</doc>
+		<doc>f8c04858-d189-42cd-bb40-b6fc45a4b7ef</doc>
+		<doc>c0251785-7c61-4626-8920-85b13dfa1b4b</doc>
 	</docs>
 </clus>
 
 <clus id="209">
 	<feature>西安以北 陕西省 </feature>
 	<docs num="2">
-		<doc>5466d3c0-d7a7-41ee-8d6f-8a9d516e07c8</doc>
-		<doc>45657128-2607-4274-9e62-522a2acae2c6</doc>
+		<doc>76951c0c-5ed5-4257-afe3-b51dfaa51dd7</doc>
+		<doc>92280bb1-71e8-4f49-a5f6-7dcbd19fbb70</doc>
 	</docs>
 </clus>
 
 <clus id="210">
-	<feature>西北农林 </feature>
+	<feature>西北农林 农林 西北 </feature>
 	<docs num="2">
-		<doc>a46e738a-b130-4048-a7e4-a6353a85e32f</doc>
-		<doc>ed77e3e9-9091-478e-a335-1d35cf297c85</doc>
+		<doc>7690c5f0-5704-4098-9a4a-916fa0d72bde</doc>
+		<doc>81ade81c-88cf-4641-9619-031975a8ff96</doc>
 	</docs>
 </clus>
 
 <clus id="211">
 	<feature>西南角 泡姜鸡 汉中 陈三 娃泡 </feature>
 	<docs num="2">
-		<doc>b3bf5e6f-dd6e-4150-a653-f9ce4bb2458f</doc>
-		<doc>91afdd8b-f6a6-457a-81e0-2940a0ba2472</doc>
+		<doc>420cf658-af16-425f-94a4-1e37a1118151</doc>
+		<doc>f1d7a35e-e525-4964-96c1-df9fb8b2f6e9</doc>
 	</docs>
 </clus>
 
 <clus id="212">
 	<feature>大河坎 大河 篮球场 漂亮 </feature>
 	<docs num="2">
-		<doc>8369cff2-2119-4ff1-879e-df5fb3cb9ad8</doc>
-		<doc>936f9edf-7526-4a8d-a9cc-77178e951490</doc>
+		<doc>b65d0022-6dc6-4755-9546-587d1f5875f9</doc>
+		<doc>ff40ff48-d0a0-4ffc-af0c-bc02a8a186be</doc>
 	</docs>
 </clus>
 
 <clus id="213">
 	<feature>夏洛特烦恼 免费 那天 女生 少女 </feature>
 	<docs num="2">
-		<doc>d0d86c4a-1cba-48ea-af38-4821661c8782</doc>
-		<doc>66d6ace6-5d59-45e8-8630-a16b22eaddbd</doc>
+		<doc>a8095e75-a605-499b-a8c7-e2b2e59ded6d</doc>
+		<doc>a0be88d3-6240-44fe-9422-52242d2ffbc0</doc>
 	</docs>
 </clus>
 
 <clus id="214">
 	<feature>龙哥 谨慎 </feature>
 	<docs num="2">
-		<doc>e3210acd-be93-4415-b3b7-4cde73721e55</doc>
-		<doc>bad2b428-682c-4881-8a2d-9d4074c65b17</doc>
+		<doc>f8bb951b-87e7-4974-8fd8-48f94699f59c</doc>
+		<doc>0799fb43-48ff-4c7f-8ea0-30c1db3e7c0d</doc>
 	</docs>
 </clus>
 
 <clus id="215">
 	<feature>谢谢咯 加油 字样 </feature>
 	<docs num="2">
-		<doc>3d10deb9-64ac-450d-9dee-3d09d6b38735</doc>
-		<doc>27edfaa6-415e-4d10-a9f7-862a4b734625</doc>
+		<doc>6c0cef5d-0b55-4170-aefe-41d1a7c68937</doc>
+		<doc>cf6024e4-591d-46cf-9344-e16a3c2a6bb6</doc>
 	</docs>
 </clus>
 
 <clus id="216">
 	<feature>乘车区间 里边 </feature>
 	<docs num="2">
-		<doc>cfec2767-8ea3-4c29-9e84-9a8df276cc81</doc>
-		<doc>0a1e9a8c-c8a7-4847-ad49-d765e34a6872</doc>
+		<doc>9a158306-3482-46ae-aafd-7d35d5be6b5f</doc>
+		<doc>d394c609-5ca2-41e4-a0ed-ceadb8124857</doc>
 	</docs>
 </clus>
 
 <clus id="217">
 	<feature>炒鸡 </feature>
 	<docs num="2">
-		<doc>014927d9-667b-4a2f-9f2d-0378bfae9f22</doc>
-		<doc>40dfa836-9bfb-43a3-94a7-8ea601c4de58</doc>
+		<doc>40b99abf-a51b-40d3-8652-8dec9b237c59</doc>
+		<doc>429da87e-edaf-449c-a30b-0595ea645d8c</doc>
 	</docs>
 </clus>
 
 <clus id="218">
 	<feature>超出区间 北站 补票 没事 上车 </feature>
 	<docs num="2">
-		<doc>a5547477-e71b-430d-9c8f-3df24bb50b32</doc>
-		<doc>f1e0a974-f788-4b7c-bef8-04b499f3993d</doc>
+		<doc>0e240631-782f-4fca-a4df-7247eaeaec43</doc>
+		<doc>f630b679-6c1b-43e6-8afe-f4e722eb32c5</doc>
 	</docs>
 </clus>
 
 <clus id="219">
 	<feature>学校里面 食堂 营业厅 </feature>
 	<docs num="2">
-		<doc>9f133ebf-4c5d-4ec7-aad0-5bb207bc44bf</doc>
-		<doc>d53d6531-1c20-4b9a-a38e-2515689b2e8d</doc>
+		<doc>2facdd04-0e4e-414d-a500-37a0ec985fe1</doc>
+		<doc>c97dc32e-ea1a-49d7-95d3-2f517b350fd0</doc>
 	</docs>
 </clus>
 
 <clus id="220">
 	<feature>超棒 帮忙 采光 积水潭 妹子 南向 学校 转租 装修 </feature>
 	<docs num="2">
-		<doc>72299fb5-10b0-425f-b2ee-bfa1b4d2cf00</doc>
-		<doc>79d5c8ed-dd9f-49ac-9445-1f32e5e0131e</doc>
+		<doc>3b17662a-00d0-4fc2-b8e9-191ba33705f4</doc>
+		<doc>4d1b9c48-cfe9-4112-ab21-c1025c365745</doc>
 	</docs>
 </clus>
 
 <clus id="221">
 	<feature>雁塔 晨钟 </feature>
 	<docs num="2">
-		<doc>9b5917fe-75ba-49bf-9be3-4628e1b6ae8e</doc>
-		<doc>62bc4082-953a-4f82-90d2-a1994f8ca2b8</doc>
+		<doc>ed5113bb-adb2-4b86-aabc-0d219db34f23</doc>
+		<doc>53364ce4-57f3-4f71-a925-acef3c1f7575</doc>
 	</docs>
 </clus>
 
 <clus id="222">
 	<feature>聽聽 辅助 可怕 临床 如下 实验 搜集 投标 饮水 </feature>
 	<docs num="2">
-		<doc>95b54934-841a-4435-b77f-c27f5f00c5d6</doc>
-		<doc>5f555605-79d3-4ae4-82a9-45a8ad2093fd</doc>
+		<doc>d353f8eb-ea25-43fa-9c71-bb4f729868df</doc>
+		<doc>644c673c-1cf3-4cbd-bb6a-d538e56c25df</doc>
 	</docs>
 </clus>
 
 <clus id="223">
 	<feature>纯英文 人文 </feature>
 	<docs num="2">
-		<doc>37c98439-7959-40fa-9dc3-e0e47479f6ba</doc>
-		<doc>795ddee7-c03c-491b-a73c-4c2d5dd50c2f</doc>
+		<doc>a608c114-0379-4ac1-af99-3ca38f7a3fa1</doc>
+		<doc>66b50d90-9581-47db-b646-ea98f9629b9c</doc>
 	</docs>
 </clus>
 
 <clus id="224">
 	<feature>录取分数 查查 西安 </feature>
 	<docs num="2">
-		<doc>47294e9a-f8b2-4be4-817e-295bd857b8ac</doc>
-		<doc>f46cfa3b-3f5b-4e92-9778-0d38a6342fc7</doc>
+		<doc>16953b47-8bf5-4ba0-8bcd-1dc65dcf272d</doc>
+		<doc>3fb8ad79-bcad-4140-a78a-f75f43afe503</doc>
 	</docs>
 </clus>
 
 <clus id="225">
 	<feature>赖佳艺 紫薇 恒鈥 佳艺 赖佳 齐恒 思怡 艺鈥 怡鈥 </feature>
 	<docs num="1">
-		<doc>300962a7-f743-4b9f-996b-7780a0354fa8</doc>
+		<doc>bc03d7d6-fb78-4c61-afcf-24dd829775d5</doc>
 	</docs>
 </clus>
 
 <clus id="226">
 	<feature>胡剑阳 胡剑 剑阳 </feature>
 	<docs num="1">
-		<doc>28d607fb-b1f7-46c5-a188-a81e2e8474be</doc>
+		<doc>76d6a4dd-320a-4f87-84ae-b3848f1fa573</doc>
 	</docs>
 </clus>
 
 <clus id="227">
 	<feature>雷佳鑫 幸运 佳鑫 雷佳 鑫鈥 </feature>
 	<docs num="1">
-		<doc>c7055423-e365-471a-a771-96ac62836aea</doc>
+		<doc>7c9156c2-23a0-44b4-9b10-fa9ea9cef8ac</doc>
 	</docs>
 </clus>
 
 <clus id="228">
 	<feature>刘琴琴 刘琴 琴琴 琴鈥 </feature>
 	<docs num="1">
-		<doc>7133a3a1-d89f-425d-bd40-a5068730011f</doc>
+		<doc>67c4c2b9-ac45-4603-97e6-07568a86664b</doc>
 	</docs>
 </clus>
 
 <clus id="229">
 	<feature>龙聪洋 聪洋 龙聪 </feature>
 	<docs num="1">
-		<doc>b517c5de-94b5-49de-a00c-f4c3517d4eb3</doc>
+		<doc>08a9998d-bd31-4e43-a466-d00f28400d8b</doc>
 	</docs>
 </clus>
 
 <clus id="230">
 	<feature>马甸桥 北京 笔记 大厦 到点 报酬 地址 点名 东华 </feature>
 	<docs num="1">
-		<doc>d2acedbe-517e-4ef5-b4d6-61117ffa42b4</doc>
+		<doc>5b1da578-9fcb-4996-8bdd-853e2eded977</doc>
 	</docs>
 </clus>
 
 <clus id="231">
 	<feature>乔浩杰 三星 浩杰 乔浩 </feature>
 	<docs num="1">
-		<doc>662c081f-01b7-4e5b-b1ee-8faac2405bda</doc>
+		<doc>450d1060-52dc-415c-9820-74d8493c72c0</doc>
 	</docs>
 </clus>
 
 <clus id="232">
 	<feature>鈻篰 妙脆角 可爱 翻译 篰鈻 </feature>
 	<docs num="1">
-		<doc>d258efe3-41ee-4888-946d-8e4b3fa220ce</doc>
+		<doc>02997104-aed8-4b88-a480-0727bc4692b5</doc>
 	</docs>
 </clus>
 
 <clus id="233">
 	<feature>王菀莹 王菀 莹鈥 颖哥 菀莹 </feature>
 	<docs num="1">
-		<doc>621d22ba-58bf-4a9e-8362-040b3b8ca392</doc>
+		<doc>7e7c840d-2767-4513-97e6-4a5d75114521</doc>
 	</docs>
 </clus>
 
 <clus id="234">
 	<feature>帛嗖 硩嗖 簿嗖 硜嗖 矖喑 菠嗖 菠喑 拨嗖 渤嗖 </feature>
 	<docs num="1">
-		<doc>782d7f4a-e976-4737-99c8-d084160d0eb6</doc>
+		<doc>24fe3bea-faca-4d2f-871e-cef2b0665285</doc>
 	</docs>
 </clus>
 
 <clus id="235">
 	<feature>敏感词汇 </feature>
 	<docs num="1">
-		<doc>012764cb-b179-46dc-8ecf-3d161b23e9c3</doc>
+		<doc>7887835f-ff29-496f-9fd6-d2c8f9ddfde9</doc>
 	</docs>
 </clus>
 
 <clus id="236">
 	<feature>秋裤 几度 西安 战斗机 播放 收秋 循环 北京 中国 </feature>
 	<docs num="1">
-		<doc>52670f15-44b8-4d6b-910a-5d8410ea7c67</doc>
+		<doc>c8334c31-48cc-4f77-902e-ac1724d09f4f</doc>
 	</docs>
 </clus>
 
 <clus id="237">
 	<feature>李莎 </feature>
 	<docs num="1">
-		<doc>537d1837-6f9b-492f-b73d-c4f17e0cd951</doc>
+		<doc>d8b6ef9f-bcfb-4ff0-a515-91caf87387f1</doc>
 	</docs>
 </clus>
 
 <clus id="238">
 	<feature>勾魂 成都 特产 </feature>
 	<docs num="1">
-		<doc>c0ea3a45-032e-4ea4-bf00-32756c2d12b4</doc>
+		<doc>32a79939-bd85-4527-840c-6c5cebf28b67</doc>
 	</docs>
 </clus>
 
 <clus id="239">
 	<feature>李亚东 学长 亚东 </feature>
 	<docs num="1">
-		<doc>69d67d5b-2f26-481b-a152-7c61266a6bfe</doc>
+		<doc>7b63120b-8927-48c2-9eae-3781ea93ef39</doc>
 	</docs>
 </clus>
 
 <clus id="240">
 	<feature>陕西校友会 清华 校友会咩 </feature>
 	<docs num="1">
-		<doc>4171ebe2-704a-478a-b7f6-7c5b3a884ca7</doc>
+		<doc>ce6d5b22-fb70-41b7-820e-780a638fa624</doc>
 	</docs>
 </clus>
 
 <clus id="241">
 	<feature>神秘代码 红包 比如说 付款 结账 聊天 串神秘 解锁 </feature>
 	<docs num="1">
-		<doc>49ccd2e8-fdb0-4e9f-a35b-ef2f00b51404</doc>
+		<doc>a79f1ee5-a782-4703-997e-c7416e5a2750</doc>
 	</docs>
 </clus>
 
 <clus id="242">
 	<feature>圣诞快乐 快乐 圣诞 </feature>
 	<docs num="1">
-		<doc>a4877c86-4eca-4b0e-bcc3-42d19a6a7488</doc>
+		<doc>fddd6c9c-e30d-4126-bbad-ff31b971cd76</doc>
 	</docs>
 </clus>
 
 <clus id="243">
 	<feature>思佳 本科 宝宝 调剂 分数 简历 面试 名额 学校 </feature>
 	<docs num="1">
-		<doc>36e3c35f-1667-4fcf-bbc2-2e17b5140059</doc>
+		<doc>50f4ece0-8711-40e7-9407-8b1fc3a4c46a</doc>
 	</docs>
 </clus>
 
 <clus id="244">
 	<feature>蜗牛小小 双胞胎 蜗牛 小小 学长 </feature>
 	<docs num="1">
-		<doc>53ae6a23-874d-43d8-82a1-cf3d1b519279</doc>
+		<doc>7f9c540a-5728-4414-845b-7d07b70bb464</doc>
 	</docs>
 </clus>
 
 <clus id="245">
 	<feature>兵哥哥 勾搭 美女 </feature>
 	<docs num="1">
-		<doc>9dbb766d-ed31-4517-9989-41bf501ccfcc</doc>
+		<doc>b9da1975-a2fd-4f7c-93c2-57d4f1a7cc4b</doc>
 	</docs>
 </clus>
 
 <clus id="246">
 	<feature>常住户口 计划生育 居住地 机动车 出具 出入境 代为 监护人 近亲 </feature>
 	<docs num="1">
-		<doc>0b69cde1-1edb-47fe-ac8f-b0a21e6c3715</doc>
+		<doc>bdc663ac-81af-413f-9bd5-7799eebcacd9</doc>
 	</docs>
 </clus>
 
 <clus id="247">
 	<feature>醼羔 醼醼 醼横醼 醼贬醼 醼丰醼 醼羔醼 醼踞醼 竈醼 贯醼 篰醼 </feature>
 	<docs num="1">
-		<doc>ef3d3e46-0514-481a-9b53-c5caa0e6f4f2</doc>
+		<doc>f395b34d-9d3d-4513-9608-f2c056649772</doc>
 	</docs>
 </clus>
 
 <clus id="248">
 	<feature>秀秀 </feature>
 	<docs num="1">
-		<doc>23e8041c-bd90-48ac-9b4f-919be29d50eb</doc>
+		<doc>b061fa66-bca1-4bd7-9132-508ec23db258</doc>
 	</docs>
 </clus>
 
 <clus id="249">
 	<feature>充磁 </feature>
 	<docs num="1">
-		<doc>613c789e-55d6-493f-b425-f94c0584cb55</doc>
+		<doc>7bd209d4-ac7f-4aef-aab5-ae00fc950e90</doc>
 	</docs>
 </clus>
 
 <clus id="250">
 	<feature>覊覊 只争朝夕 群聊 </feature>
 	<docs num="1">
-		<doc>c02fc203-bd32-41ee-94fa-badc22f4b630</doc>
+		<doc>d6435fc9-36a5-447c-b221-49a726466219</doc>
 	</docs>
 </clus>
 
 <clus id="251">
 	<feature>淘气值 瓜分 红包 手机 浏览器 击链 淘宝 </feature>
 	<docs num="1">
-		<doc>2404e428-d579-4ad2-a286-db8fb8f56370</doc>
+		<doc>1a1a0fdd-aad8-4d03-aa13-a7b4942f8f38</doc>
 	</docs>
 </clus>
 
 <clus id="252">
 	<feature>赞喽 喽赞 </feature>
 	<docs num="1">
-		<doc>6d1ce44a-84ed-4a75-93ea-4a795d28c032</doc>
+		<doc>2df4a541-64ab-4765-aff8-cb075f24f57e</doc>
 	</docs>
 </clus>
 
 <clus id="253">
 	<feature>赵轩 定金 高强 郭帅 洁郭 邵洁 帅石 轩邵 </feature>
 	<docs num="1">
-		<doc>1cc5f1de-47c7-4d44-aa21-c32ed5a255fc</doc>
+		<doc>b963b425-e408-473a-8ea0-99182706a10e</doc>
 	</docs>
 </clus>
 
 <clus id="254">
 	<feature> 快乐 </feature>
 	<docs num="1">
-		<doc>0347a225-dac4-4924-9028-b8178ddb6898</doc>
+		<doc>7c0885a3-551a-4591-b197-8027ad3a9b18</doc>
 	</docs>
 </clus>
 
 <clus id="255">
 	<feature> 平安 快乐 圣诞快乐 顺意 心想事成 意 家人 圣诞 </feature>
 	<docs num="1">
-		<doc>095070ec-9eab-4def-8347-a9f7f95c80b0</doc>
+		<doc>9307f83b-8a5c-45ef-893c-0b7d80863f37</doc>
 	</docs>
 </clus>
 
 <clus id="256">
 	<feature> </feature>
 	<docs num="1">
-		<doc>e9264cd9-fd6a-40a4-934d-7872c84954b7</doc>
+		<doc>33831106-22c1-458e-a6c2-334f9a9a57e3</doc>
 	</docs>
 </clus>
 
 <clus id="257">
 	<feature>众众 </feature>
 	<docs num="1">
-		<doc>f0663ffe-830d-4226-a20a-661fda673f61</doc>
+		<doc>f3aa7fee-a266-4fc5-877d-a7780b5bbeee</doc>
 	</docs>
 </clus>
 
 <clus id="258">
 	<feature>粥盐 盐鈥 </feature>
 	<docs num="1">
-		<doc>7dec5a5a-2dcd-4bda-9032-3c04a0562207</doc>
+		<doc>9eb6abb1-822d-4e0f-a2d2-8386a8165908</doc>
 	</docs>
 </clus>
 
 <clus id="259">
 	<feature>曹娥 端午节 安康 快乐 悲壮 祭祀 钱塘江 清明节 屈原 </feature>
 	<docs num="1">
-		<doc>170e3629-3957-40e2-b2d9-8c5126a606c6</doc>
+		<doc>12e8429d-43ae-4402-ba85-cc99a5586579</doc>
 	</docs>
 </clus>
 
 <clus id="260">
 	<feature>王梓 梓凯 </feature>
 	<docs num="1">
-		<doc>55e0db4a-3d6f-43bd-84b5-e2738bae0e23</doc>
+		<doc>d882bfe5-b6fb-42e6-8416-027a4653f7d0</doc>
 	</docs>
 </clus>
 
